@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryce-Raffles-iMac" Modified="2015-12-21 00:21:25 -0800" ModID="8E2BC3D7-1851-4E51-8EC7-89CCCC3CEAC7">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2015-12-22 11:50:53 -0800" ModID="4787D38D-EE8F-4032-935B-A1E32BB90C86">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2015-06-28 14:17:36 -0700">
             <Title>Dead London</Title>
@@ -993,6 +993,16 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem ID="903" UUID="6D7A3492-2465-4C2C-852E-BD4C0787B054" Type="Folder" Created="2015-12-22 11:50:42 -0800" Modified="2015-12-22 11:50:52 -0800">
+                            <Title>Chapter 23</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -5814,8 +5824,8 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">80000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">1000</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2015-12-22 11:24:45 -0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2015-12-22 11:50:14 -0800"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
-    <PrintSettings PaperSize="595.289978,841.890015" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
