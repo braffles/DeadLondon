@@ -6036,7 +6036,7 @@ External Conflicts:	 	Anthony Tidkins wishes to create a two-stage cure for deat
 	Notes:	</Text>
         </Document>
         <Document ID="792">
-            <Title>The Widow with the Burning Brain</Title>
+            <Title>The Widow who Played With Fire</Title>
             <Synopsis>Story of Mrs. Hatton</Synopsis>
         </Document>
         <Document ID="826">
@@ -6173,9 +6173,6 @@ Internal Conflicts:
 
 	Notes:	</Text>
         </Document>
-        <Document ID="681">
-            <Title>Penny Dreadfuls</Title>
-        </Document>
         <Document ID="937">
             <Title>Scene 74</Title>
             <Synopsis>Roderick visits the Grimmer Company, looking for Mrs. Grimmer.</Synopsis>
@@ -6213,6 +6210,9 @@ Finally, just as Roderick was beginning to suspect that the elevator was actuall
 He wanted to stop anyone from following him down here, but he didn’t want to destroy his only means of egress. So while it occurred to him to tamper with the elevator, he decided he would have to leave it. Which meant that he would have to hurry. He stepped out of the elevator, gave a cursory glance over the office, and headed for the door.</Text>
             <Comments>Heavily revised scene, this part definitely needs to be updated.</Comments>
             <Notes>Requires extensive revision</Notes>
+        </Document>
+        <Document ID="681">
+            <Title>Penny Dreadfuls</Title>
         </Document>
         <Document ID="793">
             <Title>The Boy Who Was Immune to Gravity</Title>
@@ -6327,6 +6327,34 @@ Jonathan sighed. “Yes, I suppose we are.”
             <Comments>It's strange that there is a dead man, the host, in the same room they are conversing in. Maybe have some action to break up the conversation?
 
 What a bad bitch! :D</Comments>
+        </Document>
+        <Document ID="938">
+            <Title>Scene i</Title>
+            <Text>Jonathan hastened to keep pace with his friends, who had slipped between a pair of tall trees and slid down the muddy slope that led down to the river. His mother had warned him not to stray too far from the house, but Jonathan had never felt particularly inclined to listen to her, especially when doing so might interfere with an adventure.
+It was raining, as it often was, so the slope was slick, but Jonathan could hear his friends’ voices ahead of him. He pushed off at the top of the hill and let his momentum carry him down. He took off running when he reached the bottom, though the ground was just as slick there as it had been along the slope, and more than once he nearly lost his balance and tumbled into the mud. His mother would be furious. His clothes were ruined.
+The dots in the distance quickly resolved into the familiar shapes of his friends. Harry, the son of a butcher, who had earned a reputation for being somewhat of a bully and a tyrant. And James, whose father’s gruesome murder a few years after James’ birth had been the talk of the town for years, and who himself had become quite the clever pickpocket. Whether it was because of his father’s murder or some other cause, James hardly ever spoke a word, though Jonathan would often catch him in fits of laughter.
+He had been warned to stay away from this pair. His mother called them common. She used other names to describe them too, some of them less kind: urchins, vandals, ruffians, scoundrels. Whatever she called them, it only made Jonathan want to spend more time with them. He knew how it drove her mad. Jonathan was supposed to be upper class, but he found other upper class children tiresome.
+At low tide the mud that lined the Thames was often tinted red by countless worms, which lived in the river. Harry, with a laugh, had bent down to scoop up a few handfuls of the reddened mud, unearthing dozens of these so-called blood worms, aptly named due to their reddish colour. Harry’s hands were coated in mud, some of which had slopped onto his trousers, not that anyone would notice the additional dirt. Harry lived in a constant state of filth. The blood worms wriggled in his hands.
+“Disgusting,” said Jonathan. “What are they?”
+“Noodles,” said Harry. With a laugh, he mimed eating them. Mud dripped from his hands, and some of the worms wriggled free and fell to the ground.
+Jonathan’s stomach churned.
+“I dare you to eat one,” said James, suddenly.
+Jonathan and Harry both stared at him in silence. Harry recovered first. “Let John do it,” he said, holding out his hands to Jonathan.
+James shrugged and looked at Jonathan.
+His expression must have been one of horror, but they were staring at him expectantly. Jonathan never turned away from a dare. His mother would wring his neck, of course, but he wasn’t about to back down. He didn’t wish to get any more dirt on his trousers though, so he was careful as he leaned forward and looked at the blood worms in Harry’s outstretched hands. He picked out the smallest one.
+“Alright,” he said, forcing a smile.
+He lifted the worm above his head and opened his mouth. His stomach made a noise. James began giggling, while Henry started clucking like a chicken.
+The worm dangled above his head, and Jonathan looked at him, annoyed. Mud dripped onto his cheek, and he wiped it away with the back of his hand.
+“I’ll do it,” he said defiantly. He raised the worm above his mouth again, tilted his head back, and opened wide. “Down the hatch,” he said, and let the worm fall into his mouth.
+He could feel it wriggling. It tasted like dirt. He felt sick, but he forced himself to try to swallow. It caught in his throat.
+Choking, he tried to cough the thing back up, but it was stuck somehow, balled up in his throat. His hands went to his throat, and he tried to force it back up.
+His breath came out in wet gurgles. His lungs began to ache, and his eyes went wide. He’d never felt so frightened. He was going to die, he was sure of it. This was how his life would end, with a foolish dare.
+His friends were turning into hazy blotches of light. Dizzily, he reached out his hands, but they moved away from him. He blacked out.</Text>
+            <Comments>I feel like this is choppy and combined 4 sentences into 2. Maybe divide them up by description and then action?
+Using And in the beginning of a sentence is tough! It works until the second part of the second where you put, 'and who himself.' I would divide up into two sentences as well.
+Were these fits of laughter something that happened out of nowhere or were they triggered from jokes between friends? What did Jonathan think of this?
+The comment about the red worms being called blood worms should be mentioned first, perhaps? It felt like an afterthought to me.
+How long was the silence? A few seconds? A few agonizing minutes?</Comments>
         </Document>
         <Document ID="682">
             <Title>Spring-Heeled Jack</Title>
@@ -6677,36 +6705,8 @@ Text is available under the Creative Commons Attribution-ShareAlike License; add
 Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersMobile view 
 </Text>
         </Document>
-        <Document ID="938">
-            <Title>Scene i</Title>
-            <Text>Jonathan hastened to keep pace with his friends, who had slipped between a pair of tall trees and slid down the muddy slope that led down to the river. His mother had warned him not to stray too far from the house, but Jonathan had never felt particularly inclined to listen to her, especially when doing so might interfere with an adventure.
-It was raining, as it often was, so the slope was slick, but Jonathan could hear his friends’ voices ahead of him. He pushed off at the top of the hill and let his momentum carry him down. He took off running when he reached the bottom, though the ground was just as slick there as it had been along the slope, and more than once he nearly lost his balance and tumbled into the mud. His mother would be furious. His clothes were ruined.
-The dots in the distance quickly resolved into the familiar shapes of his friends. Harry, the son of a butcher, who had earned a reputation for being somewhat of a bully and a tyrant. And James, whose father’s gruesome murder a few years after James’ birth had been the talk of the town for years, and who himself had become quite the clever pickpocket. Whether it was because of his father’s murder or some other cause, James hardly ever spoke a word, though Jonathan would often catch him in fits of laughter.
-He had been warned to stay away from this pair. His mother called them common. She used other names to describe them too, some of them less kind: urchins, vandals, ruffians, scoundrels. Whatever she called them, it only made Jonathan want to spend more time with them. He knew how it drove her mad. Jonathan was supposed to be upper class, but he found other upper class children tiresome.
-At low tide the mud that lined the Thames was often tinted red by countless worms, which lived in the river. Harry, with a laugh, had bent down to scoop up a few handfuls of the reddened mud, unearthing dozens of these so-called blood worms, aptly named due to their reddish colour. Harry’s hands were coated in mud, some of which had slopped onto his trousers, not that anyone would notice the additional dirt. Harry lived in a constant state of filth. The blood worms wriggled in his hands.
-“Disgusting,” said Jonathan. “What are they?”
-“Noodles,” said Harry. With a laugh, he mimed eating them. Mud dripped from his hands, and some of the worms wriggled free and fell to the ground.
-Jonathan’s stomach churned.
-“I dare you to eat one,” said James, suddenly.
-Jonathan and Harry both stared at him in silence. Harry recovered first. “Let John do it,” he said, holding out his hands to Jonathan.
-James shrugged and looked at Jonathan.
-His expression must have been one of horror, but they were staring at him expectantly. Jonathan never turned away from a dare. His mother would wring his neck, of course, but he wasn’t about to back down. He didn’t wish to get any more dirt on his trousers though, so he was careful as he leaned forward and looked at the blood worms in Harry’s outstretched hands. He picked out the smallest one.
-“Alright,” he said, forcing a smile.
-He lifted the worm above his head and opened his mouth. His stomach made a noise. James began giggling, while Henry started clucking like a chicken.
-The worm dangled above his head, and Jonathan looked at him, annoyed. Mud dripped onto his cheek, and he wiped it away with the back of his hand.
-“I’ll do it,” he said defiantly. He raised the worm above his mouth again, tilted his head back, and opened wide. “Down the hatch,” he said, and let the worm fall into his mouth.
-He could feel it wriggling. It tasted like dirt. He felt sick, but he forced himself to try to swallow. It caught in his throat.
-Choking, he tried to cough the thing back up, but it was stuck somehow, balled up in his throat. His hands went to his throat, and he tried to force it back up.
-His breath came out in wet gurgles. His lungs began to ache, and his eyes went wide. He’d never felt so frightened. He was going to die, he was sure of it. This was how his life would end, with a foolish dare.
-His friends were turning into hazy blotches of light. Dizzily, he reached out his hands, but they moved away from him. He blacked out.</Text>
-            <Comments>I feel like this is choppy and combined 4 sentences into 2. Maybe divide them up by description and then action?
-Using And in the beginning of a sentence is tough! It works until the second part of the second where you put, 'and who himself.' I would divide up into two sentences as well.
-Were these fits of laughter something that happened out of nowhere or were they triggered from jokes between friends? What did Jonathan think of this?
-The comment about the red worms being called blood worms should be mentioned first, perhaps? It felt like an afterthought to me.
-How long was the silence? A few seconds? A few agonizing minutes?</Comments>
-        </Document>
         <Document ID="794">
-            <Title>The Man Who Was Somewhat Dead</Title>
+            <Title>The Boy Who Died</Title>
         </Document>
         <Document ID="350">
             <Title>Scene Four</Title>
@@ -6863,9 +6863,6 @@ A moment later, she abandoned the stag mask, replaced her own, and made her way 
             <Comments>There is a pattern I'm noticing with how you describe characters and rooms. Maybe break it up a bit? Reveal slowly the hotness that is Jonathan? Maybe Annabel notices certain things as they clean up the mess?
 Does this mean she can see the names on the ship? Has Mr. O given himself away?</Comments>
         </Document>
-        <Document ID="683">
-            <Title>Wikipedia Links</Title>
-        </Document>
         <Document ID="939">
             <Title>Scene ii</Title>
             <Text>There was a man with a bird’s face standing at the side of his bed. Behind him, a pale white boy with blonde hair, about his own age or perhaps a few years older, stood against the wall, looking shyly back. Jonathan offered up a smile, but the boy turned away from him, busying himself with his work. He had a jar of leeches in one hand and the doctor’s kit in the other. He set the jar down on the table beside the doctor.
@@ -6888,6 +6885,9 @@ She screamed, pressed down on her neck with both hands and stumbled about in con
 “Get a bandage, boy,” he instructed, “Stop the bleeding.”
 Jonathan watched the scene impassively. He knew this girl might die, and he knew that it was his fault. He should feel guilty. But he had meat in his mouth, and it was warm and sweet.</Text>
             <Comments>Maybe show some of his inner monologue? He feels like a caged animal?</Comments>
+        </Document>
+        <Document ID="683">
+            <Title>Wikipedia Links</Title>
         </Document>
         <Document ID="97">
             <Title>Dr. Allen</Title>
@@ -6925,7 +6925,7 @@ Formerly known as Dr. James Vane, George Allen is a pseudonym. Like Anthony Tidk
             <Title>Notes</Title>
         </Document>
         <Document ID="795">
-            <Title>The Man with the Jars of Hearts</Title>
+            <Title>The Man with the Mason Jars</Title>
             <Synopsis>Mason Jar Man</Synopsis>
         </Document>
         <Document ID="829">
@@ -7470,7 +7470,7 @@ Modern airships moor to a mast by the nose of the gasbag, because that’s ho
 If he had the wind knocked out of him, maybe he was struggling for breath as he spoke?</Comments>
         </Document>
         <Document ID="797">
-            <Title>The Man Who Feared the Sun</Title>
+            <Title>The Green Hour</Title>
         </Document>
         <Document ID="353">
             <Title>Scene One</Title>
@@ -7990,37 +7990,6 @@ Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersMobile view
         <Document ID="40">
             <Title>Paperback Novel</Title>
         </Document>
-        <Document ID="830">
-            <Title>Scene One</Title>
-            <Text>Jonathan made his way up the driveway to the entrance of the building, as the Penny Dreadful rose into the air again after expelling some of the water from its ballasts.
-He climbed the small flight of stairs and headed inside.
-The almost-musical clang of the printing press resonated down the hall, signalling that the day’s operations had already begun. There was a hum of activity, which shouldn’t have surprised Jonathan, given the events of last night at Lord Connor’s masquerade. He swept through the lobby, giving a brusque nod to the receptionist as he headed toward the door.
-“Mr. Grimmer,” the receptionist called.
-He paused at the door and turned around.
-“Mrs. Thompson?”
-“It’s good you’re here,” she said. “I trust you heard about what happened last night at Lord Connor’s?”
-Jonathan nodded.
-“Yes,” he told her. “I was there, actually.”
-Mrs. Thompson visibly paled. “Good god!” she cried, “And you’re alright? Mr. Grimmer, you do know that you’re one of the only survivors, don’t you?”
-Jonathan blinked at her in surprise.
-“What do you mean?”
-The receptionist grabbed a newspaper off her desk and showed him the front cover.
-“We printed this first thing in the morning. Sorry, sir, Mr. Palmer insisted that we couldn’t wait for you to arrive; we didn’t know when you’d be in. We did send a telegram. I assumed you’d gotten it.”
-Jonathan shook his head, and took the newspaper. He read the headline, then turned to the article. He quickly skimmed its contents.
-“I must have left before this all happened,” he said, scarcely able to believe what he was reading.
-He thought of Roderick, who had gone to Connor’s to investigate Connor’s death. Instead, he would find a house filled with corpses. He shuddered, and thought of Mr. Monday, the thief he’d met in Connor’s study. He wondered if Monday had gotten out alive.
-“I need to speak with Palmer,” said Jonathan, excusing himself and heading to the door.
-Again, Mrs. Thompson stopped him in his tracks.
-“There’s one more thing,” she said.
-Jonathan turned around and inclined his head toward her.
-“There was someone here looking for you,” she said.
-Jonathan felt a chill creep over his flesh. Had the Resurrectionists found him already? He felt foolish for coming here. He should have stayed afloat in the safety of the Penny Dreadful. He swallowed the lump in his throat. “Who was it? What did they want?”
-“A lady,” said Mrs. Thompson, and Jonathan felt a momentary relief. Then he realized that there might just as well be women among the Resurrectionists. “She didn’t say what she wanted, only that she was looking for you. When I went to check your office, she left.”
-Jonathan nodded. It certainly sounded like suspicious behaviour. He felt even more certain that this mystery woman was a Resurrectionist.
-“I don’t suppose you got a name?” he asked.
-Mrs. Thompson nodded happily.
-“Miss Monday.”</Text>
-        </Document>
         <Document ID="941">
             <Title>Scene 75</Title>
             <Text>Annabel Grey, better known as Miss Monday, crept along the hallway of the Resurrectionists’ underground headquarters in the basement of the printing company. Once a research facility for the monster hunters in Charles Grimmer's employ, it was now a sanctuary for the Resurrectionists, monsters themselves. Annabel had to remind herself that not all of the scientists were willing accomplices to Anthony Tidkins’ plot. Those who betrayed him were, like Lord Henry Connor, dealt with mercilessly. The scientists were under Tidkins' thumb. They had little choice but to do as he said. Still, if it came down to it, she wouldn’t hesitate to kill them. If it couldn’t be helped.
@@ -8074,6 +8043,37 @@ He began to sob.
 Annabel almost felt sorry for him. After all, the man had been brainwashed by Jack’s serum. He might have been a good man, before that.
 “What about it?”
 “The radio controller…” Jekyll said again, looking at Annabel out of the corner of his eye. “It’s already been activated.”</Notes>
+        </Document>
+        <Document ID="830">
+            <Title>Scene One</Title>
+            <Text>Jonathan made his way up the driveway to the entrance of the building, as the Penny Dreadful rose into the air again after expelling some of the water from its ballasts.
+He climbed the small flight of stairs and headed inside.
+The almost-musical clang of the printing press resonated down the hall, signalling that the day’s operations had already begun. There was a hum of activity, which shouldn’t have surprised Jonathan, given the events of last night at Lord Connor’s masquerade. He swept through the lobby, giving a brusque nod to the receptionist as he headed toward the door.
+“Mr. Grimmer,” the receptionist called.
+He paused at the door and turned around.
+“Mrs. Thompson?”
+“It’s good you’re here,” she said. “I trust you heard about what happened last night at Lord Connor’s?”
+Jonathan nodded.
+“Yes,” he told her. “I was there, actually.”
+Mrs. Thompson visibly paled. “Good god!” she cried, “And you’re alright? Mr. Grimmer, you do know that you’re one of the only survivors, don’t you?”
+Jonathan blinked at her in surprise.
+“What do you mean?”
+The receptionist grabbed a newspaper off her desk and showed him the front cover.
+“We printed this first thing in the morning. Sorry, sir, Mr. Palmer insisted that we couldn’t wait for you to arrive; we didn’t know when you’d be in. We did send a telegram. I assumed you’d gotten it.”
+Jonathan shook his head, and took the newspaper. He read the headline, then turned to the article. He quickly skimmed its contents.
+“I must have left before this all happened,” he said, scarcely able to believe what he was reading.
+He thought of Roderick, who had gone to Connor’s to investigate Connor’s death. Instead, he would find a house filled with corpses. He shuddered, and thought of Mr. Monday, the thief he’d met in Connor’s study. He wondered if Monday had gotten out alive.
+“I need to speak with Palmer,” said Jonathan, excusing himself and heading to the door.
+Again, Mrs. Thompson stopped him in his tracks.
+“There’s one more thing,” she said.
+Jonathan turned around and inclined his head toward her.
+“There was someone here looking for you,” she said.
+Jonathan felt a chill creep over his flesh. Had the Resurrectionists found him already? He felt foolish for coming here. He should have stayed afloat in the safety of the Penny Dreadful. He swallowed the lump in his throat. “Who was it? What did they want?”
+“A lady,” said Mrs. Thompson, and Jonathan felt a momentary relief. Then he realized that there might just as well be women among the Resurrectionists. “She didn’t say what she wanted, only that she was looking for you. When I went to check your office, she left.”
+Jonathan nodded. It certainly sounded like suspicious behaviour. He felt even more certain that this mystery woman was a Resurrectionist.
+“I don’t suppose you got a name?” he asked.
+Mrs. Thompson nodded happily.
+“Miss Monday.”</Text>
         </Document>
         <Document ID="136">
             <Title>Trafalgar Square</Title>
@@ -8509,24 +8509,12 @@ ISBN-13:
 </Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
-        <Document ID="831">
-            <Title>Scene 36</Title>
-            <Text>There was a ratcheting sound from above and a thunderous boom from deep below. It seemed as if the floor was rising, moving up with surprising speed with the grating sound of grinding metal and slowly revolving gears.
-As the elevator shuddered and rattled, the floor continued to rise, and she plunged into near darkness, the only light being the gas lantern above her head, and it suddenly seemed as if she was descending into Hell. All that she could see was the cage-like walls of the elevator, and the machinery of its workings, which propelled her downward. She had no idea what she’d find at the bottom of the shaft.
-She lost track of how many stories she’d descended. Her ears popped uncomfortably. She could see a distant light above her, from Palmer’s office. At last, the elevator reached the bottom. She was in an office.
-It was nearly identical to the one upstairs.
-She managed to release the latch of the elevator’s gate, and exited the claustrophobic space. Her hand hovered near her gun holster, which was concealed beneath a few layers of her skirt, but the office was empty. Her nerves began to settle as she looked around the office.
-This office had curtains over the windows, like the one upstairs, though she suspected that if she were to pull them aside, she’d be looking at a bare wall. Still, they provided the comforting illusion that she was not several stories underground. The desk in this office was clearly used regularly. It was covered in scratches, tea stains, and loosely organised sheets of dog-eared and crumpled papers. Annabel skimmed through some of the documents at the top of the pile as she perused the office.
-She headed to the door and peered through the pane of glass. The coast appeared to be clear, but she cracked open the door and was careful as she leaned out for a second look. A moment later, she was heading down the hall.
-The hallway was brightly lit by lamps in sconces along the wall, and there were no alcoves and no supply closets for her to duck into if she was caught down here. There was a series of doors along the hallway, labeled, like the office doors upstairs, with nameplates.
-Abraham Palmer, said the first nameplate. Mrs. Elizabeth Grimmer, said another.
-Mr. O’s mother, Annabel thought. She still wasn’t accustomed to thinking of him as Jonathan Grimmer.
-What was this underground hideout? Could she really have just discovered the secret hideout of the Resurrectionists? If so, what did the Grimmers have to do with the Resurrectionists? A shared agenda, perhaps? A zombie plague spreading through the city should certainly sell a few newspapers, she thought.
-She passed another door. Dr. Robert Miles, Engineer. She tried the door; it was locked, like the others. She could have picked the lock, but she didn’t want to spend too much time out in the open. Better if she could find an unlocked door.
-The next one over was not labelled with the name of any person. It was simply called Alpha Laboratory. She tried the door, and it swung open, much to Annabel’s surprise.
-The room was unlit, and appeared to be empty. Annabel entered the room, closing the door behind her. She began lighting the room’s lamps. Even before she’d finished her task, she’d caught a glimpse of an image that would undoubtedly haunt her dreams that night and for nights to come.
-She choked back a cry of horror as she stared at an enormous, cylindrical fish tank of thick glass, which stood on one side of the room, the contents of the tank becoming more clear as each new lamp cast light upon the room.
-“Oh dearest God in heaven,” she said under her breath, “What in the fuck is that?”</Text>
+        <Document ID="942">
+            <Title>Chapter 34</Title>
+            <Text>“Anthony Tidkins was dressed in a most miserable manner… He was thin and emaciated; his eyes were sunken; his cheeks hollow; and his entire countenance more cadaverous and ghastly than ever.”
+
+- The Mysteries Of London
+</Text>
         </Document>
         <Document ID="137">
             <Title>Picadilly Circus</Title>
@@ -8758,15 +8746,27 @@ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-p
 Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersMobile view 
 </Text>
         </Document>
+        <Document ID="831">
+            <Title>Scene 36</Title>
+            <Text>There was a ratcheting sound from above and a thunderous boom from deep below. It seemed as if the floor was rising, moving up with surprising speed with the grating sound of grinding metal and slowly revolving gears.
+As the elevator shuddered and rattled, the floor continued to rise, and she plunged into near darkness, the only light being the gas lantern above her head, and it suddenly seemed as if she was descending into Hell. All that she could see was the cage-like walls of the elevator, and the machinery of its workings, which propelled her downward. She had no idea what she’d find at the bottom of the shaft.
+She lost track of how many stories she’d descended. Her ears popped uncomfortably. She could see a distant light above her, from Palmer’s office. At last, the elevator reached the bottom. She was in an office.
+It was nearly identical to the one upstairs.
+She managed to release the latch of the elevator’s gate, and exited the claustrophobic space. Her hand hovered near her gun holster, which was concealed beneath a few layers of her skirt, but the office was empty. Her nerves began to settle as she looked around the office.
+This office had curtains over the windows, like the one upstairs, though she suspected that if she were to pull them aside, she’d be looking at a bare wall. Still, they provided the comforting illusion that she was not several stories underground. The desk in this office was clearly used regularly. It was covered in scratches, tea stains, and loosely organised sheets of dog-eared and crumpled papers. Annabel skimmed through some of the documents at the top of the pile as she perused the office.
+She headed to the door and peered through the pane of glass. The coast appeared to be clear, but she cracked open the door and was careful as she leaned out for a second look. A moment later, she was heading down the hall.
+The hallway was brightly lit by lamps in sconces along the wall, and there were no alcoves and no supply closets for her to duck into if she was caught down here. There was a series of doors along the hallway, labeled, like the office doors upstairs, with nameplates.
+Abraham Palmer, said the first nameplate. Mrs. Elizabeth Grimmer, said another.
+Mr. O’s mother, Annabel thought. She still wasn’t accustomed to thinking of him as Jonathan Grimmer.
+What was this underground hideout? Could she really have just discovered the secret hideout of the Resurrectionists? If so, what did the Grimmers have to do with the Resurrectionists? A shared agenda, perhaps? A zombie plague spreading through the city should certainly sell a few newspapers, she thought.
+She passed another door. Dr. Robert Miles, Engineer. She tried the door; it was locked, like the others. She could have picked the lock, but she didn’t want to spend too much time out in the open. Better if she could find an unlocked door.
+The next one over was not labelled with the name of any person. It was simply called Alpha Laboratory. She tried the door, and it swung open, much to Annabel’s surprise.
+The room was unlit, and appeared to be empty. Annabel entered the room, closing the door behind her. She began lighting the room’s lamps. Even before she’d finished her task, she’d caught a glimpse of an image that would undoubtedly haunt her dreams that night and for nights to come.
+She choked back a cry of horror as she stared at an enormous, cylindrical fish tank of thick glass, which stood on one side of the room, the contents of the tank becoming more clear as each new lamp cast light upon the room.
+“Oh dearest God in heaven,” she said under her breath, “What in the fuck is that?”</Text>
+        </Document>
         <Document ID="359">
             <Title>Miss Monday and The Quartermaster do not see eye to eye</Title>
-        </Document>
-        <Document ID="942">
-            <Title>Chapter 34</Title>
-            <Text>“Anthony Tidkins was dressed in a most miserable manner… He was thin and emaciated; his eyes were sunken; his cheeks hollow; and his entire countenance more cadaverous and ghastly than ever.”
-
-- The Mysteries Of London
-</Text>
         </Document>
         <Document ID="43">
             <Title>Dedication</Title>
@@ -8793,15 +8793,58 @@ Insert dedication here.</Text>
 </Text>
             <Notes>Night</Notes>
         </Document>
-        <Document ID="832">
-            <Title>flashback</Title>
-            <Text>It was smell of baking bread that brought Annabel back.
-She was a little girl again, creeping through the windows of the baker’s shop, seizing the largest loaf with her little grubby hands while her accomplice hoisted her up. The loaf was hot and it burned her hands, but little Annabel was starving, so she refused to drop it. Even when the baker spotted her.
-“Get me down!” she shouted down to her friend.
-A moment later, they were running through the streets, tearing the loaf into even as they bobbed between street vendors and passing cabriolets, wolfing down the steaming hot bread even as a policeman caught sight of them and hollered after them.
-They ducked into an alleyway, tore past blind beggars, butchers, fishmongers and women offering up their bodies for little more than pennies. The policeman was left behind as easily as the baker had been. At last, hearts pounding, Annabel stopped, leaned against a brick building, and tore into the loaf of bread.
-“Mm,” she said grinning around the mouthful of warm bread. “Told you it’d be easy,” she said.
-“Sure,” her friend replied, wheezing still from the mad dash through the busy streets of London. “Easy.”</Text>
+        <Document ID="943">
+            <Title>Scene 76</Title>
+            <Text>Annabel turned to Abraham.
+“Did you know?” she demanded.
+“Know what?”
+She holstered her pistol, but kept a firm grip on the scientist and kept the other boffins in her sight. Threat lingered in her eyes, and they kept their wary distance. These were doctors, not soldiers. Even if they were brainwashed, they seemed likely not to intervene so long as she retained the upper hand.
+“That we would be too late,” she said to Abraham. “I knew not to trust that wretched woman.”
+“Mrs. Grimmer?”
+“She knew, didn’t she?” Annabel insisted. “She sent Steen, Hatton, and Oceleot to Trafalgar Square; Merrick, Ashcroft, and Lockwood to Hyde Park; and she went to Borough Market. Each of the sites where the Lazarus Virus was to be spread. But it was a wild goose chase, because she sent them there too late. And as for us, she led the pair of us straight into the den of snakes. She’s been with them all along, Mr. Palmer.”
+Abraham shook his head.
+“Nah,” he said. “Mrs. Grimmer’s still on your side.”
+“You mean our side?”
+Again, Abraham shook his head.
+“Your side.”
+He took a step back. Annabel reached for her gun, but it was missing from her holster. She looked down and found the gun, in Mr. Palmer’s hand.
+“But you’re not brainwashed,” she said, dumbfounded. “Why would you…?”
+“How do you know? Because my brain’s not scrambled like his? Memory loss isn’t even a side effect. Look, notice these red marks on his skin? Physical evidence is the only clear sign that someone’s under the influence of the serum.”
+Annabel shook her head in disbelief. She'd made the stupid assumption of thinking that Simms' scrambled brain was a result of being brainwashed. And she'd trusted Grimmer because he didn't have that symptom, so she'd assumed he wasn't brainwashed. Stupid of her to make assumptions.
+“So, are you?” she said.
+He shrugged.
+“I may be compromised, but not by any serum. I’m in it for the money and the immortality.”
+“You’re incorrigible,” she said. “You saved my life, helped me get out of this place. You shot at your fellow Resurrectionists. You took a bullet for me!”
+“Yes, well, that wasn’t the plan,” he admitted. “And I only saved you so I could get you out of the way. Turns out it worked quite nicely, if I may say so myself. Now that old Lazarus has been spread, there ain’t much use in pretending any more, is there?”
+“So what happens now? Are you going to kill me?”
+“Guess we’ll see what Mr. Tidkins wants to do with you. Maybe we’ll ship you off to Chateau D’If.”
+He gestured with the gun, directing her to the hallway. He closed the door behind him, keeping his gun trained on her all the while. But even with the gun pointed at her, this might be her best chance to regain control of the situation.
+She stepped towards him, sidestepping to anticipate his gunshot. As predicted, the gun went off, only narrowly missing her. She struck at his gun arm, and the weapon flew from his hand. She watched as it slid along the floor, well out of reach, and slammed her knee into Mr. Palmer’s gut. He doubled over, but she wasn’t finished with him yet. She followed up with an uppercut to his jaw, knocking a tooth loose.
+He spat blood onto the floor and retaliated with a right hook, catching her off guard. He struck her cheek, and she staggered back. Even as she was struggling to regain her balance, he hit her again, this time square in the eye. He hit her again, each blow more brutal than the last. She fell to the floor.
+She watched as he turned away from her, slowly, confidently making his way to the gun. She crawled to her feet.
+“I’m not finished with you yet,” she told him.
+He paused, turned around, and scoffed at her. Her lip was bloody, her eye was swollen. She looked like she could barely stand upright. He turned away, again going for the gun.
+She attacked while his back was turned, kicking him in the soft spot behind the knee. He hit the ground hard with one knee, and Annabel kicked him again, this time in the back. He fell flat on his face. She grabbed the gun, relieved to feel it in her hand.
+She stood up, aimed the gun at the back of Abraham’s skull, and cocked the pistol. But before she could pull the trigger, she heard a voice from behind her, muffled by a Resurrectionist’s mask but still recognisable. She kept her foot on Abraham’s back to keep him pinned to the floor, and looked over her shoulder. How he’d crept up on her so silently, she hadn’t the slightest idea, but she recognised him immediately. Her recognition did little to calm her.
+His mask still strapped to his head, but pulled up to sit upon his forehead instead of his face, he stood before her. Anthony Tidkins. The Resurrection Man. Scientist, leader of a the Murder Club. To the city of London, he was a scourge. To Annabel, he was just Jack.
+“Is it really too late?” she asked him.
+“For London, or for us?”
+He had taken off the mask, which he now held in one hand.
+“For London,” she replied. Careful not to let her emotion show, she looked him in the eye and with careful inflection, she told him, “It is most definitely too late for us.”
+He nodded.
+“Fair enough.”
+Perhaps she was mistaken, but she thought she detected a hint of regret in his pale red eyes, a note of sadness in his voice. Damn him, what did she care about his sadness, mass murderer that he was? She felt sick to think of what he had done.
+“It is too late for London as well,” he added.
+Her stomach clenched. She couldn’t understand why he’d done it. Jack had always had such endearing respect for life. Every life, precious, every single one. Even hers. That’s why he’d saved her all those years ago. Now he had destroyed a city of millions.
+“Why, Jack?” she asked him.
+“Because my father is dying,” he said simply.
+It took her only a moment.
+“Dr. Allen is your father?”
+“I was his bastard son,” he explained. “He and my mother gave me up for adoption. My adoptive parents were unable to have children of their own. When my mother died, my father came to resent me, as if it was somehow my fault. He sent me to live with Dr. Allen. He said it was because Dr. Allen was a renowned surgeon, and he wanted me to be trained by him, but we both knew that was a lie. I believed it was because he didn’t want me any more. It was only later, much later, that I learned the real reason I’d been sent to Dr. Allen. Yes, he is my real father.”
+“And you think this will save him?” Annabel asked.
+She returned her attention to Mr. Palmer, who was trying to get up. She kicked him in the back, and he grunted in pain. She looked again at Jack.
+Her hand was trembling, her vision unclear. She steeled herself. Before she could put further thought into it, she raised the pistol. Point blank, she aimed its muzzle at her oldest friend and put her finger on the trigger.</Text>
+            <Notes>Requires extensive revision</Notes>
         </Document>
         <Document ID="44">
             <Title>E-Book</Title>
@@ -8969,61 +9012,30 @@ Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-p
 Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersMobile view 
 </Text>
         </Document>
-        <Document ID="943">
-            <Title>Scene 76</Title>
-            <Text>Annabel turned to Abraham.
-“Did you know?” she demanded.
-“Know what?”
-She holstered her pistol, but kept a firm grip on the scientist and kept the other boffins in her sight. Threat lingered in her eyes, and they kept their wary distance. These were doctors, not soldiers. Even if they were brainwashed, they seemed likely not to intervene so long as she retained the upper hand.
-“That we would be too late,” she said to Abraham. “I knew not to trust that wretched woman.”
-“Mrs. Grimmer?”
-“She knew, didn’t she?” Annabel insisted. “She sent Steen, Hatton, and Oceleot to Trafalgar Square; Merrick, Ashcroft, and Lockwood to Hyde Park; and she went to Borough Market. Each of the sites where the Lazarus Virus was to be spread. But it was a wild goose chase, because she sent them there too late. And as for us, she led the pair of us straight into the den of snakes. She’s been with them all along, Mr. Palmer.”
-Abraham shook his head.
-“Nah,” he said. “Mrs. Grimmer’s still on your side.”
-“You mean our side?”
-Again, Abraham shook his head.
-“Your side.”
-He took a step back. Annabel reached for her gun, but it was missing from her holster. She looked down and found the gun, in Mr. Palmer’s hand.
-“But you’re not brainwashed,” she said, dumbfounded. “Why would you…?”
-“How do you know? Because my brain’s not scrambled like his? Memory loss isn’t even a side effect. Look, notice these red marks on his skin? Physical evidence is the only clear sign that someone’s under the influence of the serum.”
-Annabel shook her head in disbelief. She'd made the stupid assumption of thinking that Simms' scrambled brain was a result of being brainwashed. And she'd trusted Grimmer because he didn't have that symptom, so she'd assumed he wasn't brainwashed. Stupid of her to make assumptions.
-“So, are you?” she said.
-He shrugged.
-“I may be compromised, but not by any serum. I’m in it for the money and the immortality.”
-“You’re incorrigible,” she said. “You saved my life, helped me get out of this place. You shot at your fellow Resurrectionists. You took a bullet for me!”
-“Yes, well, that wasn’t the plan,” he admitted. “And I only saved you so I could get you out of the way. Turns out it worked quite nicely, if I may say so myself. Now that old Lazarus has been spread, there ain’t much use in pretending any more, is there?”
-“So what happens now? Are you going to kill me?”
-“Guess we’ll see what Mr. Tidkins wants to do with you. Maybe we’ll ship you off to Chateau D’If.”
-He gestured with the gun, directing her to the hallway. He closed the door behind him, keeping his gun trained on her all the while. But even with the gun pointed at her, this might be her best chance to regain control of the situation.
-She stepped towards him, sidestepping to anticipate his gunshot. As predicted, the gun went off, only narrowly missing her. She struck at his gun arm, and the weapon flew from his hand. She watched as it slid along the floor, well out of reach, and slammed her knee into Mr. Palmer’s gut. He doubled over, but she wasn’t finished with him yet. She followed up with an uppercut to his jaw, knocking a tooth loose.
-He spat blood onto the floor and retaliated with a right hook, catching her off guard. He struck her cheek, and she staggered back. Even as she was struggling to regain her balance, he hit her again, this time square in the eye. He hit her again, each blow more brutal than the last. She fell to the floor.
-She watched as he turned away from her, slowly, confidently making his way to the gun. She crawled to her feet.
-“I’m not finished with you yet,” she told him.
-He paused, turned around, and scoffed at her. Her lip was bloody, her eye was swollen. She looked like she could barely stand upright. He turned away, again going for the gun.
-She attacked while his back was turned, kicking him in the soft spot behind the knee. He hit the ground hard with one knee, and Annabel kicked him again, this time in the back. He fell flat on his face. She grabbed the gun, relieved to feel it in her hand.
-She stood up, aimed the gun at the back of Abraham’s skull, and cocked the pistol. But before she could pull the trigger, she heard a voice from behind her, muffled by a Resurrectionist’s mask but still recognisable. She kept her foot on Abraham’s back to keep him pinned to the floor, and looked over her shoulder. How he’d crept up on her so silently, she hadn’t the slightest idea, but she recognised him immediately. Her recognition did little to calm her.
-His mask still strapped to his head, but pulled up to sit upon his forehead instead of his face, he stood before her. Anthony Tidkins. The Resurrection Man. Scientist, leader of a the Murder Club. To the city of London, he was a scourge. To Annabel, he was just Jack.
-“Is it really too late?” she asked him.
-“For London, or for us?”
-He had taken off the mask, which he now held in one hand.
-“For London,” she replied. Careful not to let her emotion show, she looked him in the eye and with careful inflection, she told him, “It is most definitely too late for us.”
-He nodded.
-“Fair enough.”
-Perhaps she was mistaken, but she thought she detected a hint of regret in his pale red eyes, a note of sadness in his voice. Damn him, what did she care about his sadness, mass murderer that he was? She felt sick to think of what he had done.
-“It is too late for London as well,” he added.
-Her stomach clenched. She couldn’t understand why he’d done it. Jack had always had such endearing respect for life. Every life, precious, every single one. Even hers. That’s why he’d saved her all those years ago. Now he had destroyed a city of millions.
-“Why, Jack?” she asked him.
-“Because my father is dying,” he said simply.
-It took her only a moment.
-“Dr. Allen is your father?”
-“I was his bastard son,” he explained. “He and my mother gave me up for adoption. My adoptive parents were unable to have children of their own. When my mother died, my father came to resent me, as if it was somehow my fault. He sent me to live with Dr. Allen. He said it was because Dr. Allen was a renowned surgeon, and he wanted me to be trained by him, but we both knew that was a lie. I believed it was because he didn’t want me any more. It was only later, much later, that I learned the real reason I’d been sent to Dr. Allen. Yes, he is my real father.”
-“And you think this will save him?” Annabel asked.
-She returned her attention to Mr. Palmer, who was trying to get up. She kicked him in the back, and he grunted in pain. She looked again at Jack.
-Her hand was trembling, her vision unclear. She steeled herself. Before she could put further thought into it, she raised the pistol. Point blank, she aimed its muzzle at her oldest friend and put her finger on the trigger.</Text>
-            <Notes>Requires extensive revision</Notes>
+        <Document ID="832">
+            <Title>flashback</Title>
+            <Text>It was smell of baking bread that brought Annabel back.
+She was a little girl again, creeping through the windows of the baker’s shop, seizing the largest loaf with her little grubby hands while her accomplice hoisted her up. The loaf was hot and it burned her hands, but little Annabel was starving, so she refused to drop it. Even when the baker spotted her.
+“Get me down!” she shouted down to her friend.
+A moment later, they were running through the streets, tearing the loaf into even as they bobbed between street vendors and passing cabriolets, wolfing down the steaming hot bread even as a policeman caught sight of them and hollered after them.
+They ducked into an alleyway, tore past blind beggars, butchers, fishmongers and women offering up their bodies for little more than pennies. The policeman was left behind as easily as the baker had been. At last, hearts pounding, Annabel stopped, leaned against a brick building, and tore into the loaf of bread.
+“Mm,” she said grinning around the mouthful of warm bread. “Told you it’d be easy,” she said.
+“Sure,” her friend replied, wheezing still from the mad dash through the busy streets of London. “Easy.”</Text>
         </Document>
         <Document ID="45">
             <Title>Cover</Title>
+        </Document>
+        <Document ID="944">
+            <Title>Chapter 35</Title>
+            <Synopsis>Annabel and Abraham make a stand against the zombies. They retreat into the Laboratory.
+
+Roderick discovers Dr. Allen’s little home within the Resurrectionists’ facilities.
+
+Abraham is killed by zombies.</Synopsis>
+            <Text>“Our dead are never dead to us…”
+
+- George Eliot
+</Text>
         </Document>
         <Document ID="833">
             <Title>Scene 38</Title>
@@ -9065,18 +9077,6 @@ Palmer sighed. “You seem quite determined,” he said.
 “And you’re sure you can’t be persuaded to give up looking for the Resurrection Man?”
 Jonathan shook his head. “No.”
 “Very well,” said Palmer. “I’ll tell you what I know about the Resurrection Man.”</Text>
-        </Document>
-        <Document ID="944">
-            <Title>Chapter 35</Title>
-            <Synopsis>Annabel and Abraham make a stand against the zombies. They retreat into the Laboratory.
-
-Roderick discovers Dr. Allen’s little home within the Resurrectionists’ facilities.
-
-Abraham is killed by zombies.</Synopsis>
-            <Text>“Our dead are never dead to us…”
-
-- George Eliot
-</Text>
         </Document>
         <Document ID="46">
             <Title>Dedication</Title>
@@ -9836,9 +9836,6 @@ If ever you see the Resurrection man
 He digs up graves to raise the dead
 He takes the corpses from their beds"</Notes>
         </Document>
-        <Document ID="834">
-            <Title>Chapter 16</Title>
-        </Document>
         <Document ID="945">
             <Title>Scene 77</Title>
             <Text>It was the death of a single patient that had caused Jack to shut down his medical practice. The countless lives he saved over the years meant nothing to him, not when weighed against that one death. He’d packed up his things, returned to London, and absorbed himself in a new pursuit with the same excess with which he’d studied medicine. Mechanical Engineering. He’d proved equally adept at that trade, and it was still his profession when Annabel first met him. A tinkerer and inventor, he used to build the most unimaginable devices, life-altering mechanical machines. Like Annabel’s clockwork eye.
@@ -9888,6 +9885,9 @@ She hesitated, looking at Abraham as she assessed the situation.
 Then, leaving Mr. Palmer to keep the door shut, she positioned herself with knife raised, at the edge of the door. He would have to make due with a scalpel, as that was what the addled-minded doctor had given him, but he gave Annabel a nod. When she returned the gesture, he stepped back from the doorway, and readied his scalpel.</Text>
             <Notes>Requires extensive revision</Notes>
         </Document>
+        <Document ID="834">
+            <Title>Chapter 16</Title>
+        </Document>
         <Document ID="690">
             <Title>Prologue</Title>
         </Document>
@@ -9912,9 +9912,6 @@ There were thick black storm clouds raging outside, and periodically, flashes of
         </Document>
         <Document ID="613">
             <Title>Scene Three</Title>
-        </Document>
-        <Document ID="835">
-            <Title>Beat Sheet</Title>
         </Document>
         <Document ID="946">
             <Title>Scene 78</Title>
@@ -9947,6 +9944,9 @@ The door swung open. An elderly man stood before him. He looked sickly, almost e
 “I want answers,” he said.
 “Very well. Shall I make us a pot of tea while we sit down to talk?”</Text>
             <Notes>Requires extensive revision</Notes>
+        </Document>
+        <Document ID="835">
+            <Title>Beat Sheet</Title>
         </Document>
         <Document ID="691">
             <Title>Scene Three</Title>
@@ -10006,9 +10006,6 @@ Physical Description:
 
 	Notes:	</Text>
         </Document>
-        <Document ID="836">
-            <Title>Structure</Title>
-        </Document>
         <Document ID="947">
             <Title>Scene Three</Title>
             <Text>Marianne Hatton’s arms went limp as she reigned in the pyrokinetic energy she’d summoned. Her eyes went blank. Sweat ran down her face. Wrapping his coat around his waist in a half-hearted attempt at modesty, Henry Charles went to her side, concerned she might lose consciousness. He put a hand upon her back. Though he had thick, calloused skin, the heat rising off of her scalded him, and he had to let go.
@@ -10038,6 +10035,9 @@ Her face was pale and flushed, but she kept the fear and shock out of her voice.
 “Guess we’d better start walking,” she said. “It’s not far from here.”
 Henry Charles nodded.
 "I was right, by the way. About Mrs. Grimmer's intel. We should have had time to stop this."</Text>
+        </Document>
+        <Document ID="836">
+            <Title>Structure</Title>
         </Document>
         <Document ID="692">
             <Title>Scene Two</Title>
@@ -10192,51 +10192,6 @@ Maybe more speculation? What reason does Ocelot give that Jon trusts him? Maybe 
 Robber, unless Jonathan is convinced that Mr. Monday was lying and really is an assassin.  In that case I suggest indicating that in your story.
 Oooo, interesting!</Comments>
         </Document>
-        <Document ID="837">
-            <Title>The Hook</Title>
-            <Synopsis>Introduce protagonist(s), hook the reader, and setup the story conflict (foreshadowing, establing stakes). What event launches the characters toward their first dilemma?</Synopsis>
-            <Text>Scene 1: The Opening
-What is this scene's mission?
-1. Character Introduction:
-Annabel
-2. Establish Annabel's stakes
-???
-3. The Hook
-Lord Connor is a zombie
-
-Scene 2
-Annabel kills Connor. The door opens.
-
-Scene 3
-What is this scene's mission?
-1. Introduce Jonathan
-2. Establish stakes for Jonathan
-Jonathan's father has died; he wants to do his father proud
-3. Hook
-Jonathan opens the door on Annabel
-
-Scene 4
-Jonathan sees that Annabel has killed Lord Connor
-
-Scene 5
-Annabel threatens Jonathan and he agrees to help her escape
-
-Scene 6
-Annabel leaves without Jonathan
-
-Scene 7
-Jonathan escapes
-
-Scene 8
-
-Scene 9
-
-Scene 10
-
-Scene 11
-
-</Text>
-        </Document>
         <Document ID="948">
             <Title>Scene 79</Title>
             <Text>Cold surgical steel sliced into rotten flesh, cutting through gristle and tendons as easily as carving a roast. Slabs of rotting meat began to pile up in the doorway, but still, they pressed forward. Annabel tried to get a count, but it was impossible to gauge how many there were with the door half-closed and their grunting, snarling faces so close to her own.
@@ -10290,6 +10245,51 @@ After a moment, she drew back and looked at him like an addict might look at a b
             <Notes>Requires extensive revision
 
 Possible rewrite with Jonathan showing up just in time to shoot Palmer.</Notes>
+        </Document>
+        <Document ID="837">
+            <Title>The Hook</Title>
+            <Synopsis>Introduce protagonist(s), hook the reader, and setup the story conflict (foreshadowing, establing stakes). What event launches the characters toward their first dilemma?</Synopsis>
+            <Text>Scene 1: The Opening
+What is this scene's mission?
+1. Character Introduction:
+Annabel
+2. Establish Annabel's stakes
+???
+3. The Hook
+Lord Connor is a zombie
+
+Scene 2
+Annabel kills Connor. The door opens.
+
+Scene 3
+What is this scene's mission?
+1. Introduce Jonathan
+2. Establish stakes for Jonathan
+Jonathan's father has died; he wants to do his father proud
+3. Hook
+Jonathan opens the door on Annabel
+
+Scene 4
+Jonathan sees that Annabel has killed Lord Connor
+
+Scene 5
+Annabel threatens Jonathan and he agrees to help her escape
+
+Scene 6
+Annabel leaves without Jonathan
+
+Scene 7
+Jonathan escapes
+
+Scene 8
+
+Scene 9
+
+Scene 10
+
+Scene 11
+
+</Text>
         </Document>
         <Document ID="360">
             <Title>Scene One</Title>
@@ -10390,10 +10390,6 @@ Oh no! He was found out! How?! I demand answers! :D
 -Jordan
 Did her husband recently die? If so, I would think she would be in mourning.  Even if she didn't particularly like her husband, I believe she would be wearing black or at least dark colors.</Comments>
         </Document>
-        <Document ID="838">
-            <Title>Scene</Title>
-            <Synopsis>Introduce protagonist(s), hook the reader, and setup the story conflict (foreshadowing, establing stakes). What event launches the characters toward their first dilemma?</Synopsis>
-        </Document>
         <Document ID="949">
             <Title>Chapter 36</Title>
             <Synopsis>Henry Charles and Mrs. Hatton rendezvous with the Penny Dreadful crew.
@@ -10404,6 +10400,10 @@ Roderick Steen talks with Dr. Allen.</Synopsis>
 - Edward Jenner
 </Text>
             <Notes>Update Big Ben scene</Notes>
+        </Document>
+        <Document ID="838">
+            <Title>Scene</Title>
+            <Synopsis>Introduce protagonist(s), hook the reader, and setup the story conflict (foreshadowing, establing stakes). What event launches the characters toward their first dilemma?</Synopsis>
         </Document>
         <Document ID="694">
             <Title>Chapter Two</Title>
@@ -10902,20 +10902,6 @@ Now, in its metamorphosed state, the creature was barely recognizable as an inse
 Still, the most unusual thing about the creature’s appearance was its armaments. Attached to its anterior limbs was a pair of mechanical contraptions that looked suspiciously like machine guns.
 “Did I?” said Mr. Palmer. “Mea culpa.”</Text>
         </Document>
-        <Document ID="840">
-            <Title>To Pinch Point #1</Title>
-            <Synopsis>Protagonist reacts to new goal/stakes/obstacles from Act One. Setup and deliver Pinch Point #1. What events add more conflict? 
-
-Remember, a pinch point is basically a reminder of the antagonistic force’s power to stymie the protagonist’s goal.
-
-“There is a crisis. She steps in with great intentions to ‘take charge’. However, she’s ill equipped so the problems continue and get worse, but each time she confronts, she becomes more skillful, until she is ready for her biggest challenge.”</Synopsis>
-            <Text>20, 21 or 22, entitle it “First Pinch Point.”
-Prior to the Pinch Point, and after the first plot point, the protagonist is in "reaction mode." The character has just emerged from the dramatic events of the First Plot Point at the end of the First Act. His world has completely changed, whether positively or negatively, and he is scrambling to keep up with events. He’s in reaction mode. He is aggressively pursuing his main story goal, but he doesn’t quite have his feet under him. He’s scrambling to understand the obstacles that are being thrown in his way by the antagonistic force, and there is a lot he doesn’t understand–about himself, about his goal, about the antagonistic force, and about the nature of the conflict itself.
-There is a crisis. He steps in with great intentions to ‘take charge’. However, he’s ill equipped so the problems continue and/or get worse, but each time he confronts them, he becomes more skillful, until he is ready for his biggest challenge.
-Halfway through the First Half of the Second Act comes the First Pinch Point. This may be a major scene or a small moment, but it must be a moment that causes the protagonist to feel the “pinch” of the antagonistic force.
-
-What are the protagonist's goals? How are they stymied by the antagonist?</Text>
-        </Document>
         <Document ID="951">
             <Title>Scene 80</Title>
             <Synopsis>Roderick talks with Dr. Allen.</Synopsis>
@@ -10969,6 +10955,23 @@ Roderick nodded. He’d play along, for now. He had little other choice. But whe
 “I’ll need to make a couple stops along the way, if that’s alright. Do you have any more of these masks?”</Text>
             <Notes>Requires extensive revision</Notes>
         </Document>
+        <Document ID="840">
+            <Title>To Pinch Point #1</Title>
+            <Synopsis>Protagonist reacts to new goal/stakes/obstacles from Act One. Setup and deliver Pinch Point #1. What events add more conflict? 
+
+Remember, a pinch point is basically a reminder of the antagonistic force’s power to stymie the protagonist’s goal.
+
+“There is a crisis. She steps in with great intentions to ‘take charge’. However, she’s ill equipped so the problems continue and get worse, but each time she confronts, she becomes more skillful, until she is ready for her biggest challenge.”</Synopsis>
+            <Text>20, 21 or 22, entitle it “First Pinch Point.”
+Prior to the Pinch Point, and after the first plot point, the protagonist is in "reaction mode." The character has just emerged from the dramatic events of the First Plot Point at the end of the First Act. His world has completely changed, whether positively or negatively, and he is scrambling to keep up with events. He’s in reaction mode. He is aggressively pursuing his main story goal, but he doesn’t quite have his feet under him. He’s scrambling to understand the obstacles that are being thrown in his way by the antagonistic force, and there is a lot he doesn’t understand–about himself, about his goal, about the antagonistic force, and about the nature of the conflict itself.
+There is a crisis. He steps in with great intentions to ‘take charge’. However, he’s ill equipped so the problems continue and/or get worse, but each time he confronts them, he becomes more skillful, until he is ready for his biggest challenge.
+Halfway through the First Half of the Second Act comes the First Pinch Point. This may be a major scene or a small moment, but it must be a moment that causes the protagonist to feel the “pinch” of the antagonistic force.
+
+What are the protagonist's goals? How are they stymied by the antagonist?</Text>
+        </Document>
+        <Document ID="952">
+            <Title>Chapter 37</Title>
+        </Document>
         <Document ID="841">
             <Title>To Midpoint</Title>
             <Synopsis>Setup and deliver new information that changes the context for the protagonist and/or reader. What event can reinforce the story's goals and stakes?</Synopsis>
@@ -10986,8 +10989,8 @@ Once he was in Faria’s cell, he would assist the old man with the means of the
 The priest also made good on his promise of wisdom, though it was not the sort of wisdom Mr. Sinews had expected. The father had apparently been an expert swordsman in his youth, and he taught Mr. Sinews how to fight with a pair of canes he had managed to obtain some years after his imprisonment and kept stored beneath his bed.
 Sinews was a quick study, and he was eager to learn, as it was routine, exercise, companionship, and stimulation of the mind which kept him sane in spite of his circumstances. That, and the ever-present thought that he would eventually be free. And when he finally was, he would have his vengeance.</Text>
         </Document>
-        <Document ID="952">
-            <Title>Chapter 37</Title>
+        <Document ID="953">
+            <Title>Scene 81</Title>
         </Document>
         <Document ID="842">
             <Title>To Pinch Point #2</Title>
@@ -11011,8 +11014,9 @@ The Murder Society, another name for the Resurrectionists. The name the press ha
 
 </Text>
         </Document>
-        <Document ID="953">
-            <Title>Scene 81</Title>
+        <Document ID="954">
+            <Title>Epilogue</Title>
+            <Synopsis>Annabel concludes her story. She admits that Anthony had been like a father to her but that after she lost her eye and arm, she lost him as well. She believed that Anthony always had valued every human life; he had always been a bit strange, a bit mad even, but it had been tough to swallow the idea that the plan to destroy the entire city had been his alone, except that it was to save his father.</Synopsis>
         </Document>
         <Document ID="843">
             <Title>To Second Plot Point</Title>
@@ -11137,9 +11141,12 @@ Everyone continued to look to her to correct him, to deny his claims, but she di
 “Death, grotesqueness, and morbidity, you mean?” muttered Tidkins.
 “In abundance,” he said.</Text>
         </Document>
-        <Document ID="954">
+        <Document ID="955">
             <Title>Epilogue</Title>
-            <Synopsis>Annabel concludes her story. She admits that Anthony had been like a father to her but that after she lost her eye and arm, she lost him as well. She believed that Anthony always had valued every human life; he had always been a bit strange, a bit mad even, but it had been tough to swallow the idea that the plan to destroy the entire city had been his alone, except that it was to save his father.</Synopsis>
+            <Text>“The airship will revolutionize warfare.”
+
+- Alexander Graham Bell
+</Text>
         </Document>
         <Document ID="844">
             <Title>To Climax</Title>
@@ -11167,12 +11174,62 @@ He heard footsteps drawing nearer, the jangling of keys, the creak of a metal do
 - George W.M. Reynolds (Wagner, The Wehr-Wolf)
 </Text>
         </Document>
-        <Document ID="955">
-            <Title>Epilogue</Title>
-            <Text>“The airship will revolutionize warfare.”
-
-- Alexander Graham Bell
-</Text>
+        <Document ID="956">
+            <Title>Scene One</Title>
+            <Synopsis>Annabel concludes her story. She admits that Anthony had been like a father to her but that after she lost her eye and arm, she lost him as well. She believed that Anthony always had valued every human life; he had always been a bit strange, a bit mad even, but it had been tough to swallow the idea that the plan to destroy the entire city had been his alone, except that it was to save his father.</Synopsis>
+            <Text>The Penny Dreadful was swift, its propellors and sails and ornithopteresque wings driving it to the edge of the city. Another cup of tea sat empty. Annabel reached for the pot with her mechanical arm and poured herself another cup. Mr. O stared at her with a strange look upon his face? She rolled her eyes—both real and mechanical—at him.
+“I’m just pouring a cup of tea, Jonathan. Nothing to marvel at,” she told him.
+He grinned.
+“On the contrary, you are a constant marvel, my dearest Annabel.”
+She blushed, only now realising that she’d called him by his Christian name. That he’d done the same in kind meant he was either teasing her or flirting with her. Either way, her cheeks took on a scarlet hue.
+“What do you think became of Mrs. Grimmer?” said Henry Charles Ocelot, sparing her.
+At this, it was Mr. O’s turn to be embarrassed. After all, it was for his sake that they’d all put their trust in Mrs. Grimmer in spite of their reservations. And even he hadn’t trusted her. In his defence, he had confronted her, but that had only resulted in a tranquilizer dart to the neck. Still, Mr. O was infuriatingly bad at being embarrassed. He recovered from it in an instant.
+“I imagine she’s halfway to Paris by now, or wherever the next closest Resurrectionist hideout might be. Probably left the city the very moment she sent us on that wild goose chase.”
+“Sent most of us on the wild goose chase,” Annabel retorted, “While you remained unconscious.”
+Mrs. Hatton smirked.
+“She’s got you there,” she told Mr. O.
+He shrugged and reached for his cup. To his apparent surprise, his glass was empty.
+“Anyway,” he continued, “I’m certain we’ve not seen the last of The Resurrectionists. They had members within Scotland Yard—we witnessed Parson Sinews apparent arrest, which as it turned out was actually an abduction; within the aristocracy—Lord Connor was a Resurrectionist; and within the military—remember that Dr. Allen’s experiments were sanctioned. We may have destroyed their headquarters, but we haven’t stopped their operations.”
+“Nor have we stopped the Dead London project,” Henry Charles Ocelot pointed out.
+The ship had steadily been descending. As the fog cleared in front of the ship, an unsettling vision came into view through the windows. An enormous wall had risen up, lining the edge of the city. The zombies were clawing at it, trying unsuccessfully to scale its heights and get at the men in the towers.
+“What on earth,” Annabel exclaimed, getting out of her seat and heading over to the window for a better view. A moment later she was joined by Mr. O, Mr. Ocelot, and the elderly Mrs. Hatton, who gaped at the wall in silence.
+It was vast, stretching as far as they could see in either direction. It was several stories tall, with gun turrets positioned around it. Though the wall was obviously makeshift, pieced together with lengths of sheet metal and plywood, it was enough that the zombies could neither scale its heights nor topple the wall. Even so, it was difficult to imagine how it could have been assembled so quickly, unless it had been built in advance, in anticipation of Dead London.
+“They’re quarantining the city,” Mr. Ocelot growled. “Trying to keep the zombies inside.”
+“What about the living?” Annabel exclaimed. “There are still living people in the city. They’ll be trapped inside with them.”
+“As the gas spreads and the zombies go about their hunt, there soon won’t be many living people left,” he told her.
+“God,” she breathed. “It really will be Dead London. A city of the walking dead. Can we get any lower?”
+The ship was circling near the wall, just outside the range of the wall’s gun turrets. Just then, the captain’s voice came through the speaking tube, distorted and tinny as it resonated from a little metal box in the top right corner of the lounge.
+“Mr. Grimmer, to the Captain’s Nook, if you please.”
+“Excuse me a moment,” said Mr. O. To Annabel, he added, “I’ll see about getting us lower.”
+While he left to confer with the captain, Annabel remained intent on the window. She was staring at the men on the gun turrets. Their weapons were aimed at the zombies, but they weren’t firing. So long as the zombies could not reach them, they did not pose a threat, she supposed.
+Another minute or two passed in relative silence, the airship hovering in place, until with a hiss of air the ship began to descend. At last, they drew close enough to distinguish the shape of the gas masks that the men at the turrets were wearing. They were corvine in shape, the masks of plague doctors.
+“Resurrectionists.”
+Of course, while they could now see the Resurrectionists clearly, they too could be seen. The Resurrectionists turned their attention from the zombies to the airship. One of them—Annabel couldn’t make out which one—spoke, using some sort of device to project their voice. It sounded tinny and inhuman, like the Captain’s through the speaking tube.
+“This city is under quarantine. No citizens are to leave without clearing inspection. By the order of the British Military, turn your airship around.”
+She looked at Mr. Ocelot, but he was stoic and unreadable. She wasn’t sure if that was sang-froid or if he was just keeping his fears to himself. Mrs. Hatton, meanwhile, was fanning herself, her eyes wide.
+“I could--” Mrs. Hatton started to say.
+“This ship is filled with hydrogen,” Mr. Ocelot replied. “But let’s not panic. This ship is a dreadnaught.”
+The Resurrectionist’s voice interrupted their thoughts, loud enough to hear even over the rumble of the ship’s engines.
+“Again, this city is under quarantine. Turn your ship around. If you do not comply, it will be seen as a hostile act, and we will open fire upon your vessel.”
+In reply, a voice came through the speaking tube again. It was Mr. O’s voice, however, not Captain Merrick’s.
+“All hands on deck. Mr. Ocelot, if you would man the port side cannon. Miss Monday, the gatling gun is all yours. Mrs. Hatton, the starboard cannon has your name on it, if you would be so kind. Let’s blow these Resurrectionists to smithereens.”
+Annabel shared a smile with Mrs. Hatton.
+“That’s not a word I use very often. Smithereens,” Mr. O continued.
+“It’s still on,” came the captain’s voice. “You’ve got to hit this button here, if you want to quit speaking through the tube.”
+“This one?”
+The airship shuddered and a series of metal panels raised, covering the windows.
+“No.” The captain’s voice again. “That one’s for the shields. Look, just let me do it.”
+There was an audible click, and then the voices cut off. Annabel headed for the door, and with Mr. Ocelot and Mrs. Hatton in her wake, she headed topside. Mr. O and Captain Merrick were standing in the Captain’s Nook at the bow of the airship. The Resurrectionists’ guns were aimed at the ship, but the shields had been raised. Hopefully that would be enough to stop their bullets from puncturing the ballonets.
+As promised, a gatling gun stood front and center, a huge cannon on either side of the ship. Annabel settled into her station, closing her one eye against the fierce, cold wind. She’d never used a gun like this before, so she took a moment to examine it while the Resurrectionist guns rang out, pinging against the metal shields. The shields were flimsy protection at best, she realised. The metal was too thin to hold out for long, and there were gaping holes in their protective space.
+It didn’t take her long to figure out how to work the gun. Once it was ready, she aimed with her mechanical eye, and began firing. She cackled wildly as the gun let loose an onslaught of bullets, and the Resurrectionist fell from his post, only to be seized by the zombies below.
+“God bless you, Dr. Gatling!” she cried triumphantly.
+Then she aimed the weapon at the next Resurrectionist and gave him the same fate as his friend. The Penny Dreadful shuddered as Mr. Ocelot fired his cannon, and again as Mrs. Hatton did the same. Mr. Ocelot’s cannonball missed its mark, sailing over the wall, but Mrs. Hatton’s struck home, utterly destroying one of the gun towers.
+The Resurrectionists continued to fire back, while the zombies below cried out for flesh. And through it all, Annabel continued to aim and fire, laughing wildly each time a Resurrectionist fell victim to her onslaught. And when each of the turrets in their way stood unmanned, The Penny Dreadful lowered its shields, and continued on its way.</Text>
+            <Comments>needs to be changed, as Mrs. Grimmer is now on their side.
+removed Mrs. Hatton
+removed Henry Charles Ocelot
+removed Henry Charles Ocelot
+removed</Comments>
         </Document>
         <Document ID="845">
             <Title>To End</Title>
@@ -11246,63 +11303,6 @@ Change this: As suggested, Miss Monday is no longer a “thief for hire.” She�
 Maybe suspect that it would leave a bruise.
 Did the perfume spray in her face? Was the perfume sprayed a few times? Did all the guys have the perfume bottle? I’m not sure how far away the guy is from her to spray it. This would be something to clarify.</Comments>
         </Document>
-        <Document ID="956">
-            <Title>Scene One</Title>
-            <Synopsis>Annabel concludes her story. She admits that Anthony had been like a father to her but that after she lost her eye and arm, she lost him as well. She believed that Anthony always had valued every human life; he had always been a bit strange, a bit mad even, but it had been tough to swallow the idea that the plan to destroy the entire city had been his alone, except that it was to save his father.</Synopsis>
-            <Text>The Penny Dreadful was swift, its propellors and sails and ornithopteresque wings driving it to the edge of the city. Another cup of tea sat empty. Annabel reached for the pot with her mechanical arm and poured herself another cup. Mr. O stared at her with a strange look upon his face? She rolled her eyes—both real and mechanical—at him.
-“I’m just pouring a cup of tea, Jonathan. Nothing to marvel at,” she told him.
-He grinned.
-“On the contrary, you are a constant marvel, my dearest Annabel.”
-She blushed, only now realising that she’d called him by his Christian name. That he’d done the same in kind meant he was either teasing her or flirting with her. Either way, her cheeks took on a scarlet hue.
-“What do you think became of Mrs. Grimmer?” said Henry Charles Ocelot, sparing her.
-At this, it was Mr. O’s turn to be embarrassed. After all, it was for his sake that they’d all put their trust in Mrs. Grimmer in spite of their reservations. And even he hadn’t trusted her. In his defence, he had confronted her, but that had only resulted in a tranquilizer dart to the neck. Still, Mr. O was infuriatingly bad at being embarrassed. He recovered from it in an instant.
-“I imagine she’s halfway to Paris by now, or wherever the next closest Resurrectionist hideout might be. Probably left the city the very moment she sent us on that wild goose chase.”
-“Sent most of us on the wild goose chase,” Annabel retorted, “While you remained unconscious.”
-Mrs. Hatton smirked.
-“She’s got you there,” she told Mr. O.
-He shrugged and reached for his cup. To his apparent surprise, his glass was empty.
-“Anyway,” he continued, “I’m certain we’ve not seen the last of The Resurrectionists. They had members within Scotland Yard—we witnessed Parson Sinews apparent arrest, which as it turned out was actually an abduction; within the aristocracy—Lord Connor was a Resurrectionist; and within the military—remember that Dr. Allen’s experiments were sanctioned. We may have destroyed their headquarters, but we haven’t stopped their operations.”
-“Nor have we stopped the Dead London project,” Henry Charles Ocelot pointed out.
-The ship had steadily been descending. As the fog cleared in front of the ship, an unsettling vision came into view through the windows. An enormous wall had risen up, lining the edge of the city. The zombies were clawing at it, trying unsuccessfully to scale its heights and get at the men in the towers.
-“What on earth,” Annabel exclaimed, getting out of her seat and heading over to the window for a better view. A moment later she was joined by Mr. O, Mr. Ocelot, and the elderly Mrs. Hatton, who gaped at the wall in silence.
-It was vast, stretching as far as they could see in either direction. It was several stories tall, with gun turrets positioned around it. Though the wall was obviously makeshift, pieced together with lengths of sheet metal and plywood, it was enough that the zombies could neither scale its heights nor topple the wall. Even so, it was difficult to imagine how it could have been assembled so quickly, unless it had been built in advance, in anticipation of Dead London.
-“They’re quarantining the city,” Mr. Ocelot growled. “Trying to keep the zombies inside.”
-“What about the living?” Annabel exclaimed. “There are still living people in the city. They’ll be trapped inside with them.”
-“As the gas spreads and the zombies go about their hunt, there soon won’t be many living people left,” he told her.
-“God,” she breathed. “It really will be Dead London. A city of the walking dead. Can we get any lower?”
-The ship was circling near the wall, just outside the range of the wall’s gun turrets. Just then, the captain’s voice came through the speaking tube, distorted and tinny as it resonated from a little metal box in the top right corner of the lounge.
-“Mr. Grimmer, to the Captain’s Nook, if you please.”
-“Excuse me a moment,” said Mr. O. To Annabel, he added, “I’ll see about getting us lower.”
-While he left to confer with the captain, Annabel remained intent on the window. She was staring at the men on the gun turrets. Their weapons were aimed at the zombies, but they weren’t firing. So long as the zombies could not reach them, they did not pose a threat, she supposed.
-Another minute or two passed in relative silence, the airship hovering in place, until with a hiss of air the ship began to descend. At last, they drew close enough to distinguish the shape of the gas masks that the men at the turrets were wearing. They were corvine in shape, the masks of plague doctors.
-“Resurrectionists.”
-Of course, while they could now see the Resurrectionists clearly, they too could be seen. The Resurrectionists turned their attention from the zombies to the airship. One of them—Annabel couldn’t make out which one—spoke, using some sort of device to project their voice. It sounded tinny and inhuman, like the Captain’s through the speaking tube.
-“This city is under quarantine. No citizens are to leave without clearing inspection. By the order of the British Military, turn your airship around.”
-She looked at Mr. Ocelot, but he was stoic and unreadable. She wasn’t sure if that was sang-froid or if he was just keeping his fears to himself. Mrs. Hatton, meanwhile, was fanning herself, her eyes wide.
-“I could--” Mrs. Hatton started to say.
-“This ship is filled with hydrogen,” Mr. Ocelot replied. “But let’s not panic. This ship is a dreadnaught.”
-The Resurrectionist’s voice interrupted their thoughts, loud enough to hear even over the rumble of the ship’s engines.
-“Again, this city is under quarantine. Turn your ship around. If you do not comply, it will be seen as a hostile act, and we will open fire upon your vessel.”
-In reply, a voice came through the speaking tube again. It was Mr. O’s voice, however, not Captain Merrick’s.
-“All hands on deck. Mr. Ocelot, if you would man the port side cannon. Miss Monday, the gatling gun is all yours. Mrs. Hatton, the starboard cannon has your name on it, if you would be so kind. Let’s blow these Resurrectionists to smithereens.”
-Annabel shared a smile with Mrs. Hatton.
-“That’s not a word I use very often. Smithereens,” Mr. O continued.
-“It’s still on,” came the captain’s voice. “You’ve got to hit this button here, if you want to quit speaking through the tube.”
-“This one?”
-The airship shuddered and a series of metal panels raised, covering the windows.
-“No.” The captain’s voice again. “That one’s for the shields. Look, just let me do it.”
-There was an audible click, and then the voices cut off. Annabel headed for the door, and with Mr. Ocelot and Mrs. Hatton in her wake, she headed topside. Mr. O and Captain Merrick were standing in the Captain’s Nook at the bow of the airship. The Resurrectionists’ guns were aimed at the ship, but the shields had been raised. Hopefully that would be enough to stop their bullets from puncturing the ballonets.
-As promised, a gatling gun stood front and center, a huge cannon on either side of the ship. Annabel settled into her station, closing her one eye against the fierce, cold wind. She’d never used a gun like this before, so she took a moment to examine it while the Resurrectionist guns rang out, pinging against the metal shields. The shields were flimsy protection at best, she realised. The metal was too thin to hold out for long, and there were gaping holes in their protective space.
-It didn’t take her long to figure out how to work the gun. Once it was ready, she aimed with her mechanical eye, and began firing. She cackled wildly as the gun let loose an onslaught of bullets, and the Resurrectionist fell from his post, only to be seized by the zombies below.
-“God bless you, Dr. Gatling!” she cried triumphantly.
-Then she aimed the weapon at the next Resurrectionist and gave him the same fate as his friend. The Penny Dreadful shuddered as Mr. Ocelot fired his cannon, and again as Mrs. Hatton did the same. Mr. Ocelot’s cannonball missed its mark, sailing over the wall, but Mrs. Hatton’s struck home, utterly destroying one of the gun towers.
-The Resurrectionists continued to fire back, while the zombies below cried out for flesh. And through it all, Annabel continued to aim and fire, laughing wildly each time a Resurrectionist fell victim to her onslaught. And when each of the turrets in their way stood unmanned, The Penny Dreadful lowered its shields, and continued on its way.</Text>
-            <Comments>needs to be changed, as Mrs. Grimmer is now on their side.
-removed Mrs. Hatton
-removed Henry Charles Ocelot
-removed Henry Charles Ocelot
-removed</Comments>
-        </Document>
         <Document ID="590">
             <Title>Timeline (Draft One)</Title>
             <Text>1819—Queen Victoria’s Birth
@@ -11344,6 +11344,45 @@ removed</Comments>
             <Title>Chapter 8</Title>
             <Synopsis>Mr. O and Mr. Ocelot part ways. Jonathan sends Mr. Lockwood to the prison where Mr. Sinews ought to have been taken.</Synopsis>
             <Notes>Night</Notes>
+        </Document>
+        <Document ID="957">
+            <Title>The Den</Title>
+            <Text>Avery Jane was seated comfortably on the divan, puffing white rings of smoke from his cigarette, when the knock came at the door. He dashed out the butt of his smoke, and wiping his hands on his handkerchief, got out of his seat. He moved over to the door, and waited there for his butler to announce who was calling. To his surprise, it was not his butler that he met in the den, but the doctor.
+Avery’s butler trailed behind the doctor, spewing apologies. “I’m sorry, sir. I’m afraid he rather insisted.”
+“That’s fine, Mr. Duncan, I’ll see the doctor in the den. If you could start a fire, I felt a cold breeze sweep into the room when the door opened,” said Avery.
+He probably sounded more at ease than he felt. The cigarette might have helped with that.
+He turned to his guest. “To what do I owe the pleasure, Dr. Allen?”
+“Pleasure?” Dr. Allen repeated. “I’m afraid you will derive no pleasure from this visit.”
+The doctor, according to habit, where a black leather mask, in the old-fashioned style of plague doctors. Mr. Jane had yet to ascertain the reason for the strange accoutrement, but frankly, he found the mask unsettling. Not once had he seen the doctor’s face. The doctor’s voice was muffled, almost to the point of being incomprehensible. Avery had once noticed a small vent on the underside of the mask, through which he could hear the doctor’s ragged breath.
+“This is my apprentice,” he said.
+Avery blinked. Apprentice?
+He hadn’t noticed the young boy, who now stepped out from behind the doctor. The boy, although unmasked, was equally frightening to look at. His skin was so pale, it was practically translucent. His hair was white. Not blonde, but white, as stark as snow. His eyes were a soft pink, his lashes as pale as his hair. Avery had never seen anyone like him, in all his years.
+“How do you do?” he managed.
+He hoped it sounded polite. It wasn’t like Avery to stare. He’d been raised according to a strict set of manners. He could just imagine his mother rapping his knuckles with an ash branch for how he was staring at the little albino.
+But it wasn’t just the boy’s pale pallor that disturbed Avery. There was something in his expression. Something unsettling. Perhaps it was just the boy’s pink eyes that prejudiced Jane against the unfortunate youth, but Avery believed he saw hatred in those eyes. Cold, calculating hatred. Avery forced a smile.
+He realized that the doctor had not yet answered his question. He sat back down in the den, fished out another cigarette, and lit it nervously. He gestured to the empty chairs.
+“Can I offer you anything, doctor? Tea, or perhaps something stronger?”
+“We won’t be staying long,” the doctor answered.
+Neither he, nor the boy, had taken a seat. Instead, they stood at the threshold of the den. Strangely, Avery felt cornered, like a caged animal. It was ridiculous of him to be so intimidated by the old doctor and the young boy who trailed behind him. Surely if they wanted to hurt him, he could fight them off. The boy looked as frail as a ghost, and the doctor, judging by his voice, was well past his prime. Avery, meanwhile, was in his twenties, was tall, and athletic. If need be, he could call for help, and a dozen servants would be with him in a minute. And yet…
+“What do you want?” he asked. He was disappointed with how himself. He’d meant to sound forceful, confident. Instead, his voice trembled and cracked.
+“Come with us,” the doctor replied.
+“No,” said Avery.
+“This will all go much more smoothly if you do as I say, Mr. Jane.”
+“No,” he said again. His voice was softer this time, barely more than a whisper. His lips trembled.
+“Mr. Jane, it is really not my style to adopt such an unsavoury practice as blackmail, but I’m afraid I really must insist that you come with me at once. Otherwise—”
+The doctor didn’t need to finish that sentence. Avery knew exactly what the doctor held over him. If his secret got out, Avery would be ruined. Not merely ruined. Utterly destroyed. The way Avery saw it, he had only two options. He could go along with the doctor. Or he could put a bullet in the doctor’s skull. He’d have to kill the child too. He didn’t like the thought of killing a child. But he was tired of letting the doctor intimidate him.
+He drew his pistol. He wished he could see the look on the doctor’s face. The sudden transition from arrogance to fear. The doctor raised his arms as if to plead for his life, and took a step back. Avery readied the pistol, aimed it at the doctor’s chest.
+“Hyde,” said the doctor.
+Avery blinked. What?
+Then he felt one enormous hand engulfing his skull. He felt himself being whirled around like a rag doll. The pistol fell to the floor with a clatter, and Avery found himself face to face with Death.
+The man—if he was a man at all—wore a weathered black plague mask, like the doctor’s, only much larger. He was dressed in a black cowl. He was also the biggest man Avery had seen in his life. Without a word, he lifted Avery off his feet with one hand, by his hair. Avery felt strands of hair rip from his scalp. He screamed.
+Then, with what seemed like no effort at all, the giant flung Avery across the room. He crashed into the settee, landed hard on the floor, and lay there. Unable to move, he stared at the ceiling.
+No one had come to his rescue. Avery began to wonder if his servants were even still alive.
+“Well done, Mr. Hyde,” said the doctor.
+The albino child hunched over Avery. His pale white face was all Avery could see.
+“Help me,” he wheezed. “Please. Run and call for help.”
+The boy smiled. For a moment, Avery thought that the boy was going to do as he asked. Then the boy opened his mouth and let a big ball of spit spill out onto Avery’s forehead. Avery groaned.
+The boy smiled at his handiwork. Then he began to kick Avery. He wasn’t terribly strong, but Avery couldn’t move at all. He believed his ribs had been broken in the fall, and each kick made him wince with pain. Eventually, he lost consciousness.</Text>
         </Document>
         <Document ID="846">
             <Title>Characters</Title>
@@ -11911,7 +11950,7 @@ But when they stepped inside, they discovered that Dr. Allen was already dead.
 And standing over his body was Dr. Singe.
 She was just as she’d been in his nightmare. An eight-legged abomination. A mask sewn onto her face, made of bone and fur. But she was different now. Her voice was not a recording. It was really her, returned from the dead.
 “Hello, Parson,” she said.
-“You do the honours,” said Ms. Monday. She handed over her dirigible.
+“You do the honours,” said Ms. Monday. She handed over her gun.
 “I’ve been waiting a long time for this,” said Mr. Sinews, taking the pistol. He smiled sadly. “Goodbye, Rachelle,” he said.
 
 The End</Text>
@@ -15993,9 +16032,6 @@ The din of gunshots quieted until all that could be heard was the snarling, grow
             <Comments>Hand?  I thought he had his leg.  Did Roderick reach down?
 I hope they have enough bullets!</Comments>
         </Document>
-        <Document ID="536">
-            <Title>Part One: Mircalla Karnstein</Title>
-        </Document>
         <Document ID="869">
             <Title>Scene 30</Title>
             <Text>The Penny Dreadful was afloat above Hyde Park, looking down from a grey sky upon the deserted park-grounds. Fog roiled across the ground, casting the city in a drab, sepia palette. The rain had cleared some time in the morning, but left the thick pea soup fog in its wake. In a way, it was the perfect cover. Working in shifts, the captain and his crew had kept the Dreadful afloat throughout the night, giving Jonathan Grimmer a chance to sleep. At first, he’d resisted the idea of sleeping while the city was being overrun by zombies, but eventually, fatigue and drunkenness had persuaded him to lie down, just for a few moments.
@@ -16104,6 +16140,9 @@ by Bryce Raffle</Text>
 
 The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
         </Document>
+        <Document ID="536">
+            <Title>Part One: Mircalla Karnstein</Title>
+        </Document>
         <Document ID="759">
             <Title>Scene Three</Title>
             <Synopsis>Annabel infiltrates the Grimmer Company, only to discover that Jack has already unleashed his clockwork crows, spreading Lazarus throughout the city.</Synopsis>
@@ -16188,6 +16227,9 @@ Roderick was looking at one of the zombies: a child, poor, dirty, his feet bare,
 “This boy wasn’t at Lord Connor’s ball. He couldn’t have been,” he hissed to Taggert. “This incident was not confined to the masquerade.”</Text>
             <Comments>Were their skulls brittle?  Hopefully no bone cut into his skin.  Did the feeling of their heads caving in and brains squishing make him queasy?</Comments>
         </Document>
+        <Document ID="426">
+            <Title>The Prison Of Secrets (Dead London: Book Two)</Title>
+        </Document>
         <Document ID="537">
             <Title>Part One</Title>
             <Text>
@@ -16204,9 +16246,6 @@ Part I
 “Quote”
 
 - Historical Figure</Text>
-        </Document>
-        <Document ID="426">
-            <Title>The Prison Of Secrets (Dead London: Book Two)</Title>
         </Document>
         <Document ID="316">
             <Title>Scene One</Title>
@@ -17253,29 +17292,6 @@ She sighed. She was annoyed that he was right. Why did he always have to be righ
 “Oh that’s right. You still believe Lord Connor was merely sick,” said Mr. O. He stood up from the bench. He extended her a gloved hand, and helped her to pack up their picnic.
 “Perhaps I won’t be able to convince you,” he admitted, “But I shall give it my best shot.”</Text>
         </Document>
-        <Document ID="100">
-            <Title>Camille Vincent</Title>
-            <Text>Camille Vincent
-
-	Role in Story:	Support
-	Occupation:	
- 	
-
-Physical Description:	
-
-	Personality:	
-
-	Habits/Mannerisms:	
- 	
-
-	Background:	The surviving sister of Rachelle Vincent, Camille Vincent is as beautiful as she is deadly. In truth, she and Parson seem more a match than he and Rachelle ever were. Vindictive, sarcastic, and a proponent for the Rational Dress Society, Camille Vincent is also somewhat of a marksman.
-	Internal Conflicts:	
-
-	External Conflicts:	 
- 	
-
-	Notes:	Will probably not appear until Dead London #2 or 3</Text>
-        </Document>
         <Document ID="877">
             <Title>Chapter 17</Title>
             <Synopsis>Annabel meets Dr. Jekyll, but convinces him she’s a Resurrectionist. Eventually, he realizes who she is, and pricks her neck and knocks her unconscious.
@@ -17351,6 +17367,29 @@ Roderick gave Andrew a pat on the shoulder and stepped past him. He unlocked the
 With that, he took Andrew by the hand and led him to the ornithopter’s steps. Andrew climbed inside, took Bailey off of Roderick’s hands, and settled into a seat as Roderick clambered in after him.
 As the door closed, the infected closed in on the flying machine. Roderick shouted for them to take off, and a moment later, the pilot complied. Andrew felt a twinge in his stomach as they lifted off the ground. The infected outstretched their arms, reaching up into the sky after them, but the ornithopter was beyond their reach. The infected creatures on the ground grew smaller and smaller, until they were as tiny as toys, and then until they disappeared into the fog and the dark.</Text>
             <Comments> Change Andrew's scene so that he has to visit the underground</Comments>
+        </Document>
+        <Document ID="100">
+            <Title>Camille Vincent</Title>
+            <Text>Camille Vincent
+
+	Role in Story:	Support
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	The surviving sister of Rachelle Vincent, Camille Vincent is as beautiful as she is deadly. In truth, she and Parson seem more a match than he and Rachelle ever were. Vindictive, sarcastic, and a proponent for the Rational Dress Society, Camille Vincent is also somewhat of a marksman.
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	Will probably not appear until Dead London #2 or 3</Text>
         </Document>
         <Document ID="75">
             <Title>The Etiquette of Calling</Title>
@@ -17507,30 +17546,6 @@ Miss Monday’s heart sank.
 “By God!” Lockwood exclaimed from within the crew cabin, loud enough to be heard outside.
 They shared his sentiment, but there was nothing to be done. Not a word was spoken. Not a breath was breathed.</Text>
         </Document>
-        <Document ID="101">
-            <Title>Rachelle Vincent</Title>
-            <Text>Mircalla Karnstein (Carmella), née Rachelle Vincent
-
-	Role in Story:	Deceased Fiancée of Parson Sinews
-	Occupation:	
- 	
-
-Physical Description:	Beautiful, fair, and elegant.
-
-Personality:		Kind, gentle-tempered, she possesses a naive wonderment—a certain joie-de-vivre—that Parson finds captivating. Sensitive, shy, and young, Rachelle is truly Parson’s opposite in almost every sense. Like Parson, she is beautiful, intelligent, and wealthy.
-
-	Habits/Mannerisms:	
- 	
-
-Background:		Rachelle Vincent is Parson Sinews’ beautiful, late fiancée. Murdered by Doctor Allen, Rachelle Vincent was once the only light in Parson Sinews’ world. While she was alive, he would often call her “his one redeeming quality,” and would jokingly state that he had never meant to fall in love but that it could not be avoided. In his words, “I'm all for romance; it's love I'm against. Love makes moths of us all, and none can resist its flame.”  Rachelle, a Parisian recently migrated to London, was also a twin to Camille Vincent.  The truth about Rachelle is that everything is not what it seems. She is as deceptive as she is beautiful, a sociopath so committed to the pursuit of science that she is willing to do anything and betray anyone so long as her research can continue unhindered. She believes her research is important enough that it is necessary to make these sorts of “sacrifices.”  She is a scientist, investigating the effects of the Lazarus Virus, and a member of The Resurrectionists, a cult devoted to scientific advancement. The members of this group had apparently been under the impression that the Lazarus Virus was a secret known only to them. Their leader, Sir Henry (a leader among the British Military) had gone to great lengths to cover up all evidence of the group’s activities, and only recently had it come to his attention that the Agency was also aware of the Lazarus Virus.  Among the members of the group, a pseudonym is deemed a necessity in order to protect their identities. Rachelle’s is Mircalla Karnstein (Mircalla as in Mircalla Dyer, a serial killer known as the ‘Angel Maker,’; Karnstein as in Sir Henry Karnstein).
-
-	Internal Conflicts:	
-
-	External Conflicts:	 
- 	
-
-	Notes:	</Text>
-        </Document>
         <Document ID="878">
             <Title>Scene 37</Title>
             <Synopsis>Roderick, Taggert, and Hargrave search for Parson Sinews in the prison, and encounter zombie prisoners. </Synopsis>
@@ -17594,6 +17609,30 @@ After a moment, she drew back and looked at him like an addict might look at a b
 “Don’t be,” Annabel replied, leaning towards him once more, much to Dr. Simms loudly vocalized discomfort. “I’m afraid I rather liked it.”</Text>
             <Comments>used elsewhere</Comments>
             <Notes>Possible rewrite with Abraham Palmer revealing his true colours only in this scene, Jonathan showing up just in time to shoot him.</Notes>
+        </Document>
+        <Document ID="101">
+            <Title>Rachelle Vincent</Title>
+            <Text>Mircalla Karnstein (Carmella), née Rachelle Vincent
+
+	Role in Story:	Deceased Fiancée of Parson Sinews
+	Occupation:	
+ 	
+
+Physical Description:	Beautiful, fair, and elegant.
+
+Personality:		Kind, gentle-tempered, she possesses a naive wonderment—a certain joie-de-vivre—that Parson finds captivating. Sensitive, shy, and young, Rachelle is truly Parson’s opposite in almost every sense. Like Parson, she is beautiful, intelligent, and wealthy.
+
+	Habits/Mannerisms:	
+ 	
+
+Background:		Rachelle Vincent is Parson Sinews’ beautiful, late fiancée. Murdered by Doctor Allen, Rachelle Vincent was once the only light in Parson Sinews’ world. While she was alive, he would often call her “his one redeeming quality,” and would jokingly state that he had never meant to fall in love but that it could not be avoided. In his words, “I'm all for romance; it's love I'm against. Love makes moths of us all, and none can resist its flame.”  Rachelle, a Parisian recently migrated to London, was also a twin to Camille Vincent.  The truth about Rachelle is that everything is not what it seems. She is as deceptive as she is beautiful, a sociopath so committed to the pursuit of science that she is willing to do anything and betray anyone so long as her research can continue unhindered. She believes her research is important enough that it is necessary to make these sorts of “sacrifices.”  She is a scientist, investigating the effects of the Lazarus Virus, and a member of The Resurrectionists, a cult devoted to scientific advancement. The members of this group had apparently been under the impression that the Lazarus Virus was a secret known only to them. Their leader, Sir Henry (a leader among the British Military) had gone to great lengths to cover up all evidence of the group’s activities, and only recently had it come to his attention that the Agency was also aware of the Lazarus Virus.  Among the members of the group, a pseudonym is deemed a necessity in order to protect their identities. Rachelle’s is Mircalla Karnstein (Mircalla as in Mircalla Dyer, a serial killer known as the ‘Angel Maker,’; Karnstein as in Sir Henry Karnstein).
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
         </Document>
         <Document ID="77">
             <Title>The Etiquette of The Table</Title>
@@ -17671,6 +17710,41 @@ General Rule of Etiquette
         </Document>
         <Document ID="657">
             <Title>Miscellaneous Scenes</Title>
+        </Document>
+        <Document ID="879">
+            <Title>Chapter 18</Title>
+            <Synopsis>Abraham Palmer relates Anthony Tidkins’ origin story to Jonathan, who learns that Palmer heard the story from Tidkins himself.</Synopsis>
+            <Text>“Life isn’t about finding yourself. Life is about creating yourself.”
+
+- George Bernard Shaw
+</Text>
+        </Document>
+        <Document ID="768">
+            <Title>Scene One</Title>
+            <Synopsis>Henry Charles and Marianne rendezvous with the Penny Dreadful crew.</Synopsis>
+            <Text>The Penny Dreadful should already have arrived at the clock tower, but Henry Charles Ocelot and Mrs. Hatton had no other plan but to continue waiting. Any number of things could have caused the delay. They’d barely made their rendezvous on time themselves. Since leaving Trafalgar Square, they’d come across hundreds of zombies and had had to make the journey on foot, making use of a number of unscheduled detours. The airship crew had the advantage of navigating the sky, but that was assuming they’d made it back to the airship after completing their mission.
+The zombies were everywhere, wandering like ghosts through the shadows. The inhuman sound of distant, hungry moaning had become a soundscape as constant as the striations of crickets in a cornfield, each voice blending with another. The sound was punctuated only by the occasional screams of the living as they either ran for cover or were eaten alive.
+The sound reverberated along the cobblestones, while Henry Charles and Marianne found a quiet corner to catch their breath and wait. They were largely ignored by the zombies, which were distracted by the sounds of distant screams or the scent of freshly spilled blood. So long as they remained perfectly still, even as the occasional zombie stumbled towards them, they encountered little trouble. Still, every time one of those creatures even looked in their direction, their hearts would begin to race and Mrs. Hatton’s arm would begin to tremble.
+“How much longer do we wait?” asked Mrs. Hatton when the coast was clear.
+By answer, Henry Charles pointed up at the sky. The Penny Dreadful had floated into view.
+“Just until it touches down, I suppose,” he said.
+Mrs. Hatton let out a yip of joy.
+“I never thought they’d make it,” she said with a triumphant laugh.
+“Honestly,” said Henry Charles, “Neither did I.”
+They waited, not entirely calmly, as the dirigible descended. The zombies continued to meander in the near distance, and sometimes they got a bit too close for comfort. The dirigible made its way down slowly, coming in right beside Big Ben, its propellers whirring, its sails retracted. The zombies paid no attention to it, setting their sights instead on earthbound things.
+When the ship was close enough to the ground, they could make out Captain Merrick standing at the prow. The crew emerged beside him and looked down into the sea of fog.
+Henry Charles and Mrs. Hatton emerged from their little alcove and waved, not daring to call out for fear of drawing unwanted attention. They waved with both arms, taking care to watch their surroundings and not just the ship above.
+From within the fog, a figure emerged. From this distance, it was impossible to know if he was alive or a zombie. Henry Charles preferred not to wait around to find out. He glanced up.
+“They see us,” Mrs. Hatton whispered.
+He nodded, hopefully not belying how nervous he felt. He wasn’t sure if Mrs. Hatton had seen the figure in the distance. He drew closer; it was a living man, judging by his gait. The closer he got, the more his features revealed themselves. The mask upon his head, bird-like and dark, that of a plague doctor. A murder of crows glided above his head, their wings spread. They flew unnaturally close to one another, like a bunch of helium balloons. Likely, they were not birds at all, but machines, built of brass and wood, painted black and decorated with feathers and glass eyes. There were strings attached to each of their ankles, and the Resurrectionist pulled the strings, dragging the birds along like kites. Every now and then one of them would emit a hiss of green air that would trail behind it, dispersing into the fog.
+“You’ll ’ave ter climb up, guv. Ma’am,” Kippar Lockwood shouted, tipping his hat to the pair, “Beggin’ your forgiveness, but it ain’t safe ter land.”
+The crew had let down a rope ladder. It dangled just above, beyond Mrs. Hatton’s reach.
+“Come, you’ll have to go first,” he said, keeping a wary eye on the figure in the fog. He bent on one knee, allowing Mrs. Hatton to step up onto his leg, and boosted her up so she could reach the ladder. He watched as she began to ascend. He returned his attention to the Resurrectionist, but the man was gone. Vanished into the fog.
+He reached for the rope.</Text>
+            <Comments>used elsewhere</Comments>
+        </Document>
+        <Document ID="324">
+            <Title>Miss Monday and Mr. O visit Mr. O's underground office again</Title>
         </Document>
         <Document ID="102">
             <Title>Parson Sinews</Title>
@@ -17797,41 +17871,6 @@ Parson’s desires nothing more than to put aside his grief. Without the fires o
 	Notes:	
 
 </Text>
-        </Document>
-        <Document ID="879">
-            <Title>Chapter 18</Title>
-            <Synopsis>Abraham Palmer relates Anthony Tidkins’ origin story to Jonathan, who learns that Palmer heard the story from Tidkins himself.</Synopsis>
-            <Text>“Life isn’t about finding yourself. Life is about creating yourself.”
-
-- George Bernard Shaw
-</Text>
-        </Document>
-        <Document ID="768">
-            <Title>Scene One</Title>
-            <Synopsis>Henry Charles and Marianne rendezvous with the Penny Dreadful crew.</Synopsis>
-            <Text>The Penny Dreadful should already have arrived at the clock tower, but Henry Charles Ocelot and Mrs. Hatton had no other plan but to continue waiting. Any number of things could have caused the delay. They’d barely made their rendezvous on time themselves. Since leaving Trafalgar Square, they’d come across hundreds of zombies and had had to make the journey on foot, making use of a number of unscheduled detours. The airship crew had the advantage of navigating the sky, but that was assuming they’d made it back to the airship after completing their mission.
-The zombies were everywhere, wandering like ghosts through the shadows. The inhuman sound of distant, hungry moaning had become a soundscape as constant as the striations of crickets in a cornfield, each voice blending with another. The sound was punctuated only by the occasional screams of the living as they either ran for cover or were eaten alive.
-The sound reverberated along the cobblestones, while Henry Charles and Marianne found a quiet corner to catch their breath and wait. They were largely ignored by the zombies, which were distracted by the sounds of distant screams or the scent of freshly spilled blood. So long as they remained perfectly still, even as the occasional zombie stumbled towards them, they encountered little trouble. Still, every time one of those creatures even looked in their direction, their hearts would begin to race and Mrs. Hatton’s arm would begin to tremble.
-“How much longer do we wait?” asked Mrs. Hatton when the coast was clear.
-By answer, Henry Charles pointed up at the sky. The Penny Dreadful had floated into view.
-“Just until it touches down, I suppose,” he said.
-Mrs. Hatton let out a yip of joy.
-“I never thought they’d make it,” she said with a triumphant laugh.
-“Honestly,” said Henry Charles, “Neither did I.”
-They waited, not entirely calmly, as the dirigible descended. The zombies continued to meander in the near distance, and sometimes they got a bit too close for comfort. The dirigible made its way down slowly, coming in right beside Big Ben, its propellers whirring, its sails retracted. The zombies paid no attention to it, setting their sights instead on earthbound things.
-When the ship was close enough to the ground, they could make out Captain Merrick standing at the prow. The crew emerged beside him and looked down into the sea of fog.
-Henry Charles and Mrs. Hatton emerged from their little alcove and waved, not daring to call out for fear of drawing unwanted attention. They waved with both arms, taking care to watch their surroundings and not just the ship above.
-From within the fog, a figure emerged. From this distance, it was impossible to know if he was alive or a zombie. Henry Charles preferred not to wait around to find out. He glanced up.
-“They see us,” Mrs. Hatton whispered.
-He nodded, hopefully not belying how nervous he felt. He wasn’t sure if Mrs. Hatton had seen the figure in the distance. He drew closer; it was a living man, judging by his gait. The closer he got, the more his features revealed themselves. The mask upon his head, bird-like and dark, that of a plague doctor. A murder of crows glided above his head, their wings spread. They flew unnaturally close to one another, like a bunch of helium balloons. Likely, they were not birds at all, but machines, built of brass and wood, painted black and decorated with feathers and glass eyes. There were strings attached to each of their ankles, and the Resurrectionist pulled the strings, dragging the birds along like kites. Every now and then one of them would emit a hiss of green air that would trail behind it, dispersing into the fog.
-“You’ll ’ave ter climb up, guv. Ma’am,” Kippar Lockwood shouted, tipping his hat to the pair, “Beggin’ your forgiveness, but it ain’t safe ter land.”
-The crew had let down a rope ladder. It dangled just above, beyond Mrs. Hatton’s reach.
-“Come, you’ll have to go first,” he said, keeping a wary eye on the figure in the fog. He bent on one knee, allowing Mrs. Hatton to step up onto his leg, and boosted her up so she could reach the ladder. He watched as she began to ascend. He returned his attention to the Resurrectionist, but the man was gone. Vanished into the fog.
-He reached for the rope.</Text>
-            <Comments>used elsewhere</Comments>
-        </Document>
-        <Document ID="324">
-            <Title>Miss Monday and Mr. O visit Mr. O's underground office again</Title>
         </Document>
         <Document ID="79">
             <Title>The Etiquette of The Ball</Title>
@@ -17976,27 +18015,6 @@ She smiled pleasantly as his face puckered when he sipped his own.
         <Document ID="658">
             <Title>Abandoned Characters</Title>
         </Document>
-        <Document ID="103">
-            <Title>Annabel Grey</Title>
-            <Text>Miss Monday, née Annabel Gray
-
-Role in Story:		Protagonist
-Occupation:		Thief
- 	
-
-Physical Description:	Viewed from the right angle, Miss Monday was stunning. With long ringlets of orange hair, a fair complexion and perfectly delicate features, that coy smile upon her lips was still her most captivating feature. She was smartly dressed in the height of fashion, with a cameo necklace and pearl earrings, a long skirt with a short bustle, in a rich green to match her one remaining eye and her silk gloves. She wore a corsage as if to give the impression that she had an escort with her, absent at the moment though he might be.  From any other angle (and in any other mood), Miss Monday could be utterly terrifying. She boasted a long scar on that side of her face that was covered by the unusual contraption which covered her missing eye. She had the capacity to scowl in a way that was most dreadful, and there was an intensity in her remaining eye that could send chills up the spine of even the bravest of men.   She carries a Derringer and a Colt, and wears gloves and layers of silk skirts to hide her pistols and her mechanical arm.  Like the clockwork eye she straps to her face each morning, her arm is made of mechanical parts. Gears which click as she rotates her forearm, hydraulics which hiss as she flexes her artificial muscles. Each joint bears a keyhole. The key she wears like a pendant around her neck is used for winding up her arm like a music box. The arm is copper and brass and made with the same extraordinary workmanship of her mechanical eye. It moves with quiet motions, even as the gears whir and click.
-
-Personality:		Miss Monday tends to be highly sarcastic. She’s more or less fearless, as well as intelligent and resourceful. She cannot stand to be shown up, especially by men, and is constantly striving to prove her capableness. She is prone to air sickness, but is afraid of the unliving more than anything—so afraid, in fact, that she has trouble accepting that they’re real. She is ashamed of her disfigurements, and takes pains to hide them or make them less noticeable. She has trouble believing that anyone could love her, although she’s not afraid to use her feminine wiles to her advantage.  She’s decisive, quick on her feet, and quickly able to grasp information. Her background has taught her to look out only for herself, to trust no one, and to take what she likes and give nothing back. Despite that, deep down she has a good heart.
-Habits/Mannerisms:	Miss Monday dresses smart and tends to follow the general rules of politeness, although her manners can at times be a bit rough. She’s also much too assertive (especially for a woman). She has a crass vocabulary and an unusual way with words, as well as a strange sense of humour.
-
-Background:		Miss Monday, née Annabel Gray, was orphaned at an early age, and remembers very little of her parents. She learned to take care of herself, scrapping with the boys, stealing her meals, and eventually being adopted by Jack Bernhardt, who helped her to take her profession to the next level, not to steal for survival. He also helped her to form professional contacts, arranged to have her taught to use firearms, bartitsu, and manners. She was involved in several high-profile heists. She was also occasionally hired as an assassin.  When sold out by Bertram Melbourne, 
-
-Internal Conflicts:		Miss Monday isn’t exactly haunted by her criminal past, but she’s not proud of it either. She’s killed people and not all of them deserve it. She would like to redeem herself, although she wonders if that desire might be self-destructive; wouldn’t it be in her best interest if she just let the world burn? In other words, she’s softer than she would care to admit.
-
-External Conflicts:		Miss Monday, a hardened assassin, must battle the unliving alongside Mr. O. Together, they also fight the nefarious Dr. Tidkins, a man from Miss Monday’s past.
-
-Notes:		Monday is a relatively simple pseudonym. She was born on a Monday.  Miss Monday is a formidable sharpshooter. Whatever machinations had gone into the design of her prosthetic eye, it is more enhancement than replacement.</Text>
-        </Document>
         <Document ID="769">
             <Title>Scene Two</Title>
             <Synopsis>Roderick talks with Dr. Allen.</Synopsis>
@@ -18095,6 +18113,27 @@ Even the mechanical clang of the printing press in the room next door was not en
 The elevator arrived, and he slid open the rusty gate. They stepped inside and began their descent into the Agency proper.
 “Well,” said Mr. O, “She ought to be. I’m a dangerous man.”
 Miss Monday snorted. “You wish,” she said.</Text>
+        </Document>
+        <Document ID="103">
+            <Title>Annabel Grey</Title>
+            <Text>Miss Monday, née Annabel Gray
+
+Role in Story:		Protagonist
+Occupation:		Thief
+ 	
+
+Physical Description:	Viewed from the right angle, Miss Monday was stunning. With long ringlets of orange hair, a fair complexion and perfectly delicate features, that coy smile upon her lips was still her most captivating feature. She was smartly dressed in the height of fashion, with a cameo necklace and pearl earrings, a long skirt with a short bustle, in a rich green to match her one remaining eye and her silk gloves. She wore a corsage as if to give the impression that she had an escort with her, absent at the moment though he might be.  From any other angle (and in any other mood), Miss Monday could be utterly terrifying. She boasted a long scar on that side of her face that was covered by the unusual contraption which covered her missing eye. She had the capacity to scowl in a way that was most dreadful, and there was an intensity in her remaining eye that could send chills up the spine of even the bravest of men.   She carries a Derringer and a Colt, and wears gloves and layers of silk skirts to hide her pistols and her mechanical arm.  Like the clockwork eye she straps to her face each morning, her arm is made of mechanical parts. Gears which click as she rotates her forearm, hydraulics which hiss as she flexes her artificial muscles. Each joint bears a keyhole. The key she wears like a pendant around her neck is used for winding up her arm like a music box. The arm is copper and brass and made with the same extraordinary workmanship of her mechanical eye. It moves with quiet motions, even as the gears whir and click.
+
+Personality:		Miss Monday tends to be highly sarcastic. She’s more or less fearless, as well as intelligent and resourceful. She cannot stand to be shown up, especially by men, and is constantly striving to prove her capableness. She is prone to air sickness, but is afraid of the unliving more than anything—so afraid, in fact, that she has trouble accepting that they’re real. She is ashamed of her disfigurements, and takes pains to hide them or make them less noticeable. She has trouble believing that anyone could love her, although she’s not afraid to use her feminine wiles to her advantage.  She’s decisive, quick on her feet, and quickly able to grasp information. Her background has taught her to look out only for herself, to trust no one, and to take what she likes and give nothing back. Despite that, deep down she has a good heart.
+Habits/Mannerisms:	Miss Monday dresses smart and tends to follow the general rules of politeness, although her manners can at times be a bit rough. She’s also much too assertive (especially for a woman). She has a crass vocabulary and an unusual way with words, as well as a strange sense of humour.
+
+Background:		Miss Monday, née Annabel Gray, was orphaned at an early age, and remembers very little of her parents. She learned to take care of herself, scrapping with the boys, stealing her meals, and eventually being adopted by Jack Bernhardt, who helped her to take her profession to the next level, not to steal for survival. He also helped her to form professional contacts, arranged to have her taught to use firearms, bartitsu, and manners. She was involved in several high-profile heists. She was also occasionally hired as an assassin.  When sold out by Bertram Melbourne, 
+
+Internal Conflicts:		Miss Monday isn’t exactly haunted by her criminal past, but she’s not proud of it either. She’s killed people and not all of them deserve it. She would like to redeem herself, although she wonders if that desire might be self-destructive; wouldn’t it be in her best interest if she just let the world burn? In other words, she’s softer than she would care to admit.
+
+External Conflicts:		Miss Monday, a hardened assassin, must battle the unliving alongside Mr. O. Together, they also fight the nefarious Dr. Tidkins, a man from Miss Monday’s past.
+
+Notes:		Monday is a relatively simple pseudonym. She was born on a Monday.  Miss Monday is a formidable sharpshooter. Whatever machinations had gone into the design of her prosthetic eye, it is more enhancement than replacement.</Text>
         </Document>
         <Document ID="214">
             <Title>Becoming a Writer</Title>
@@ -18213,29 +18252,6 @@ He set it down. He wished he could. He wished he could trust anyone at all. But 
 He wondered what had happened to her. He had little hope that she had simply been returned to her own home with a politely written note on her beside table. She was likely still locked up in the underground facility, if she was still alive.
 But he had to turn that thought aside as well, for now. He’d worry about her rescue once he’d secured his own. As to that end, </Notes>
         </Document>
-        <Document ID="104">
-            <Title>Mrs. Grimmer</Title>
-            <Text>Mrs. Elizabeth Grimmer
-
-Role in Story:		Support
-Occupation:		Chief Financial Officer
- 	
-
-Physical Description:	Grandness of stature was obviously a family trait; Mrs. Grimmer could in no way at all possible be considered small, especially for a lady; even in comparison to her son, she seemed a bit of a giant. As if by way of distracting from her impressive height, Mrs. Grimmer seemed to flaunt her exorbitant wealth, wearing it in jewels, perfume, and skirts.
-
-Personality:		Blunt, cold, sarcastic, and self-centred, Mrs. Grimmer is concerned about very little other than her own appearance and social standing. She maintains an acquaintanceship with the Queen Victoria, which she likes to bring up in conversation whenever possible.  Of course, there is more to Mrs. Grimmer than one might initially realise. While on the surface she seems self-centred and superficial, in truth, this is only her way of trying to control her emotions. At times she blames her son for the death of her husband, but she pretends that nothing bothers her, that she is just a bitter, materialistic woman. She cares deeply for her son, but she has difficulty reconciling the death of her husband.
-
-Habits/Mannerisms:	She has a knack for annoyingly flawless punctuality.
- 	
-
-Background:		Although Mrs. Grimmer’s position as Chief Financial Officer amounted to little more than financier and glorified accountant, the Agency’s employees had become accustomed to taking directives from her. This was more to do with her habit of threatening to reduce funding to those departments whose agents failed to comply with her sometimes lofty demands than legitimate respect for her authority, but still. The adamant way in which she impressed her own importance upon the Agents seemed to be working.  As a result, Mr. O, who was both Mrs. Grimmer’s son and the official Orchestrator of the Agency, found that his own ability to command respect was waning, while his mother seemed to increasingly hold more sway. Recently, he had even been forced to take on missions that Mrs. Grimmer lacked the authority to assign. Indeed, so long as the Agency continued to be privately funded by the Grimmer family fortune, Mr. O had little choice but to tolerate his mother’s interference.
-
-Internal Conflicts:		Mrs. Grimmer does wish to be a good mother to her son, but she’s not the best at showing her feelings. At least some aspects of her personality are affected, as a defence mechanism.
-
-External Conflicts:		She must do what she can in the battle against the unliving. She does so while pretending to be uninterested and unconcerned.
-
-Notes:		Mrs. Grimmer is a widow; Mr. Grimmer was killed by Mr. O, his son, who at the time was infected with an early version of the Lazarus Virus. Although Mr. O was able to be cured, the current mutation of the plague is more robust, and cannot be cured so easily.</Text>
-        </Document>
         <Document ID="326">
             <Title>Scene One</Title>
             <Text>The elevator descended with its steady mechanical rhythm, down, down toward the basement of the real Agency, the one whose mandate was to exterminate the unliving while guarding the world’s most dangerous secret. Lazarus.
@@ -18270,6 +18286,29 @@ She sighed. She knew he would not have asked if he didn’t think it was relevan
 If she wanted Mr. O to trust her, she couldn’t keep this from him.
 “Alright,” she said, at last, “I’ll tell you. I’ll tell you everything.”
 Then she swallowed the whole of her glass of one, in one swift gulp.</Text>
+        </Document>
+        <Document ID="104">
+            <Title>Mrs. Grimmer</Title>
+            <Text>Mrs. Elizabeth Grimmer
+
+Role in Story:		Support
+Occupation:		Chief Financial Officer
+ 	
+
+Physical Description:	Grandness of stature was obviously a family trait; Mrs. Grimmer could in no way at all possible be considered small, especially for a lady; even in comparison to her son, she seemed a bit of a giant. As if by way of distracting from her impressive height, Mrs. Grimmer seemed to flaunt her exorbitant wealth, wearing it in jewels, perfume, and skirts.
+
+Personality:		Blunt, cold, sarcastic, and self-centred, Mrs. Grimmer is concerned about very little other than her own appearance and social standing. She maintains an acquaintanceship with the Queen Victoria, which she likes to bring up in conversation whenever possible.  Of course, there is more to Mrs. Grimmer than one might initially realise. While on the surface she seems self-centred and superficial, in truth, this is only her way of trying to control her emotions. At times she blames her son for the death of her husband, but she pretends that nothing bothers her, that she is just a bitter, materialistic woman. She cares deeply for her son, but she has difficulty reconciling the death of her husband.
+
+Habits/Mannerisms:	She has a knack for annoyingly flawless punctuality.
+ 	
+
+Background:		Although Mrs. Grimmer’s position as Chief Financial Officer amounted to little more than financier and glorified accountant, the Agency’s employees had become accustomed to taking directives from her. This was more to do with her habit of threatening to reduce funding to those departments whose agents failed to comply with her sometimes lofty demands than legitimate respect for her authority, but still. The adamant way in which she impressed her own importance upon the Agents seemed to be working.  As a result, Mr. O, who was both Mrs. Grimmer’s son and the official Orchestrator of the Agency, found that his own ability to command respect was waning, while his mother seemed to increasingly hold more sway. Recently, he had even been forced to take on missions that Mrs. Grimmer lacked the authority to assign. Indeed, so long as the Agency continued to be privately funded by the Grimmer family fortune, Mr. O had little choice but to tolerate his mother’s interference.
+
+Internal Conflicts:		Mrs. Grimmer does wish to be a good mother to her son, but she’s not the best at showing her feelings. At least some aspects of her personality are affected, as a defence mechanism.
+
+External Conflicts:		She must do what she can in the battle against the unliving. She does so while pretending to be uninterested and unconcerned.
+
+Notes:		Mrs. Grimmer is a widow; Mr. Grimmer was killed by Mr. O, his son, who at the time was infected with an early version of the Lazarus Virus. Although Mr. O was able to be cured, the current mutation of the plague is more robust, and cannot be cured so easily.</Text>
         </Document>
         <Document ID="215">
             <Title>Book Two: The Prison of Secrets</Title>
@@ -18528,30 +18567,6 @@ The Shilling Shocker (name of airship)
 Dead London (name of place)
 Brass Cannon (name of weapon)</Text>
         </Document>
-        <Document ID="106">
-            <Title>Prof. Ashcroft</Title>
-            <Text>Professor Ashcroft
-
-	Role in Story:	Support
-	Occupation:	Engineer
- 	
-
-Physical Description:	
-
-	Personality:	
-
-	Habits/Mannerisms:	
- 	
-
-	Background:	A clever middle-class man, working aboard the Penny Dreadful as its chief engineer
-
-	Internal Conflicts:	
-
-	External Conflicts:	 
- 	
-
-	Notes:	</Text>
-        </Document>
         <Document ID="328">
             <Title>Scene One</Title>
             <Text>“I was a much younger woman back then—a girl, really—and if it can be believed, even prettier than I am now.”
@@ -18581,6 +18596,30 @@ Jonathan repeated those words, inflecting meaning into them. “Raise the dead, 
 “Yes, precisely my point,” said Miss Monday. “This particular bokor had apparently amassed quite the following, though his people also feared him. They called him Papa Doc because he was healer. The light, on the one hand. On the other hand, he had been using his power as a political weapon, creating fear and propaganda. Even his own people feared him, and he slaughtered those who questioned him with uncompromising mercilessness.”
 “Nice chap,” said Jonathan.
 “Yes, well, they made him president.”</Text>
+        </Document>
+        <Document ID="106">
+            <Title>Prof. Ashcroft</Title>
+            <Text>Professor Ashcroft
+
+	Role in Story:	Support
+	Occupation:	Engineer
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	A clever middle-class man, working aboard the Penny Dreadful as its chief engineer
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
         </Document>
         <Document ID="912">
             <Title>Scene 60</Title>
@@ -18642,9 +18681,6 @@ It was the smell of death.
 The second thing that gave it away was the sound of flies buzzing around Connor’s motionless body.
 </Text>
         </Document>
-        <Document ID="107">
-            <Title>Queen Victoria</Title>
-        </Document>
         <Document ID="329">
             <Title>Scene Two</Title>
             <Text>“The airship eventually set down in the city of Port-Au-Prince, with a backdrop of sunny skies and palm trees. Jack must have been sweltering beneath his plague doctor’s mask, but still he kept it strapped to his face.
@@ -18659,6 +18695,9 @@ Eventually, with the niceties out of the way, she took us to a steam-powered pad
 “No wonder this Papa Doc was so feared,” said Mr. O.
 “You have no idea,” Annabel replied. “Shall I skip to the good part?”
 “You should have begun with the good part.”</Text>
+        </Document>
+        <Document ID="107">
+            <Title>Queen Victoria</Title>
         </Document>
         <Document ID="218">
             <Title>Notes/Ideas</Title>
@@ -19103,7 +19142,7 @@ Charles deftly brought the umbrella up toward the man’s chin, striking with th
 He felt an enormous hand seize him by the neck and haul him back. He choked as his feet lifted off the ground, the Giant’s strong hands crushing his windpipe. The Giant moved his hands to grab Charles by the legs and shoulders, and Charles gasped for air, kicking his legs furiously.
 The Giant grabbed Charles tighter, holding him against his own chest, like a destitute mother smothering her child. Charles could no longer even struggle.
 “I’ve got him,” said the Irish Giant, turning so Charles could see the doctor, masked like his assailant.
-“Well done, Mr. Wagner,” said the doctor.
+“Well done, Mr. Hyde,” said the doctor.
 Charles was beginning to lose consciousness, the giant was squeezing the air out of him, like a boa constrictor crushing its prey. His face had gone blue, his breaths were shallow. He felt his ribs crack. He thought dimly of a woman. Not Mrs. Grimmer, but someone else. There had been another woman in his life, when he was a much younger man. It had been so long since he’d thought of her, but now she was all that he could think of. She would be his final thought.</Text>
         </Document>
         <Document ID="916">
