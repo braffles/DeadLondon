@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryce-Raffles-iMac" Modified="2016-01-16 12:37:50 -0800" ModID="CFA8B7A8-B6BD-47F6-8BAD-E327FB549143">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-01-16 17:16:45 -0800" ModID="B5C2B4AC-F7CB-4D44-98B5-E0D000BC8918">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2015-06-28 14:17:36 -0700">
             <Title>Dead London</Title>
@@ -1565,7 +1565,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="930" UUID="E25EA007-5E10-438B-AE5B-DDD09D1C39C3" Type="Text" Created="2016-01-05 22:10:08 -0800" Modified="2016-01-10 14:30:52 -0800">
+                                <BinderItem ID="930" UUID="E25EA007-5E10-438B-AE5B-DDD09D1C39C3" Type="Text" Created="2016-01-05 22:10:08 -0800" Modified="2016-01-16 13:14:35 -0800">
                                     <Title>Scene 70</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1634,168 +1634,93 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="934" UUID="244A1220-9365-4C6C-99CB-44D1BF3A1D8D" Type="Folder" Created="2016-01-10 11:49:59 -0800" Modified="2016-01-10 11:50:02 -0800">
+                        <BinderItem ID="934" UUID="244A1220-9365-4C6C-99CB-44D1BF3A1D8D" Type="Folder" Created="2016-01-10 11:49:59 -0800" Modified="2016-01-16 15:02:12 -0800">
                             <Title>Chapter 33</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
+                                <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="937" UUID="DA0C5252-B5B1-4408-968D-2065637BDDFE" Type="Text" Created="2016-01-10 13:18:25 -0800" Modified="2016-01-10 14:33:50 -0800">
+                                <BinderItem ID="937" UUID="DA0C5252-B5B1-4408-968D-2065637BDDFE" Type="Text" Created="2016-01-10 13:18:25 -0800" Modified="2016-01-16 16:48:30 -0800">
                                     <Title>Scene 74</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
                                         <StatusID>1</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>27,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
+                                        <NotesTextSelection>2865,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5112,0</TextSelection>
+                                        <TextSelection>4678,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="941" UUID="D8BD8F99-44CA-4D8E-A9D4-5A58B7101542" Type="Text" Created="2016-01-10 13:52:26 -0800" Modified="2016-01-10 15:24:33 -0800">
+                                <BinderItem ID="941" UUID="D8BD8F99-44CA-4D8E-A9D4-5A58B7101542" Type="Text" Created="2016-01-10 13:52:26 -0800" Modified="2016-01-16 15:42:08 -0800">
                                     <Title>Scene 75</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
                                         <StatusID>1</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>38,0</NotesTextSelection>
+                                        <NotesTextSelection>191,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5825,0</TextSelection>
+                                        <TextSelection>9514,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="942" UUID="3D8E946B-EC2A-4C83-B7C2-68F720780284" Type="Folder" Created="2016-01-10 13:53:53 -0800" Modified="2016-01-10 14:12:31 -0800">
+                        <BinderItem ID="965" UUID="B31841AE-D8B9-4D27-8C2C-11950DAF0DA3" Type="Folder" Created="2016-01-16 15:28:20 -0800" Modified="2016-01-16 15:34:55 -0800">
                             <Title>Chapter 34</Title>
                             <MetaData>
-                                <LabelID>7</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="943" UUID="1B94B5C7-766E-446F-81E6-72FA27B62972" Type="Text" Created="2016-01-10 13:54:00 -0800" Modified="2016-01-10 14:12:31 -0800">
+                                <BinderItem ID="966" UUID="A13D09D0-EF63-4D3A-BF6A-764BF567289B" Type="Text" Created="2016-01-16 15:29:00 -0800" Modified="2016-01-16 16:49:46 -0800">
                                     <Title>Scene 76</Title>
                                     <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <StatusID>1</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,27</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>5098,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="944" UUID="7F3F396E-FED3-4B7E-A407-918D9AB24FEE" Type="Folder" Created="2015-03-07 14:45:46 -0800" Modified="2016-01-10 14:11:53 -0800">
+                        <BinderItem ID="969" UUID="EAA4BF9E-9771-4FB2-99DA-CE34357366F1" Type="Folder" Created="2016-01-16 16:43:43 -0800" Modified="2016-01-16 16:50:28 -0800">
                             <Title>Chapter 35</Title>
                             <MetaData>
                                 <LabelID>8</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="945" UUID="0EB35D47-A7B7-4B25-9352-474F3B76B99E" Type="Text" Created="2015-03-07 15:32:34 -0800" Modified="2016-01-10 14:03:34 -0800">
+                                <BinderItem ID="970" UUID="7DCBF708-1280-4C6A-9E57-70FBF486C54E" Type="Text" Created="2016-01-16 16:43:46 -0800" Modified="2016-01-16 16:50:28 -0800">
                                     <Title>Scene 77</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
-                                        <StatusID>1</StatusID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>27,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3804,0</TextSelection>
+                                        <TextSelection>2494,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="946" UUID="91F4BF9D-7F2B-41AB-A0B3-8F4980389539" Type="Text" Created="2015-03-07 14:44:00 -0800" Modified="2016-01-10 14:03:34 -0800">
+                                <BinderItem ID="971" UUID="122F362A-CE21-4252-B674-39F5BCB3801E" Type="Text" Created="2016-01-16 16:52:14 -0800" Modified="2016-01-16 16:52:52 -0800">
                                     <Title>Scene 78</Title>
                                     <MetaData>
-                                        <LabelID>5</LabelID>
-                                        <StatusID>1</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>27,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>5641,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="948" UUID="5D959F7D-9AB1-45F9-BE15-093D9ED9C65B" Type="Text" Created="2015-03-22 12:44:58 -0700" Modified="2016-01-10 14:03:47 -0800">
-                                    <Title>Scene 79</Title>
-                                    <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <StatusID>1</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>100,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3574,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="949" UUID="32D1A462-5D18-4D5D-9DBB-EA413FD5C39D" Type="Folder" Created="2015-01-18 13:12:22 -0800" Modified="2016-01-10 14:01:49 -0800">
-                            <Title>Chapter 36</Title>
-                            <MetaData>
-                                <LabelID>8</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>20,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="951" UUID="FC5E58F5-EB3B-4382-8E8E-59D6FF05326B" Type="Text" Created="2015-03-28 11:51:11 -0700" Modified="2016-01-10 14:03:47 -0800">
-                                    <Title>Scene 80</Title>
-                                    <MetaData>
-                                        <LabelID>5</LabelID>
-                                        <StatusID>1</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>27,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>7729,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="952" UUID="A1C77EDA-215D-4490-B200-53C0281CD64E" Type="Folder" Created="2016-01-10 14:06:00 -0800" Modified="2016-01-10 14:06:05 -0800">
-                            <Title>Chapter 37</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="953" UUID="3005A155-BF8C-4BDF-AC44-341C5667BD9C" Type="Text" Created="2016-01-10 14:06:09 -0800" Modified="2016-01-10 14:06:37 -0800">
-                                    <Title>Scene 81</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
@@ -1819,34 +1744,123 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                    <Children>
-                        <BinderItem ID="955" UUID="E65C91A3-430C-4FE6-A97A-9EBE2C1E5CC0" Type="Folder" Created="2015-07-08 09:06:42 -0700" Modified="2015-08-25 11:59:21 -0700">
-                            <Title>Epilogue</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>67,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="956" UUID="B547C688-FC97-4D14-90CC-46A19F5DB055" Type="Text" Created="2015-01-18 13:15:16 -0800" Modified="2016-01-10 14:10:26 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <StatusID>2</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>474,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="944" UUID="7F3F396E-FED3-4B7E-A407-918D9AB24FEE" Type="Folder" Created="2015-03-07 14:45:46 -0800" Modified="2016-01-16 16:57:01 -0800">
+            <Title>Chapter 36</Title>
+            <MetaData>
+                <LabelID>8</LabelID>
+                <StatusID>2</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Warning.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="945" UUID="0EB35D47-A7B7-4B25-9352-474F3B76B99E" Type="Text" Created="2015-03-07 15:32:34 -0800" Modified="2016-01-16 16:54:21 -0800">
+                    <Title>Scene 79</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>27,0</NotesTextSelection>
+                        <IconFileName>Warning.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3804,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="946" UUID="91F4BF9D-7F2B-41AB-A0B3-8F4980389539" Type="Text" Created="2015-03-07 14:44:00 -0800" Modified="2016-01-16 16:51:41 -0800">
+                    <Title></Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <StatusID>8</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>27,0</NotesTextSelection>
+                        <IconFileName>Information.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5573,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="948" UUID="5D959F7D-9AB1-45F9-BE15-093D9ED9C65B" Type="Text" Created="2015-03-22 12:44:58 -0700" Modified="2016-01-16 16:53:27 -0800">
+                    <Title>Scene 80</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>100,0</NotesTextSelection>
+                        <IconFileName>Warning.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3574,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="951" UUID="FC5E58F5-EB3B-4382-8E8E-59D6FF05326B" Type="Text" Created="2015-03-28 11:51:11 -0700" Modified="2016-01-16 16:56:23 -0800">
+                    <Title></Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <StatusID>8</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>27,0</NotesTextSelection>
+                        <IconFileName>Information.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7729,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="952" UUID="A1C77EDA-215D-4490-B200-53C0281CD64E" Type="Folder" Created="2016-01-10 14:06:00 -0800" Modified="2016-01-10 14:06:05 -0800">
+            <Title>Chapter 37</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Warning.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="953" UUID="3005A155-BF8C-4BDF-AC44-341C5667BD9C" Type="Text" Created="2016-01-10 14:06:09 -0800" Modified="2016-01-10 14:06:37 -0800">
+                    <Title>Scene 81</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="955" UUID="E65C91A3-430C-4FE6-A97A-9EBE2C1E5CC0" Type="Folder" Created="2015-07-08 09:06:42 -0700" Modified="2015-08-25 11:59:21 -0700">
+            <Title>Epilogue</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Warning.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>67,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="956" UUID="B547C688-FC97-4D14-90CC-46A19F5DB055" Type="Text" Created="2015-01-18 13:15:16 -0800" Modified="2016-01-10 14:10:26 -0800">
+                    <Title>Scene One</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Warning.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>474,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -2788,19 +2802,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="347" UUID="B44EA4E9-0B0C-4BB5-9526-EEAE588A4B72" Type="Text" Created="2014-02-02 13:07:51 -0800" Modified="2014-09-21 14:07:33 -0700">
-                            <Title>Part Three</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Speech Bubble.tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>123,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="816" UUID="67F749AF-CE0F-4EE1-86CC-173ADC89E1F5" Type="Folder" Created="2015-10-24 13:29:49 -0700" Modified="2015-10-24 13:29:55 -0700">
-                            <Title>Vigilance Committee Meeting</Title>
+                        <BinderItem ID="968" UUID="E0BA7BCC-D33E-4359-8722-CA89F87BE039" Type="Folder" Created="2016-01-16 16:04:47 -0800" Modified="2016-01-16 16:04:53 -0800">
+                            <Title>Old Draft 1</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -2809,150 +2812,10 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="616" UUID="54F26694-CDC7-4C32-8AD5-9CE973684428" Type="Text" Created="2014-08-23 10:48:02 -0700" Modified="2015-10-21 20:26:39 -0700">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <StatusID>3</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>5087,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="817" UUID="258D1B44-056F-4CCE-8952-FC3540D30DD0" Type="Text" Created="2014-03-30 13:50:05 -0700" Modified="2015-10-24 13:30:56 -0700">
+                                <BinderItem ID="809" UUID="2D8FF851-BA5F-46AA-9A37-4541CBDA8DBA" Type="Text" Created="2015-10-19 18:34:20 -0700" Modified="2015-12-20 14:10:34 -0800">
                                     <Title>Scene Two</Title>
                                     <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <StatusID>3</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>9385,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="601" UUID="FF86ED1F-3921-48E5-9556-DBFBFDBE613C" Type="Folder" Created="2014-08-09 16:19:21 -0700" Modified="2015-05-02 12:33:01 -0700">
-                            <Title>Prologue</Title>
-                            <MetaData>
-                                <PageBreakBefore>Yes</PageBreakBefore>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Book (Brown Book).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="423" UUID="8D002851-7A42-4F58-84BE-07048E720DCB" Type="Text" Created="2014-03-22 12:13:51 -0700" Modified="2015-05-24 02:50:09 -0700">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3252,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="424" UUID="BB54058B-E3CF-4D6A-A899-A16B23434A6C" Type="Text" Created="2014-03-22 13:15:43 -0700" Modified="2015-05-24 02:51:40 -0700">
-                                    <Title>Scene Two</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3338,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="658" UUID="904D3326-6EC8-466D-8379-026E26DE53C4" Type="Folder" Created="2014-12-13 14:43:01 -0800" Modified="2014-12-13 14:43:06 -0800">
-                            <Title>Abandoned Characters</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="108" UUID="2B12F991-8CB3-4C15-9091-6769CA1FB84B" Type="Text" Created="2013-08-18 15:31:35 -0700" Modified="2014-08-06 19:47:24 -0700">
-                                    <Title>Sir Henry</Title>
-                                    <MetaData>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="98" UUID="8C983094-8F0E-4FC7-8A01-38776B837C89" Type="Text" Created="2013-05-24 10:05:58 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Mao Ling</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>44,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="581" UUID="C5F6C75B-0AE0-4B4E-99F2-9768CC1FE63A" Type="Text" Created="2014-07-27 13:31:56 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Evelyn Thompson</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>383,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="657" UUID="1872EFF4-F50D-48AE-A4C9-5040E449528D" Type="Folder" Created="2014-12-13 14:42:29 -0800" Modified="2014-12-13 14:42:35 -0800">
-                            <Title>Miscellaneous Scenes</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="620" UUID="533F3155-EEC3-4E9B-96B6-7F85EACB6B25" Type="Text" Created="2014-08-24 13:43:12 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Parson, for his part, barely blinked at the revelation</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,87</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="621" UUID="EF81AFD3-8CCA-473E-A6E7-9091F0C2127A" Type="Text" Created="2014-08-24 13:43:28 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>“We’ve glazed over the introductions already, but I’m</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>12274,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="633" UUID="B50E1F44-A7C1-421D-971E-98DEC406A9C3" Type="Text" Created="2014-09-21 14:07:59 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Three</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
+                                        <LabelID>5</LabelID>
                                         <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -2961,10 +2824,484 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="636" UUID="8103514E-730C-44AE-B42F-DEE029109380" Type="Text" Created="2014-11-11 15:23:00 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Two</Title>
+                                <BinderItem ID="347" UUID="B44EA4E9-0B0C-4BB5-9526-EEAE588A4B72" Type="Text" Created="2014-02-02 13:07:51 -0800" Modified="2014-09-21 14:07:33 -0700">
+                                    <Title>Part Three</Title>
                                     <MetaData>
-                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <IconFileName>Speech Bubble.tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>123,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="816" UUID="67F749AF-CE0F-4EE1-86CC-173ADC89E1F5" Type="Folder" Created="2015-10-24 13:29:49 -0700" Modified="2015-10-24 13:29:55 -0700">
+                                    <Title>Vigilance Committee Meeting</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="616" UUID="54F26694-CDC7-4C32-8AD5-9CE973684428" Type="Text" Created="2014-08-23 10:48:02 -0700" Modified="2015-10-21 20:26:39 -0700">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>3</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5087,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="817" UUID="258D1B44-056F-4CCE-8952-FC3540D30DD0" Type="Text" Created="2014-03-30 13:50:05 -0700" Modified="2015-10-24 13:30:56 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>3</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>9385,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="601" UUID="FF86ED1F-3921-48E5-9556-DBFBFDBE613C" Type="Folder" Created="2014-08-09 16:19:21 -0700" Modified="2015-05-02 12:33:01 -0700">
+                                    <Title>Prologue</Title>
+                                    <MetaData>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <IconFileName>Book (Brown Book).tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="423" UUID="8D002851-7A42-4F58-84BE-07048E720DCB" Type="Text" Created="2014-03-22 12:13:51 -0700" Modified="2015-05-24 02:50:09 -0700">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>3252,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="424" UUID="BB54058B-E3CF-4D6A-A899-A16B23434A6C" Type="Text" Created="2014-03-22 13:15:43 -0700" Modified="2015-05-24 02:51:40 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>3338,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="657" UUID="1872EFF4-F50D-48AE-A4C9-5040E449528D" Type="Folder" Created="2014-12-13 14:42:29 -0800" Modified="2014-12-13 14:42:35 -0800">
+                                    <Title>Miscellaneous Scenes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="620" UUID="533F3155-EEC3-4E9B-96B6-7F85EACB6B25" Type="Text" Created="2014-08-24 13:43:12 -0700" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Parson, for his part, barely blinked at the revelation</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,87</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="621" UUID="EF81AFD3-8CCA-473E-A6E7-9091F0C2127A" Type="Text" Created="2014-08-24 13:43:28 -0700" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>“We’ve glazed over the introductions already, but I’m</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>12274,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="633" UUID="B50E1F44-A7C1-421D-971E-98DEC406A9C3" Type="Text" Created="2014-09-21 14:07:59 -0700" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Three</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="636" UUID="8103514E-730C-44AE-B42F-DEE029109380" Type="Text" Created="2014-11-11 15:23:00 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="640" UUID="2C64822B-0F5B-4659-8606-53A9F72501ED" Type="Text" Created="2014-11-15 16:40:38 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>“However, I have come up with another theory. As I</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="675" UUID="BA10295F-051C-4642-A7A2-2C8C08E716B4" Type="Text" Created="2014-12-28 13:19:27 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>1</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5423,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="603" UUID="8BF119FC-BB84-4332-B17A-3868A3CBB2AA" Type="Folder" Created="2014-08-16 13:33:44 -0700" Modified="2014-12-13 14:23:38 -0800">
+                                    <Title>Miss Monday serves lemon tea</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="291" UUID="C75E6FE2-3A09-4650-A032-2E51EFED6D93" Type="Text" Created="2013-11-30 11:28:42 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>507,7</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="341" UUID="02E74101-B030-499B-B398-822973F36D90" Type="Text" Created="2014-02-01 11:15:28 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>216,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="293" UUID="5F23A9D0-A778-443D-BD85-F1B06E2C2919" Type="Text" Created="2013-12-07 12:25:35 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Three</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>20,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="294" UUID="A5B061B2-FB05-4792-A1E2-8D88081D49CA" Type="Text" Created="2013-12-08 13:33:57 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Four</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>4606,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="338" UUID="851B1B91-1FEA-4D6B-A48F-750827E9479E" Type="Folder" Created="2014-01-28 09:52:55 -0800" Modified="2014-12-13 14:24:03 -0800">
+                                    <Title>Miss Monday visits Hyde Park</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <SelectedSubdocumentIDs>297</SelectedSubdocumentIDs>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="302" UUID="ABF96319-0F91-45F2-8672-45745A6E2689" Type="Text" Created="2013-12-21 13:57:00 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <LabelID>7</LabelID>
+                                                <StatusID>1</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>349,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="297" UUID="933642F1-614B-4F71-A63C-116FEB0E3102" Type="Text" Created="2013-12-14 13:46:02 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <LabelID>7</LabelID>
+                                                <StatusID>1</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,3887</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="305" UUID="83303FD4-28A1-4050-9572-ACEEDF365EB0" Type="Folder" Created="2013-12-21 14:10:01 -0800" Modified="2014-12-13 14:24:26 -0800">
+                                    <Title>Miss Monday and Mr. O have a picnic</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="303" UUID="5DF83664-6FC6-4F52-AE2E-6C9E5C8C6C22" Type="Text" Created="2013-12-21 13:58:40 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>4774,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="304" UUID="E14BDDDD-5AAA-442E-BA96-61CD1F86DFDC" Type="Text" Created="2013-12-21 14:09:52 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>33,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="544" UUID="9DCA4710-67FC-4148-BB72-09C6F7A60850" Type="Text" Created="2014-04-06 11:05:29 -0700" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Three</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2359,7</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="306" UUID="7A4DFF6E-BDE7-41C2-A82F-14E89E4772E4" Type="Folder" Created="2013-12-21 14:10:01 -0800" Modified="2014-12-13 14:24:49 -0800">
+                                    <Title>Miss Monday and Mr. O visit the literary agency</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="307" UUID="0F1E7505-1EA5-483B-B812-198B0B5AE5D8" Type="Text" Created="2013-12-21 14:09:52 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1006,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="308" UUID="FD77F2AE-F29F-47EA-9348-6CBD40AC0633" Type="Text" Created="2013-12-28 19:37:51 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>4088,408</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="310" UUID="E386205E-131A-474F-89AA-6B268DB09910" Type="Text" Created="2013-12-30 13:29:25 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Three</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5001,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="311" UUID="B1934866-035C-4DE1-A9CE-DC806BA54FEA" Type="Folder" Created="2014-01-01 12:43:10 -0800" Modified="2014-12-13 14:25:21 -0800">
+                                    <Title>Miss Monday sees the unliving creature in the tank</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="343" UUID="104B1EAB-E42F-406A-9347-2F81896F304C" Type="Text" Created="2014-02-01 11:22:30 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2223,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="312" UUID="3B99EA61-FD4A-415F-89DD-4A95B5ABB659" Type="Text" Created="2014-01-01 12:43:26 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>165,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="313" UUID="FAC16BE0-7BAE-47B4-9F93-A4E54DA41FE6" Type="Text" Created="2014-01-01 13:21:43 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Three</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>3612,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="317" UUID="A9B320F6-768A-4AB6-B81D-973E8514A53B" Type="Folder" Created="2014-01-02 15:08:00 -0800" Modified="2014-12-13 14:26:12 -0800">
+                                    <Title>Miss Monday and Mr. O visit the Thames</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="318" UUID="45005637-7F41-4CCF-8AF0-F21502D176D8" Type="Text" Created="2014-01-02 15:08:12 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="332" UUID="4718DB57-D2B7-482C-A0D2-4491B7D3032E" Type="Text" Created="2014-01-12 15:59:43 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1713,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="319" UUID="61B75F15-F4E6-4807-91F9-E117DFF60920" Type="Folder" Created="2014-01-02 16:02:46 -0800" Modified="2014-12-13 14:26:45 -0800">
+                                    <Title>Miss Monday and Mr. O share a kiss</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="320" UUID="4C578581-DF57-4C33-9891-2E95B42FF964" Type="Text" Created="2014-01-02 16:04:57 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>172,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="335" UUID="40CDD4EB-9785-4AD4-A43A-B18AB5E90A93" Type="Text" Created="2014-01-19 14:25:39 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2296,4321</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="225" UUID="4AD9CBD1-4D9F-4421-9A39-579C2EC87A3F" Type="Text" Created="2013-08-31 22:47:54 -0700" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Three</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>61,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="325" UUID="880C939C-75A6-4782-A605-6BE19C89D33B" Type="Text" Created="2014-01-03 15:27:45 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Four</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5910,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="414" UUID="67811677-920C-4CFF-9080-80C7C65E2239" Type="Folder" Created="2014-02-23 13:15:19 -0800" Modified="2015-01-17 11:43:30 -0800">
+                                    <Title>Anthony Tidkins seeks his father's approval</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
                                         <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -2972,19 +3309,21 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="415" UUID="4E6F9D92-A408-482C-8ABD-5FC6F64A8A79" Type="Text" Created="2014-03-02 12:40:07 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>20,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem ID="640" UUID="2C64822B-0F5B-4659-8606-53A9F72501ED" Type="Text" Created="2014-11-15 16:40:38 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>“However, I have come up with another theory. As I</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="675" UUID="BA10295F-051C-4642-A7A2-2C8C08E716B4" Type="Text" Created="2014-12-28 13:19:27 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Two</Title>
+                                <BinderItem ID="354" UUID="38DC458E-EFD5-44C8-A085-09E96C1096E5" Type="Folder" Created="2014-02-08 13:42:18 -0800" Modified="2014-12-13 14:27:41 -0800">
+                                    <Title>Miss Monday meets The Quartermaster</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
                                         <StatusID>1</StatusID>
@@ -2992,82 +3331,73 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5423,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <SelectedSubdocumentIDs>358</SelectedSubdocumentIDs>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="355" UUID="AE72CB5B-53EC-444B-AC2D-548E07AB9315" Type="Text" Created="2014-02-09 13:22:41 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2547,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="356" UUID="538CD6D0-0689-44FC-943C-586B99CE250D" Type="Text" Created="2014-02-09 13:47:31 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <LabelID>7</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>375,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="358" UUID="5CE9B095-E039-4884-B811-086B17537907" Type="Text" Created="2014-02-10 11:36:12 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Three</Title>
+                                            <MetaData>
+                                                <LabelID>7</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>7502,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="603" UUID="8BF119FC-BB84-4332-B17A-3868A3CBB2AA" Type="Folder" Created="2014-08-16 13:33:44 -0700" Modified="2014-12-13 14:23:38 -0800">
-                            <Title>Miss Monday serves lemon tea</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="291" UUID="C75E6FE2-3A09-4650-A032-2E51EFED6D93" Type="Text" Created="2013-11-30 11:28:42 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene One</Title>
+                                <BinderItem ID="359" UUID="1227796D-21C4-4497-90B2-F2D471FA3FBB" Type="Folder" Created="2014-02-16 12:12:38 -0800" Modified="2014-12-13 14:28:21 -0800">
+                                    <Title>Miss Monday and The Quartermaster do not see eye to eye</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <StatusID>1</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>507,7</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="360" UUID="91C24941-46BF-4A3D-B258-65BA8D9F9E5D" Type="Text" Created="2014-02-16 12:13:04 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>139,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem ID="341" UUID="02E74101-B030-499B-B398-822973F36D90" Type="Text" Created="2014-02-01 11:15:28 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Two</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>216,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="293" UUID="5F23A9D0-A778-443D-BD85-F1B06E2C2919" Type="Text" Created="2013-12-07 12:25:35 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Three</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>20,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="294" UUID="A5B061B2-FB05-4792-A1E2-8D88081D49CA" Type="Text" Created="2013-12-08 13:33:57 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Four</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>4606,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="338" UUID="851B1B91-1FEA-4D6B-A48F-750827E9479E" Type="Folder" Created="2014-01-28 09:52:55 -0800" Modified="2014-12-13 14:24:03 -0800">
-                            <Title>Miss Monday visits Hyde Park</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs>297</SelectedSubdocumentIDs>
-                            </CorkboardAndOutliner>
-                            <Children>
-                                <BinderItem ID="302" UUID="ABF96319-0F91-45F2-8672-45745A6E2689" Type="Text" Created="2013-12-21 13:57:00 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene One</Title>
+                                <BinderItem ID="324" UUID="3E565515-2185-4EBF-AD01-086D9C444582" Type="Folder" Created="2014-01-03 15:27:12 -0800" Modified="2014-12-13 14:29:03 -0800">
+                                    <Title>Miss Monday and Mr. O visit Mr. O's underground office again</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
                                         <StatusID>1</StatusID>
@@ -3075,11 +3405,23 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>349,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="326" UUID="B455F1E7-68AB-442E-BE41-474C480EA7ED" Type="Text" Created="2014-01-03 15:28:17 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5765,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem ID="297" UUID="933642F1-614B-4F71-A63C-116FEB0E3102" Type="Text" Created="2013-12-14 13:46:02 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Two</Title>
+                                <BinderItem ID="352" UUID="D989EBB4-7A9D-411B-8793-A902D6B01297" Type="Folder" Created="2014-02-08 12:55:00 -0800" Modified="2015-01-17 11:43:35 -0800">
+                                    <Title>Miss Monday and Mr. O continue their conversation</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
                                         <StatusID>1</StatusID>
@@ -3087,157 +3429,155 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,3887</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="353" UUID="5A1AF058-EDF4-4233-89CC-DB701D733265" Type="Text" Created="2014-02-08 12:55:16 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>3654,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="305" UUID="83303FD4-28A1-4050-9572-ACEEDF365EB0" Type="Folder" Created="2013-12-21 14:10:01 -0800" Modified="2014-12-13 14:24:26 -0800">
-                            <Title>Miss Monday and Mr. O have a picnic</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="303" UUID="5DF83664-6FC6-4F52-AE2E-6C9E5C8C6C22" Type="Text" Created="2013-12-21 13:58:40 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene One</Title>
+                                <BinderItem ID="362" UUID="2A440626-AD6F-4A7D-AFF5-70E8B76B27D5" Type="Folder" Created="2014-02-16 13:30:56 -0800" Modified="2014-12-13 14:30:26 -0800">
+                                    <Title>The Quartermaster reveals the Penny Dreadful</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <StatusID>1</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <NotesTextSelection>254,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4774,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="363" UUID="BE5435DC-6D0F-4F3D-8396-907D26B29B70" Type="Text" Created="2014-02-16 13:31:09 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem ID="304" UUID="E14BDDDD-5AAA-442E-BA96-61CD1F86DFDC" Type="Text" Created="2013-12-21 14:09:52 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                <BinderItem ID="557" UUID="95F6947E-E565-4951-B1E9-C03AE472D20C" Type="Folder" Created="2014-06-29 13:26:01 -0700" Modified="2014-12-13 14:40:14 -0800">
+                                    <Title>Mr. Steen and Bailey fend off an unliving maggot</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>47,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="565" UUID="C8B3EC69-6ECF-46E9-8689-F90896336933" Type="Text" Created="2014-07-12 11:48:48 -0700" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>4337,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="566" UUID="7D9AE956-B269-4696-A564-6E55B1388FA6" Type="Text" Created="2014-07-13 13:48:39 -0700" Modified="2015-05-02 12:29:07 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>4771,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="757" UUID="79F244D8-AABA-44A7-B0F0-B8C4F3BCA178" Type="Text" Created="2015-01-25 09:59:05 -0800" Modified="2015-06-02 10:30:32 -0700">
                                     <Title>Scene Two</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <NotesTextSelection>105,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>33,0</TextSelection>
+                                        <TextSelection>166,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="544" UUID="9DCA4710-67FC-4148-BB72-09C6F7A60850" Type="Text" Created="2014-04-06 11:05:29 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Three</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2359,7</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="306" UUID="7A4DFF6E-BDE7-41C2-A82F-14E89E4772E4" Type="Folder" Created="2013-12-21 14:10:01 -0800" Modified="2014-12-13 14:24:49 -0800">
-                            <Title>Miss Monday and Mr. O visit the literary agency</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="307" UUID="0F1E7505-1EA5-483B-B812-198B0B5AE5D8" Type="Text" Created="2013-12-21 14:09:52 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                <BinderItem ID="749" UUID="7A4C718D-533D-44AA-8E45-D77B6AB77766" Type="Text" Created="2015-01-10 19:42:55 -0800" Modified="2015-06-03 10:27:36 -0700">
                                     <Title>Scene One</Title>
                                     <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>1</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <NotesTextSelection>296,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1006,0</TextSelection>
+                                        <TextSelection>7724,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="308" UUID="FD77F2AE-F29F-47EA-9348-6CBD40AC0633" Type="Text" Created="2013-12-28 19:37:51 -0800" Modified="2015-05-02 12:29:07 -0700">
+                                <BinderItem ID="402" UUID="F642106C-A25D-498E-AFAB-6E48038CA07D" Type="Text" Created="2014-03-01 13:12:23 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                    <Title>Scene Three</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>153,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>5954,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="404" UUID="D46CD478-8EA3-4C01-BF0B-BA0D4884F1D2" Type="Text" Created="2014-03-01 14:30:54 -0800" Modified="2015-06-20 14:02:28 -0700">
+                                    <Title>Scene Two - delete me</Title>
+                                    <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>140,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3152,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="418" UUID="CD347634-207C-454D-B681-D31C0B363C55" Type="Text" Created="2014-03-15 13:25:23 -0700" Modified="2015-06-03 10:11:29 -0700">
                                     <Title>Scene Two</Title>
                                     <MetaData>
+                                        <LabelID>5</LabelID>
+                                        <StatusID>8</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <NotesTextSelection>141,0</NotesTextSelection>
+                                        <IconFileName>Warning.tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4088,408</TextSelection>
+                                        <TextSelection>0,1421</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="310" UUID="E386205E-131A-474F-89AA-6B268DB09910" Type="Text" Created="2013-12-30 13:29:25 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Three</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>5001,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="311" UUID="B1934866-035C-4DE1-A9CE-DC806BA54FEA" Type="Folder" Created="2014-01-01 12:43:10 -0800" Modified="2014-12-13 14:25:21 -0800">
-                            <Title>Miss Monday sees the unliving creature in the tank</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="343" UUID="104B1EAB-E42F-406A-9347-2F81896F304C" Type="Text" Created="2014-02-01 11:22:30 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                <BinderItem ID="316" UUID="C1C398AE-8348-4F7C-AEAB-8D787C5F1D39" Type="Text" Created="2014-01-02 14:33:35 -0800" Modified="2015-06-03 10:11:49 -0700">
                                     <Title>Scene One</Title>
                                     <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <NotesTextSelection>67,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2223,0</TextSelection>
+                                        <TextSelection>0,5515</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="312" UUID="3B99EA61-FD4A-415F-89DD-4A95B5ABB659" Type="Text" Created="2014-01-01 12:43:26 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Two</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>165,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="313" UUID="FAC16BE0-7BAE-47B4-9F93-A4E54DA41FE6" Type="Text" Created="2014-01-01 13:21:43 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Three</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3612,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="317" UUID="A9B320F6-768A-4AB6-B81D-973E8514A53B" Type="Folder" Created="2014-01-02 15:08:00 -0800" Modified="2014-12-13 14:26:12 -0800">
-                            <Title>Miss Monday and Mr. O visit the Thames</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="318" UUID="45005637-7F41-4CCF-8AF0-F21502D176D8" Type="Text" Created="2014-01-02 15:08:12 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
+                                <BinderItem ID="805" UUID="5904518D-7BAC-4B6C-9659-3FC1B06E80AB" Type="Folder" Created="2015-10-10 14:20:24 -0700" Modified="2015-10-10 14:20:27 -0700">
+                                    <Title>chapter three</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -3245,547 +3585,195 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="605" UUID="F8AF95F1-7FDE-440D-A29A-2BF4D5F1D2E4" Type="Text" Created="2014-08-17 10:51:35 -0700" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One - archived</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>3</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>7837,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="606" UUID="E22071E1-03AB-439F-8168-4098F017A0D8" Type="Text" Created="2014-08-18 09:32:39 -0700" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two - archived</Title>
+                                            <MetaData>
+                                                <LabelID>7</LabelID>
+                                                <StatusID>3</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1321,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem ID="332" UUID="4718DB57-D2B7-482C-A0D2-4491B7D3032E" Type="Text" Created="2014-01-12 15:59:43 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Two</Title>
+                                <BinderItem ID="808" UUID="BFFA5B9F-47BC-4A39-91BA-E1E8B0E0FBD4" Type="Text" Created="2015-10-17 16:36:34 -0700" Modified="2015-10-18 16:54:40 -0700">
+                                    <Title>Chapter 6 - archived</Title>
                                     <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1713,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="319" UUID="61B75F15-F4E6-4807-91F9-E117DFF60920" Type="Folder" Created="2014-01-02 16:02:46 -0800" Modified="2014-12-13 14:26:45 -0800">
-                            <Title>Miss Monday and Mr. O share a kiss</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="320" UUID="4C578581-DF57-4C33-9891-2E95B42FF964" Type="Text" Created="2014-01-02 16:04:57 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>172,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="335" UUID="40CDD4EB-9785-4AD4-A43A-B18AB5E90A93" Type="Text" Created="2014-01-19 14:25:39 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Two</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2296,4321</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="225" UUID="4AD9CBD1-4D9F-4421-9A39-579C2EC87A3F" Type="Text" Created="2013-08-31 22:47:54 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Three</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>61,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="325" UUID="880C939C-75A6-4782-A605-6BE19C89D33B" Type="Text" Created="2014-01-03 15:27:45 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Four</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>5910,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="414" UUID="67811677-920C-4CFF-9080-80C7C65E2239" Type="Folder" Created="2014-02-23 13:15:19 -0800" Modified="2015-01-17 11:43:30 -0800">
-                            <Title>Anthony Tidkins seeks his father's approval</Title>
-                            <MetaData>
-                                <LabelID>6</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="415" UUID="4E6F9D92-A408-482C-8ABD-5FC6F64A8A79" Type="Text" Created="2014-03-02 12:40:07 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>20,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="354" UUID="38DC458E-EFD5-44C8-A085-09E96C1096E5" Type="Folder" Created="2014-02-08 13:42:18 -0800" Modified="2014-12-13 14:27:41 -0800">
-                            <Title>Miss Monday meets The Quartermaster</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentIDs>358</SelectedSubdocumentIDs>
-                            </CorkboardAndOutliner>
-                            <Children>
-                                <BinderItem ID="355" UUID="AE72CB5B-53EC-444B-AC2D-548E07AB9315" Type="Text" Created="2014-02-09 13:22:41 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2547,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="356" UUID="538CD6D0-0689-44FC-943C-586B99CE250D" Type="Text" Created="2014-02-09 13:47:31 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Two</Title>
-                                    <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>375,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="358" UUID="5CE9B095-E039-4884-B811-086B17537907" Type="Text" Created="2014-02-10 11:36:12 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Three</Title>
-                                    <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>7502,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="359" UUID="1227796D-21C4-4497-90B2-F2D471FA3FBB" Type="Folder" Created="2014-02-16 12:12:38 -0800" Modified="2014-12-13 14:28:21 -0800">
-                            <Title>Miss Monday and The Quartermaster do not see eye to eye</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="360" UUID="91C24941-46BF-4A3D-B258-65BA8D9F9E5D" Type="Text" Created="2014-02-16 12:13:04 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>139,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="324" UUID="3E565515-2185-4EBF-AD01-086D9C444582" Type="Folder" Created="2014-01-03 15:27:12 -0800" Modified="2014-12-13 14:29:03 -0800">
-                            <Title>Miss Monday and Mr. O visit Mr. O's underground office again</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="326" UUID="B455F1E7-68AB-442E-BE41-474C480EA7ED" Type="Text" Created="2014-01-03 15:28:17 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>5765,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="352" UUID="D989EBB4-7A9D-411B-8793-A902D6B01297" Type="Folder" Created="2014-02-08 12:55:00 -0800" Modified="2015-01-17 11:43:35 -0800">
-                            <Title>Miss Monday and Mr. O continue their conversation</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="353" UUID="5A1AF058-EDF4-4233-89CC-DB701D733265" Type="Text" Created="2014-02-08 12:55:16 -0800" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3654,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="362" UUID="2A440626-AD6F-4A7D-AFF5-70E8B76B27D5" Type="Folder" Created="2014-02-16 13:30:56 -0800" Modified="2014-12-13 14:30:26 -0800">
-                            <Title>The Quartermaster reveals the Penny Dreadful</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>254,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="363" UUID="BE5435DC-6D0F-4F3D-8396-907D26B29B70" Type="Text" Created="2014-02-16 13:31:09 -0800" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="557" UUID="95F6947E-E565-4951-B1E9-C03AE472D20C" Type="Folder" Created="2014-06-29 13:26:01 -0700" Modified="2014-12-13 14:40:14 -0800">
-                            <Title>Mr. Steen and Bailey fend off an unliving maggot</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>47,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="565" UUID="C8B3EC69-6ECF-46E9-8689-F90896336933" Type="Text" Created="2014-07-12 11:48:48 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>4337,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="566" UUID="7D9AE956-B269-4696-A564-6E55B1388FA6" Type="Text" Created="2014-07-13 13:48:39 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Scene Two</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>4771,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="757" UUID="79F244D8-AABA-44A7-B0F0-B8C4F3BCA178" Type="Text" Created="2015-01-25 09:59:05 -0800" Modified="2015-06-02 10:30:32 -0700">
-                            <Title>Scene Two</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>105,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>166,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="749" UUID="7A4C718D-533D-44AA-8E45-D77B6AB77766" Type="Text" Created="2015-01-10 19:42:55 -0800" Modified="2015-06-03 10:27:36 -0700">
-                            <Title>Scene One</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>1</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>296,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>7724,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="402" UUID="F642106C-A25D-498E-AFAB-6E48038CA07D" Type="Text" Created="2014-03-01 13:12:23 -0800" Modified="2015-12-20 14:10:34 -0800">
-                            <Title>Scene Three</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>8</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>153,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>5954,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="404" UUID="D46CD478-8EA3-4C01-BF0B-BA0D4884F1D2" Type="Text" Created="2014-03-01 14:30:54 -0800" Modified="2015-06-20 14:02:28 -0700">
-                            <Title>Scene Two - delete me</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>8</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>140,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>3152,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="418" UUID="CD347634-207C-454D-B681-D31C0B363C55" Type="Text" Created="2014-03-15 13:25:23 -0700" Modified="2015-06-03 10:11:29 -0700">
-                            <Title>Scene Two</Title>
-                            <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>8</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>141,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,1421</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="316" UUID="C1C398AE-8348-4F7C-AEAB-8D787C5F1D39" Type="Text" Created="2014-01-02 14:33:35 -0800" Modified="2015-06-03 10:11:49 -0700">
-                            <Title>Scene One</Title>
-                            <MetaData>
-                                <LabelID>6</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>67,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,5515</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="805" UUID="5904518D-7BAC-4B6C-9659-3FC1B06E80AB" Type="Folder" Created="2015-10-10 14:20:24 -0700" Modified="2015-10-10 14:20:27 -0700">
-                            <Title>chapter three</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="605" UUID="F8AF95F1-7FDE-440D-A29A-2BF4D5F1D2E4" Type="Text" Created="2014-08-17 10:51:35 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene One - archived</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <StatusID>3</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                         <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7837,0</TextSelection>
+                                        <TextSelection>419,856</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="606" UUID="E22071E1-03AB-439F-8168-4098F017A0D8" Type="Text" Created="2014-08-18 09:32:39 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Scene Two - archived</Title>
+                                <BinderItem ID="826" UUID="F50766DA-2152-4947-B383-48A1771354A1" Type="Folder" Created="2015-11-08 16:53:40 -0800" Modified="2015-11-08 16:53:44 -0800">
+                                    <Title>Chapter 13</Title>
                                     <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <StatusID>3</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
-                                        <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1321,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="634" UUID="56BFEA7A-E464-4113-B360-9E97140FFD70" Type="Text" Created="2014-11-08 13:54:03 -0800" Modified="2015-11-08 16:48:47 -0800">
+                                            <Title>delete this scene</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <IconFileName>Warning.tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>8100,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="808" UUID="BFFA5B9F-47BC-4A39-91BA-E1E8B0E0FBD4" Type="Text" Created="2015-10-17 16:36:34 -0700" Modified="2015-10-18 16:54:40 -0700">
-                            <Title>Chapter 6 - archived</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>419,856</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="826" UUID="F50766DA-2152-4947-B383-48A1771354A1" Type="Folder" Created="2015-11-08 16:53:40 -0800" Modified="2015-11-08 16:53:44 -0800">
-                            <Title>Chapter 13</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="634" UUID="56BFEA7A-E464-4113-B360-9E97140FFD70" Type="Text" Created="2014-11-08 13:54:03 -0800" Modified="2015-11-08 16:48:47 -0800">
-                                    <Title>delete this scene</Title>
+                                <BinderItem ID="820" UUID="275DAE9D-8A47-40B5-B09B-2193355EA9C8" Type="Folder" Created="2015-10-25 16:04:13 -0700" Modified="2015-10-25 16:04:41 -0700">
+                                    <Title>Chapter 9 - archive</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="615" UUID="DC5509DB-B089-43A3-BD77-CF3FDCEFFB89" Type="Text" Created="2013-09-02 16:13:38 -0700" Modified="2015-10-25 16:05:45 -0700">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>3</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>3853,13</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="821" UUID="B66AE28F-83FF-4D30-B510-004AA19D13C4" Type="Text" Created="2015-10-25 16:57:18 -0700" Modified="2015-10-25 16:58:11 -0700">
+                                            <Title>Archive</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <IconFileName>Flag (Blue Flag).tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>3259,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="822" UUID="BBED1E1A-5F14-44CB-9011-F0E31F06F090" Type="Text" Created="2015-10-25 16:57:50 -0700" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Archive</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <IconFileName>Flag (Blue Flag).tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>4948,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="827" UUID="BB08C540-C54C-4BB9-8DEA-B664D81D1B29" Type="Text" Created="2015-11-07 13:08:38 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                    <Title>Scene One copy</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
                                         <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6475,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="629" UUID="D9299888-3EF9-4453-8BE5-F4503CD63B4B" Type="Folder" Created="2014-09-14 12:12:28 -0700" Modified="2015-11-08 18:34:14 -0800">
+                                    <Title>Chapter 12</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>3</StatusID>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
                                         <IconFileName>Warning.tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8100,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="639" UUID="BA991E06-B68D-4D29-9223-261DF17B4551" Type="Text" Created="2014-11-11 15:23:00 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene One</Title>
+                                            <MetaData>
+                                                <LabelID>1</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>1142,0</NotesTextSelection>
+                                                <IconFileName>Warning.tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1444,532</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="641" UUID="81D86678-5486-4DAA-B60B-F61862D16DFC" Type="Text" Created="2014-11-16 13:26:55 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                            <Title>Scene Two</Title>
+                                            <MetaData>
+                                                <LabelID>7</LabelID>
+                                                <StatusID>3</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>1142,0</NotesTextSelection>
+                                                <IconFileName>Warning.tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,8524</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="820" UUID="275DAE9D-8A47-40B5-B09B-2193355EA9C8" Type="Folder" Created="2015-10-25 16:04:13 -0700" Modified="2015-10-25 16:04:41 -0700">
-                            <Title>Chapter 9 - archive</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="615" UUID="DC5509DB-B089-43A3-BD77-CF3FDCEFFB89" Type="Text" Created="2013-09-02 16:13:38 -0700" Modified="2015-10-25 16:05:45 -0700">
-                                    <Title>Scene Two</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <StatusID>3</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3853,13</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="821" UUID="B66AE28F-83FF-4D30-B510-004AA19D13C4" Type="Text" Created="2015-10-25 16:57:18 -0700" Modified="2015-10-25 16:58:11 -0700">
-                                    <Title>Archive</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <IconFileName>Flag (Blue Flag).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3259,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="822" UUID="BBED1E1A-5F14-44CB-9011-F0E31F06F090" Type="Text" Created="2015-10-25 16:57:50 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Archive</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <IconFileName>Flag (Blue Flag).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>4948,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="827" UUID="BB08C540-C54C-4BB9-8DEA-B664D81D1B29" Type="Text" Created="2015-11-07 13:08:38 -0800" Modified="2015-12-20 14:10:34 -0800">
-                            <Title>Scene One copy</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>6475,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="629" UUID="D9299888-3EF9-4453-8BE5-F4503CD63B4B" Type="Folder" Created="2014-09-14 12:12:28 -0700" Modified="2015-11-08 18:34:14 -0800">
-                            <Title>Chapter 12</Title>
-                            <MetaData>
-                                <LabelID>7</LabelID>
-                                <StatusID>3</StatusID>
-                                <PageBreakBefore>Yes</PageBreakBefore>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Warning.tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="639" UUID="BA991E06-B68D-4D29-9223-261DF17B4551" Type="Text" Created="2014-11-11 15:23:00 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                <BinderItem ID="523" UUID="3420C991-2BBB-4435-A3A2-A6F6FB2EFE91" Type="Text" Created="2014-03-30 13:50:05 -0700" Modified="2015-12-20 14:10:34 -0800">
                                     <Title>Scene One</Title>
                                     <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>1142,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1444,532</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="641" UUID="81D86678-5486-4DAA-B60B-F61862D16DFC" Type="Text" Created="2014-11-16 13:26:55 -0800" Modified="2015-12-20 14:10:34 -0800">
+                                <BinderItem ID="524" UUID="2D250FC0-842F-4EEC-8408-496CBE42E993" Type="Text" Created="2013-08-31 19:13:37 -0700" Modified="2015-12-20 14:10:34 -0800">
                                     <Title>Scene Two</Title>
                                     <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <StatusID>3</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>1142,0</NotesTextSelection>
-                                        <IconFileName>Warning.tiff</IconFileName>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,8524</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="523" UUID="3420C991-2BBB-4435-A3A2-A6F6FB2EFE91" Type="Text" Created="2014-03-30 13:50:05 -0700" Modified="2015-12-20 14:10:34 -0800">
-                            <Title>Scene One</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="524" UUID="2D250FC0-842F-4EEC-8408-496CBE42E993" Type="Text" Created="2013-08-31 19:13:37 -0700" Modified="2015-12-20 14:10:34 -0800">
-                            <Title>Scene Two</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="866" UUID="6359D823-E932-4EE7-8F18-0700502B067A" Type="Folder" Created="2015-11-29 16:16:45 -0800" Modified="2015-11-29 16:17:04 -0800">
-                            <Title>Old Draft</Title>
+                        <BinderItem ID="866" UUID="6359D823-E932-4EE7-8F18-0700502B067A" Type="Folder" Created="2015-11-29 16:16:45 -0800" Modified="2016-01-16 16:05:02 -0800">
+                            <Title>Old Draft 2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -4826,6 +4814,33 @@
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
+                                        <BinderItem ID="942" UUID="3D8E946B-EC2A-4C83-B7C2-68F720780284" Type="Folder" Created="2016-01-10 13:53:53 -0800" Modified="2016-01-16 15:34:49 -0800">
+                                            <Title>Chapter 34</Title>
+                                            <MetaData>
+                                                <LabelID>7</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <IconFileName>Warning.tiff</IconFileName>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                            <Children>
+                                                <BinderItem ID="943" UUID="1B94B5C7-766E-446F-81E6-72FA27B62972" Type="Text" Created="2016-01-10 13:54:00 -0800" Modified="2016-01-16 15:43:53 -0800">
+                                                    <Title>Scene 76</Title>
+                                                    <MetaData>
+                                                        <LabelID>7</LabelID>
+                                                        <StatusID>1</StatusID>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                        <NotesTextSelection>0,27</NotesTextSelection>
+                                                        <IconFileName>Warning.tiff</IconFileName>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>61,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                            </Children>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem ID="643" UUID="4F384206-E415-400A-82FA-A7E231133C57" Type="Folder" Created="2014-11-16 14:39:15 -0800" Modified="2015-07-08 09:07:18 -0700">
@@ -4871,17 +4886,55 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="809" UUID="2D8FF851-BA5F-46AA-9A37-4541CBDA8DBA" Type="Text" Created="2015-10-19 18:34:20 -0700" Modified="2015-12-20 14:10:34 -0800">
-                            <Title>Scene Two</Title>
+                        <BinderItem ID="658" UUID="904D3326-6EC8-466D-8379-026E26DE53C4" Type="Folder" Created="2014-12-13 14:43:01 -0800" Modified="2014-12-13 14:43:06 -0800">
+                            <Title>Abandoned Characters</Title>
                             <MetaData>
-                                <LabelID>5</LabelID>
-                                <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="108" UUID="2B12F991-8CB3-4C15-9091-6769CA1FB84B" Type="Text" Created="2013-08-18 15:31:35 -0700" Modified="2014-08-06 19:47:24 -0700">
+                                    <Title>Sir Henry</Title>
+                                    <MetaData>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="98" UUID="8C983094-8F0E-4FC7-8A01-38776B837C89" Type="Text" Created="2013-05-24 10:05:58 -0700" Modified="2015-05-02 12:29:07 -0700">
+                                    <Title>Mao Ling</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>44,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="581" UUID="C5F6C75B-0AE0-4B4E-99F2-9768CC1FE63A" Type="Text" Created="2014-07-27 13:31:56 -0700" Modified="2015-05-02 12:29:07 -0700">
+                                    <Title>Evelyn Thompson</Title>
+                                    <MetaData>
+                                        <LabelID>6</LabelID>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>383,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -5048,7 +5101,7 @@
                                 <TextSelection>290,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="217" UUID="47AB48E7-9A81-4EB0-AB16-DEDCBBC3C5ED" Type="Text" Created="2013-11-03 14:28:38 -0800" Modified="2015-10-17 14:55:22 -0700">
+                        <BinderItem ID="217" UUID="47AB48E7-9A81-4EB0-AB16-DEDCBBC3C5ED" Type="Text" Created="2013-11-03 14:28:38 -0800" Modified="2016-01-16 16:09:06 -0800">
                             <Title>Working Titles</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -6380,6 +6433,32 @@
             <MetaData>
                 <PageBreakBefore>Yes</PageBreakBefore>
             </MetaData>
+            <Children>
+                <BinderItem ID="967" UUID="FB054168-65DF-40CC-8CFC-9296EA1CFD2A" Type="Text" Created="2016-01-16 16:03:29 -0800" Modified="2016-01-16 16:43:09 -0800">
+                    <Title>“Is it really too late?” she asked him</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Warning.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="949" UUID="32D1A462-5D18-4D5D-9DBB-EA413FD5C39D" Type="Folder" Created="2015-01-18 13:12:22 -0800" Modified="2016-01-10 14:01:49 -0800">
+                    <Title>Chapter 36</Title>
+                    <MetaData>
+                        <LabelID>8</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>20,0</NotesTextSelection>
+                        <IconFileName>Warning.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="754" UUID="0C9DD158-6524-4B19-8D20-F97C32AEBDA8" Type="Image" Created="2015-01-14 20:16:57 -0800" Modified="2015-01-14 22:13:10 -0800">
             <Title>teacup</Title>
@@ -6487,10 +6566,10 @@
         <FirstName>Bryce</FirstName>
     </ProjectProperties>
     <ProjectTargets Notify="Yes">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">80000</DraftTarget>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">95000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">1000</SessionTarget>
-        <PreviousSession Words="55" Characters="355" Date="2016-01-16 11:59:29 -0800"></PreviousSession>
+        <PreviousSession Words="2527" Characters="13871" Date="2016-01-16 12:47:07 -0800"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
-    <PrintSettings PaperSize="595.289978,841.890015" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
