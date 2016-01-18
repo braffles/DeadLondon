@@ -1,0 +1,10 @@
+
+*.checksum
+
+*.checksum
+
+*.indexes
+
+*.lock
+
+*.plist
