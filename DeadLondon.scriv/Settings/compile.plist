@@ -314,17 +314,17 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			Q0NAUwIAhYGAAIQEWzFmXQGGhg==
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYs
-			hAVbNDRjXQYAAAAkAAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0A
-			YQBuAFAAUwBNAFQAhAFmDoQBYwCcAZwAnACGkoSXmBBOU1BhcmFn
-			cmFwaFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUA
-			hIQQTlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAgCFAoQEWzFmXQaG
-			hg==
+			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
+			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
+			dHlsZQCVhARDQ0BTAgCFCoQEWzJmXQaDAOizQ4aShJeYBk5TRm9u
+			dIaShISEBk5TRm9udB6VliyEBVs0NGNdBgAAACQAAAD//lQAaQBt
+			AGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAE0AVACEAWYOhAFjAKAB
+			oACgAIaG
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
 			<integer>2</integer>
@@ -427,14 +427,15 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRTextAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
-			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
-			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJheQCVlgOShISECU5TVGV4
-			dFRhYgCVhAJDZgBIhpKEnp4AbIaShJ6eAIGQAIaGHIQEWzNmXYMA
-			6A5Cg4AEtEODAHRYQoaShJeYBk5TRm9udIaShISEBk5TRm9udB6V
-			liCEBVszMmNdBgAAABgAAAD//kIAYQBzAGsAZQByAHYAaQBsAGwA
-			ZQCEAWYLhAFjAKMBowCjAIaG
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
+			hIQITlNTdHJpbmcBlYQBKwdOU0NvbG9yhpKEhIQHTlNDb2xvcgCV
+			hAFjA4QCZmYAAYaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
+			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
+			eWxlAJWEBENDQFMDAISEhAdOU0FycmF5AJWWA5KEhIQJTlNUZXh0
+			VGFiAJWEAkNmAEiGkoShoQBshpKEoaEAgZAAhoYchARbM2ZdgwDo
+			DkKDgAS0Q4MAdFhChpKEl5gGTlNGb250hpKEhIQGTlNGb250HpWW
+			IIQFWzMyY10GAAAAGAAAAP/+QgBhAHMAawBlAHIAdgBpAGwAbABl
+			AIQBZgyaAJoBmgCaAIaG
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
@@ -452,28 +453,27 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
-			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
-			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCVhARDQ0BTAgCFBoQEWzJmXQaDAChaQoaShJeYBk5TRm9u
-			dIaShISEBk5TRm9udB6VliyEBVs0NGNdBgAAACQAAAD//lQAaQBt
-			AGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAE0AVACEAWYOhAFjAKAB
-			oACgAIaG
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
+			hIQITlNTdHJpbmcBlYQBKwdOU0NvbG9yhpKEhIQHTlNDb2xvcgCV
+			hAFjA4QCZmYAAYaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
+			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
+			eWxlAJWEBENDQFMCAIUGhARbMmZdBoMAZqtChpKEl5gGTlNGb250
+			hpKEhIQGTlNGb250HpWWIIQFWzMyY10GAAAAGAAAAP/+QgBhAHMA
+			awBlAHIAdgBpAGwAbABlAIQBZgyaAJoBmgCaAIaG
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
 			<integer>2</integer>
 			<key>SCRTitlePrefixKey</key>
-			<string>Chapter &lt;$t&gt;
-</string>
+			<string>Chapter &lt;$t&gt;</string>
 			<key>SCRTitleSuffixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYc
-			hAVbMjhjXQYAAAASAAAA//5HAGEAcgBhAG0AbwBuAGQAAACEAWYM
-			hAFjAJwBnACcAIaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
-			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
-			eWxlAJWEBENDQFMEAIWBgACEBFsxZl2DAADAP4aG
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYY
+			hAVbMjRjXQYAAAAOAAAA//5DAG8AYwBoAGkAbgAAAIQBZgyEAWMA
+			nAGcAJwAhpKEl5gQTlNQYXJhZ3JhcGhTdHlsZYaShISEF05TTXV0
+			YWJsZVBhcmFncmFwaFN0eWxlAISEEE5TUGFyYWdyYXBoU3R5bGUA
+			lYQEQ0NAUwQAhYGEAIQEWzJmXYMAZqtCgwAAwD+Ghg==
 			</data>
 			<key>SCRTitleSuffixCaseKey</key>
 			<integer>2</integer>
@@ -502,7 +502,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileFootnotesStyleKey</key>
 	<integer>0</integer>
 	<key>SCRCompileFormatKey</key>
-	<integer>20</integer>
+	<integer>5</integer>
 	<key>SCRCompileFountainHeadersUsesBinderIndentsKey</key>
 	<false/>
 	<key>SCRCompileFountainTitlePageMetaDataKey</key>
@@ -1018,14 +1018,15 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRTextAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
-			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYg
-			hAVbMzJjXQYAAAAYAAAA//5CAGEAcwBrAGUAcgB2AGkAbABsAGUA
-			hAFmC4QBYwCcAZwAnACGkoSXmBBOU1BhcmFncmFwaFN0eWxlhpKE
-			hIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
-			cGhTdHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJheQCVlgOShISECU5T
-			VGV4dFRhYgCVhAJDZgBIhpKEoaIAbIaShKGiAIGQAIaGEIQEWzFm
-			XQuGhg==
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
+			hIQITlNTdHJpbmcBlYQBKwdOU0NvbG9yhpKEhIQHTlNDb2xvcgCV
+			hAFjA4QCZmYAAYaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
+			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
+			eWxlAJWEBENDQFMDAISEhAdOU0FycmF5AJWWA5KEhIQJTlNUZXh0
+			VGFiAJWEAkNmAEiGkoShoQBshpKEoaEAgZAAhoYQhARbMWZdC4aS
+			hJeYBk5TRm9udIaShISEBk5TRm9udB6VliCEBVszMmNdBgAAABgA
+			AAD//kIAYQBzAGsAZQByAHYAaQBsAGwAZQCEAWYMmgCaAZoAmgCG
+			hg==
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
@@ -1043,13 +1044,13 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
-			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYs
-			hAVbNDRjXQYAAAAkAAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0A
-			YQBuAFAAUwBNAFQAhAFmDoQBYwCcAZwAnACGkoSXmBBOU1BhcmFn
-			cmFwaFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUA
-			hIQQTlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAgCFAoQEWzFmXQaG
-			hg==
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
+			hIQITlNTdHJpbmcBlYQBKwdOU0NvbG9yhpKEhIQHTlNDb2xvcgCV
+			hAFjA4QCZmYAAYaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
+			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
+			eWxlAJWEBENDQFMCAIUChARbMWZdBoaShJeYBk5TRm9udIaShISE
+			Bk5TRm9udB6VliCEBVszMmNdBgAAABgAAAD//kIAYQBzAGsAZQBy
+			AHYAaQBsAGwAZQCEAWYMmgCaAZoAmgCGhg==
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
 			<integer>2</integer>
@@ -1072,7 +1073,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 		</dict>
 	</array>
 	<key>SCRCompileTextCustomSeparatorStringKey</key>
-	<string>&lt;$img:teacup;h=65&gt;</string>
+	<string>&lt;$img:teacup;h=40&gt;</string>
 	<key>SCRCompileTextFormattingLevelsKey</key>
 	<array>
 		<dict>
