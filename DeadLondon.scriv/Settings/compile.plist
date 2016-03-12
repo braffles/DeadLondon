@@ -92,7 +92,9 @@
 	<key>SCRCompileEBookContainsScriptFormattingKey</key>
 	<false/>
 	<key>SCRCompileEBookContributorsKey</key>
-	<array/>
+	<array>
+		<string>Bryce Raffle</string>
+	</array>
 	<key>SCRCompileEBookCoverBinderDocumentIDKey</key>
 	<integer>-1</integer>
 	<key>SCRCompileEBookCoverSVGCodeKey</key>
@@ -104,7 +106,7 @@
 	<key>SCRCompileEBookCoverTitleKey</key>
 	<string>Cover</string>
 	<key>SCRCompileEBookDateKey</key>
-	<string></string>
+	<string>2016</string>
 	<key>SCRCompileEBookDescriptionKey</key>
 	<string></string>
 	<key>SCRCompileEBookDisallowCopyKey</key>
@@ -128,9 +130,9 @@
 	<key>SCRCompileEBookLanguageKey</key>
 	<string>en</string>
 	<key>SCRCompileEBookPublisherKey</key>
-	<string></string>
+	<string>Unpublished (Beta Copy)</string>
 	<key>SCRCompileEBookRightsKey</key>
-	<string></string>
+	<string>Bryce Raffle</string>
 	<key>SCRCompileEBookSaveKindleGenLogKey</key>
 	<false/>
 	<key>SCRCompileEBookSaveKindleSourceFilesKey</key>
@@ -148,7 +150,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileEBookSubjectKey</key>
 	<array/>
 	<key>SCRCompileEBookTitleKey</key>
-	<string></string>
+	<string>Dead London (BETA)</string>
 	<key>SCRCompileEBookUniqueIdentifierKey</key>
 	<string></string>
 	<key>SCRCompileEBookUseCustomIdentifierKey</key>
@@ -502,7 +504,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileFootnotesStyleKey</key>
 	<integer>0</integer>
 	<key>SCRCompileFormatKey</key>
-	<integer>5</integer>
+	<integer>9</integer>
 	<key>SCRCompileFountainHeadersUsesBinderIndentsKey</key>
 	<false/>
 	<key>SCRCompileFountainTitlePageMetaDataKey</key>
