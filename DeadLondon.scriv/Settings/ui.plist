@@ -4,7 +4,7 @@
 <dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>29</integer>
+		<integer>31</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -14,18 +14,19 @@
 	<key>binderState</key>
 	<array>
 		<integer>0</integer>
-		<integer>156</integer>
 		<integer>314</integer>
 		<integer>895</integer>
 		<integer>51</integer>
 		<integer>17</integer>
 		<integer>980</integer>
+		<integer>982</integer>
+		<integer>981</integer>
 		<integer>20</integer>
 		<integer>1013</integer>
 	</array>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>1</integer>
+		<integer>0</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>101</real>
@@ -54,8 +55,8 @@
 	<false/>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {860, 617}}</string>
-		<string>{{861, 0}, {227, 617}}</string>
+		<string>{{0, 0}, {775, 617}}</string>
+		<string>{{776, 0}, {227, 617}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -130,7 +131,9 @@
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {1088, 253}}</string>
+	<string>{{0, 0}, {621, 304}}</string>
+	<key>mainDocumentEditor.selectedItemIDs</key>
+	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -166,12 +169,12 @@
 	<integer>0</integer>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>910</integer>
+		<integer>954</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>supportingDocumentEditor.editorGroupsViewMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>supportingDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
@@ -181,7 +184,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>857</integer>
+					<integer>110</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -189,7 +192,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>630</integer>
+					<integer>106</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -197,7 +200,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>870</integer>
+					<integer>688</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -205,127 +208,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>860</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>868</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>869</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>875</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>833</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>885</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>881</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>901</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>906</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>910</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>912</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>983</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>973</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>936</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>973</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>928</integer>
+					<integer>102</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -335,17 +218,10 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>895</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>927</integer>
+					<integer>104</integer>
+					<integer>99</integer>
+					<integer>688</integer>
+					<integer>102</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -353,7 +229,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>926</integer>
+					<integer>102</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -361,194 +237,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>928</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>929</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>928</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>927</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{16277, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>929</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>931</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{16333, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>929</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{234, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>931</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{18302, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>929</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>927</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>931</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>934</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>965</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>969</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>974</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>1016</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>975</integer>
-					<integer>983</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>974</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>1016</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>975</integer>
+					<integer>104</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -556,7 +245,7 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>983</integer>
+					<integer>580</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -564,7 +253,31 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>975</integer>
+					<integer>578</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1019</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1020</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>688</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
@@ -574,7 +287,8 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>1016</integer>
+					<integer>580</integer>
+					<integer>688</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -584,7 +298,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>974</integer>
+					<integer>981</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -594,27 +308,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>1016</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 182}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>974</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{182, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>1016</integer>
+					<integer>1021</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -624,7 +318,8 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>974</integer>
+					<integer>580</integer>
+					<integer>688</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -632,37 +327,178 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>1012</integer>
+					<integer>99</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>102</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>104</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>99</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>102</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1020</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1019</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>578</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>577</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>105</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>979</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>110</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>579</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>105</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1022</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>105</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1022</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>577</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>578</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1019</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>102</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{183, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>974</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>969</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>974</integer>
+					<integer>102</integer>
+					<integer>99</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -670,17 +506,75 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>1012</integer>
+					<integer>579</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1020</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1023</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1020</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1023</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{186, 0}</string>
+				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>974</integer>
+					<integer>1021</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1020</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1024</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>858</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -690,17 +584,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>969</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{220, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>974</integer>
+					<integer>823</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -710,7 +594,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>927</integer>
+					<integer>618</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -720,7 +604,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>929</integer>
+					<integer>811</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -730,7 +614,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>931</integer>
+					<integer>618</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -740,7 +624,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>934</integer>
+					<integer>811</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -750,7 +634,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>965</integer>
+					<integer>610</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -760,7 +644,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>969</integer>
+					<integer>806</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -770,7 +654,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>974</integer>
+					<integer>622</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -780,7 +664,7 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>1016</integer>
+					<integer>607</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -790,7 +674,25 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>974</integer>
+					<integer>289</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>287</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>299</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -800,7 +702,17 @@
 				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>969</integer>
+					<integer>142</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>156</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -818,26 +730,6 @@
 			<dict>
 				<key>AggregateSelection</key>
 				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>627</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>863</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{84, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>627</integer>
@@ -907,7 +799,7 @@
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
+				<string>{6804, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>880</integer>
@@ -917,7 +809,7 @@
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
+				<string>{19326, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>882</integer>
@@ -997,30 +889,210 @@
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{31, 0}</string>
+				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>916</integer>
+					<integer>911</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{1, 0}</string>
+				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>909</integer>
+					<integer>919</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
 			<dict>
 				<key>AggregateSelection</key>
-				<string>{109, 0}</string>
+				<string>{663, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>916</integer>
+					<integer>911</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{622, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>919</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>911</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>924</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>895</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>927</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>929</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{582, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>927</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>929</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>931</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>934</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>965</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>969</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>974</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>969</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>974</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1016</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>954</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{1510, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1016</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -1028,89 +1100,17 @@
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
-					<integer>339</integer>
+					<integer>954</integer>
 				</array>
 				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>810</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>917</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>921</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>917</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>910</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>907</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>910</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>907</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>910</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 236}, {595, 566}}</string>
+	<string>{{0, 3351.5}, {595, 566}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{1197, 0}</string>
+	<string>{8388, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
