@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-03-20 12:31:23 -0700" ModID="C1E36C7E-5A66-4910-B492-24F27BDF6E8C">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-03-25 16:32:31 -0700" ModID="60EAD56C-D631-480B-A22F-EF0E7C8D34D1">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2015-06-28 14:17:36 -0700">
             <Title>Dead London</Title>
@@ -39,7 +39,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="938" UUID="E2D4B310-BA89-4A51-9E20-C2B0BB828D79" Type="Text" Created="2015-01-11 11:07:34 -0800" Modified="2016-02-02 21:54:49 -0800">
+                                <BinderItem ID="938" UUID="E2D4B310-BA89-4A51-9E20-C2B0BB828D79" Type="Text" Created="2015-01-11 11:07:34 -0800" Modified="2016-03-25 14:31:46 -0700">
                                     <Title>Scene i</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
@@ -143,7 +143,7 @@
                                 <SelectedSubdocumentIDs>604</SelectedSubdocumentIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="298" UUID="7D5C45BB-0F34-4352-BD3C-5DC1536B0AC7" Type="Text" Created="2013-12-21 13:52:00 -0800" Modified="2016-02-20 15:41:12 -0800">
+                                <BinderItem ID="298" UUID="7D5C45BB-0F34-4352-BD3C-5DC1536B0AC7" Type="Text" Created="2013-12-21 13:52:00 -0800" Modified="2016-03-25 14:36:10 -0700">
                                     <Title>Scene 2</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -162,10 +162,10 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6312,0</TextSelection>
+                                        <TextSelection>3349,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="604" UUID="1E0F5F97-94DC-4F00-B713-782860C4EF70" Type="Text" Created="2014-08-16 13:36:53 -0700" Modified="2016-03-12 13:30:34 -0800">
+                                <BinderItem ID="604" UUID="1E0F5F97-94DC-4F00-B713-782860C4EF70" Type="Text" Created="2014-08-16 13:36:53 -0700" Modified="2016-03-25 14:44:53 -0700">
                                     <Title>Scene 3</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
@@ -180,7 +180,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>13409,0</TextSelection>
+                                        <TextSelection>11025,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="287" UUID="E8DD39F2-A915-434D-8F76-45AA0831AC2F" Type="Text" Created="2013-11-25 20:23:23 -0800" Modified="2016-01-31 19:14:15 -0800">
@@ -247,7 +247,7 @@
                                         <TextSelection>3001,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="804" UUID="D21419C3-6585-4E3C-A9C4-727EBFF745BF" Type="Text" Created="2015-10-03 14:16:17 -0700" Modified="2016-02-20 15:41:12 -0800">
+                                <BinderItem ID="804" UUID="D21419C3-6585-4E3C-A9C4-727EBFF745BF" Type="Text" Created="2015-10-03 14:16:17 -0700" Modified="2016-03-25 14:50:06 -0700">
                                     <Title>Scene 6</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -274,7 +274,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3663,0</TextSelection>
+                                        <TextSelection>381,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -588,10 +588,10 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5567,0</TextSelection>
+                                        <TextSelection>4638,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="815" UUID="168FB8B6-B6ED-45C1-B6B4-6826F31006AF" Type="Text" Created="2014-02-01 10:47:36 -0800" Modified="2016-02-08 10:53:58 -0800">
+                                <BinderItem ID="815" UUID="168FB8B6-B6ED-45C1-B6B4-6826F31006AF" Type="Text" Created="2014-02-01 10:47:36 -0800" Modified="2016-03-25 14:52:08 -0700">
                                     <Title>Scene 17</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -600,7 +600,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8833,0</TextSelection>
+                                        <TextSelection>8594,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="819" UUID="D84E01BC-88A4-4F37-8AD6-27E47FB73248" Type="Text" Created="2013-09-02 16:13:38 -0700" Modified="2016-03-12 14:57:26 -0800">
@@ -831,7 +831,7 @@
                                         <TextSelection>3605,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="861" UUID="16989E61-9133-450F-8209-674479791202" Type="Text" Created="2015-11-28 16:30:44 -0800" Modified="2016-01-31 19:35:44 -0800">
+                                <BinderItem ID="861" UUID="16989E61-9133-450F-8209-674479791202" Type="Text" Created="2015-11-28 16:30:44 -0800" Modified="2016-03-25 14:53:04 -0700">
                                     <Title>Scene 28</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -846,7 +846,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1157,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1060,7 +1060,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3763,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="878" UUID="0A634E9D-5F36-4791-AAAD-C528845B8CF9" Type="Text" Created="2015-12-05 14:24:56 -0800" Modified="2016-01-24 15:26:21 -0800">
@@ -1107,7 +1107,7 @@
                                 <TextSelection>159,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="646" UUID="70A3F84C-AC94-4E24-A037-90F1C66F9B87" Type="Text" Created="2014-11-16 15:50:10 -0800" Modified="2016-02-20 14:59:54 -0800">
+                                <BinderItem ID="646" UUID="70A3F84C-AC94-4E24-A037-90F1C66F9B87" Type="Text" Created="2014-11-16 15:50:10 -0800" Modified="2016-03-25 15:01:57 -0700">
                                     <Title>Scene 39</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1126,10 +1126,10 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>10265,0</TextSelection>
+                                        <TextSelection>11202,3</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="883" UUID="1459FA92-1818-4E99-9321-CD77A2B7772A" Type="Text" Created="2015-12-06 13:02:32 -0800" Modified="2016-02-20 15:12:26 -0800">
+                                <BinderItem ID="883" UUID="1459FA92-1818-4E99-9321-CD77A2B7772A" Type="Text" Created="2015-12-06 13:02:32 -0800" Modified="2016-03-25 15:14:06 -0700">
                                     <Title>Scene 40</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1144,7 +1144,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>382,0</TextSelection>
+                                        <TextSelection>4976,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1259,7 +1259,7 @@
                                         <TextSelection>3590,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="884" UUID="EA57CDF1-C7E9-4529-BF98-C015D8CB563D" Type="Text" Created="2015-12-06 13:03:09 -0800" Modified="2016-03-18 18:48:21 -0700">
+                                <BinderItem ID="884" UUID="EA57CDF1-C7E9-4529-BF98-C015D8CB563D" Type="Text" Created="2015-12-06 13:03:09 -0800" Modified="2016-03-25 16:27:31 -0700">
                                     <Title>Scene 47</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1278,7 +1278,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>917,0</TextSelection>
+                                        <TextSelection>5733,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1313,7 +1313,7 @@
                                         <TextSelection>437,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="892" UUID="D099553C-BA0F-4ED1-B765-42102748800E" Type="Text" Created="2015-12-13 16:40:21 -0800" Modified="2016-03-18 18:49:30 -0700">
+                                <BinderItem ID="892" UUID="D099553C-BA0F-4ED1-B765-42102748800E" Type="Text" Created="2015-12-13 16:40:21 -0800" Modified="2016-03-25 16:11:48 -0700">
                                     <Title>Scene 49</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1332,7 +1332,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>10216,0</TextSelection>
+                                        <TextSelection>8285,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1453,7 +1453,7 @@
                                         <TextSelection>1885,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="902" UUID="66887744-14AA-4A4C-B210-D1931F6F2B7D" Type="Text" Created="2015-12-20 17:53:58 -0800" Modified="2016-02-12 17:49:45 -0800">
+                                <BinderItem ID="902" UUID="66887744-14AA-4A4C-B210-D1931F6F2B7D" Type="Text" Created="2015-12-20 17:53:58 -0800" Modified="2016-03-25 16:27:22 -0700">
                                     <Title>Scene 55</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1480,7 +1480,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6732,0</TextSelection>
+                                        <TextSelection>1762,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1521,7 +1521,7 @@
                                         <TextSelection>691,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="906" UUID="64C4DCC5-A6AF-460F-928B-A097D4F6A624" Type="Text" Created="2015-12-22 17:36:30 -0800" Modified="2016-02-12 17:50:32 -0800">
+                                <BinderItem ID="906" UUID="64C4DCC5-A6AF-460F-928B-A097D4F6A624" Type="Text" Created="2015-12-22 17:36:30 -0800" Modified="2016-03-25 16:13:50 -0700">
                                     <Title>Scene 57</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
@@ -1544,7 +1544,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7042,0</TextSelection>
+                                        <TextSelection>5426,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1605,7 +1605,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="910" UUID="160E146C-E84A-4EED-9890-460199A7B7FE" Type="Text" Created="2015-12-23 14:42:50 -0800" Modified="2016-03-19 13:09:06 -0700">
+                                <BinderItem ID="910" UUID="160E146C-E84A-4EED-9890-460199A7B7FE" Type="Text" Created="2015-12-23 14:42:50 -0800" Modified="2016-03-25 16:22:55 -0700">
                                     <Title>Scene 59</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
@@ -1628,10 +1628,10 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1197,0</TextSelection>
+                                        <TextSelection>7977,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="912" UUID="D30F5601-0874-4C93-9017-8622067E460C" Type="Text" Created="2013-09-01 08:15:09 -0700" Modified="2016-03-19 13:09:06 -0700">
+                                <BinderItem ID="912" UUID="D30F5601-0874-4C93-9017-8622067E460C" Type="Text" Created="2013-09-01 08:15:09 -0700" Modified="2016-03-25 16:23:14 -0700">
                                     <Title>Scene 60</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
@@ -1640,7 +1640,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7438,0</TextSelection>
+                                        <TextSelection>5502,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1739,7 +1739,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="921" UUID="D14477A7-3053-4C13-BA19-0CFDD7A402E8" Type="Text" Created="2015-12-26 15:11:28 -0800" Modified="2016-03-18 18:49:50 -0700">
+                                <BinderItem ID="921" UUID="D14477A7-3053-4C13-BA19-0CFDD7A402E8" Type="Text" Created="2015-12-26 15:11:28 -0800" Modified="2016-03-25 16:25:57 -0700">
                                     <Title>Scene 63</Title>
                                     <MetaData>
                                         <LabelID>5</LabelID>
@@ -1748,7 +1748,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>916,0</TextSelection>
+                                        <TextSelection>3061,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="920" UUID="BDAE33AE-33F6-4AA1-B5F7-5EDB3B6E2C5E" Type="Text" Created="2015-12-26 15:08:32 -0800" Modified="2016-03-19 13:09:57 -0700">
@@ -1900,7 +1900,7 @@
                                 <TextSelection>134,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="926" UUID="9577F0C4-4511-4AC6-A339-58BBCAF4DB67" Type="Text" Created="2016-01-03 16:02:05 -0800" Modified="2016-03-18 18:50:52 -0700">
+                                <BinderItem ID="926" UUID="9577F0C4-4511-4AC6-A339-58BBCAF4DB67" Type="Text" Created="2016-01-03 16:02:05 -0800" Modified="2016-03-25 16:29:07 -0700">
                                     <Title>Scene 68</Title>
                                     <MetaData>
                                         <LabelID>6</LabelID>
@@ -1909,7 +1909,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6453,0</TextSelection>
+                                        <TextSelection>5974,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="928" UUID="1746C1FD-E61E-4D25-819C-95D2D6132AF6" Type="Text" Created="2016-01-03 17:26:56 -0800" Modified="2016-03-19 13:10:52 -0700">
@@ -1954,7 +1954,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="930" UUID="E25EA007-5E10-438B-AE5B-DDD09D1C39C3" Type="Text" Created="2016-01-05 22:10:08 -0800" Modified="2016-03-19 13:10:52 -0700">
+                                <BinderItem ID="930" UUID="E25EA007-5E10-438B-AE5B-DDD09D1C39C3" Type="Text" Created="2016-01-05 22:10:08 -0800" Modified="2016-03-25 16:28:26 -0700">
                                     <Title>Scene 70</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1973,7 +1973,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8144,0</TextSelection>
+                                        <TextSelection>4862,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="932" UUID="5838A298-C67D-4249-BA08-F50D4AAB4268" Type="Text" Created="2016-01-09 15:06:30 -0800" Modified="2016-03-13 12:08:30 -0700">
@@ -2076,7 +2076,7 @@
                                         <TextSelection>3000,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="941" UUID="D8BD8F99-44CA-4D8E-A9D4-5A58B7101542" Type="Text" Created="2016-01-10 13:52:26 -0800" Modified="2016-03-13 12:10:55 -0700">
+                                <BinderItem ID="941" UUID="D8BD8F99-44CA-4D8E-A9D4-5A58B7101542" Type="Text" Created="2016-01-10 13:52:26 -0800" Modified="2016-03-25 16:31:22 -0700">
                                     <Title>Scene 75</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -2091,7 +2091,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8792,0</TextSelection>
+                                        <TextSelection>3792,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="973" UUID="C45E2458-635C-4429-BD9D-F6C512486E92" Type="Text" Created="2016-01-23 15:03:03 -0800" Modified="2016-03-13 14:01:38 -0700">
@@ -2126,7 +2126,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="966" UUID="A13D09D0-EF63-4D3A-BF6A-764BF567289B" Type="Text" Created="2016-01-16 15:29:00 -0800" Modified="2016-03-13 14:01:43 -0700">
+                                <BinderItem ID="966" UUID="A13D09D0-EF63-4D3A-BF6A-764BF567289B" Type="Text" Created="2016-01-16 15:29:00 -0800" Modified="2016-03-25 16:15:12 -0700">
                                     <Title>Scene 77</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -2141,7 +2141,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>818,0</TextSelection>
+                                        <TextSelection>5262,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="972" UUID="3E340C51-2C0E-40FA-B707-081CC044FA13" Type="Text" Created="2016-01-23 15:02:56 -0800" Modified="2016-03-13 13:57:34 -0700">
@@ -2189,7 +2189,7 @@
                                         <TextSelection>6510,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="970" UUID="7DCBF708-1280-4C6A-9E57-70FBF486C54E" Type="Text" Created="2016-01-16 16:43:46 -0800" Modified="2016-03-13 14:02:00 -0700">
+                                <BinderItem ID="970" UUID="7DCBF708-1280-4C6A-9E57-70FBF486C54E" Type="Text" Created="2016-01-16 16:43:46 -0800" Modified="2016-03-25 16:16:03 -0700">
                                     <Title>Scene 80</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -2198,7 +2198,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>304,0</TextSelection>
+                                        <TextSelection>4467,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2221,7 +2221,7 @@
                                 <TextSelection>82,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="971" UUID="122F362A-CE21-4252-B674-39F5BCB3801E" Type="Text" Created="2016-01-16 16:52:14 -0800" Modified="2016-03-13 14:02:05 -0700">
+                                <BinderItem ID="971" UUID="122F362A-CE21-4252-B674-39F5BCB3801E" Type="Text" Created="2016-01-16 16:52:14 -0800" Modified="2016-03-25 16:16:03 -0700">
                                     <Title>Scene 81</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -2230,7 +2230,7 @@
                                         <NotesTextSelection>352,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6527,0</TextSelection>
+                                        <TextSelection>6781,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2247,7 +2247,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="975" UUID="0F837C89-A62A-4AE0-B568-B6D35CA3C73F" Type="Text" Created="2016-01-23 15:04:41 -0800" Modified="2016-03-13 12:51:54 -0700">
+                                <BinderItem ID="975" UUID="0F837C89-A62A-4AE0-B568-B6D35CA3C73F" Type="Text" Created="2016-01-23 15:04:41 -0800" Modified="2016-03-25 16:16:28 -0700">
                                     <Title>Scene 82</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -2262,10 +2262,10 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1395,0</TextSelection>
+                                        <TextSelection>8386,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="983" UUID="233A7B9E-88AA-421E-9459-5DCC5360F2AE" Type="Text" Created="2016-01-25 22:56:20 -0800" Modified="2016-03-13 14:10:20 -0700">
+                                <BinderItem ID="983" UUID="233A7B9E-88AA-421E-9459-5DCC5360F2AE" Type="Text" Created="2016-01-25 22:56:20 -0800" Modified="2016-03-25 16:30:16 -0700">
                                     <Title>Scene 83</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
@@ -2280,7 +2280,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6729,0</TextSelection>
+                                        <TextSelection>5263,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -7569,7 +7569,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="Text" Scope="Draft" CaseSensitive="No">goggles</SearchSettings>
+            <SearchSettings Operator="Exact" Type="Text" Scope="Draft" CaseSensitive="No">Jekyll put</SearchSettings>
         </Collection>
     </Collections>
     <Keywords>
@@ -7628,7 +7628,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">95000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">1000</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-03-20 12:28:16 -0700"></PreviousSession>
+        <PreviousSession Words="150" Characters="782" Date="2016-03-25 14:28:01 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
