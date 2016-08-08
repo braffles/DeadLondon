@@ -47,7 +47,7 @@
 	<key>SCRCompileConvertMultiMarkdownToRichTextKey</key>
 	<false/>
 	<key>SCRCompileConvertSpacesKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertSpacingToPlainTextKey</key>
 	<false/>
 	<key>SCRCompileConvertTablesToImagesKey</key>
@@ -84,7 +84,7 @@
 	<key>SCRCompileDocumentSubjectKey</key>
 	<string></string>
 	<key>SCRCompileDocumentTitleKey</key>
-	<string>The Penny Dreadful</string>
+	<string>Dead London</string>
 	<key>SCRCompileEBookAuthorsKey</key>
 	<array/>
 	<key>SCRCompileEBookCenterHTMLToCKey</key>
@@ -96,7 +96,7 @@
 		<string>Bryce Raffle</string>
 	</array>
 	<key>SCRCompileEBookCoverBinderDocumentIDKey</key>
-	<integer>-1</integer>
+	<integer>1038</integer>
 	<key>SCRCompileEBookCoverSVGCodeKey</key>
 	<string></string>
 	<key>SCRCompileEBookCoverSVGViewBoxHeightKey</key>
@@ -120,11 +120,11 @@
 	<key>SCRCompileEBookGenerateHTMLToCKey</key>
 	<true/>
 	<key>SCRCompileEBookHTMLToCTitleKey</key>
-	<string>Contents</string>
+	<string>Table of Contents</string>
 	<key>SCRCompileEBookIncludeXPGTKey</key>
 	<false/>
 	<key>SCRCompileEBookIncludeiTunesCoverArtFileKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileEBookKindleUniqueIdentifierKey</key>
 	<string></string>
 	<key>SCRCompileEBookLanguageKey</key>
@@ -298,38 +298,38 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
 			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYg
 			hAVbMzJjXQYAAAAYAAAA//5CAGEAcwBrAGUAcgB2AGkAbABsAGUA
-			hAFmC4QBYwCcAZwAnACGkoSXmBBOU1BhcmFncmFwaFN0eWxlhpKE
+			hAFmDIQBYwCcAZwAnACGkoSXmBBOU1BhcmFncmFwaFN0eWxlhpKE
 			hIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
 			cGhTdHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJheQCVlgOShISECU5T
-			VGV4dFRhYgCVhAJDZgBIhpKEoaIAbIaShKGiAIGQAIaGHIQEWzNm
-			XYMAWBFCgwD5s0ODAGhXQoaG
+			VGV4dFRhYgCVhAJDZgBIhpKEoaIAbIaShKGiAIGQAIaGgZwAhARb
+			NGZdgwBYEUKDAPmzQ4MAaFdCAoaG
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZY8
-			hAVbNjBjXQYAAAAyAAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0A
-			YQBuAFAAUwAtAEkAdABhAGwAaQBjAE0AVAAAAIQBZg6EAWMAnAGc
-			AJwAhpKEl5gQTlNQYXJhZ3JhcGhTdHlsZYaShISEF05TTXV0YWJs
-			ZVBhcmFncmFwaFN0eWxlAISEEE5TUGFyYWdyYXBoU3R5bGUAlYQE
-			Q0NAUwIAhYGAAIQEWzFmXQGGhg==
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYs
+			hAVbNDRjXQYAAAAkAAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0A
+			YQBuAFAAUwBNAFQAhAFmDIQBYwCcAZwAnACGkoSXmBBOU1BhcmFn
+			cmFwaFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUA
+			hIQQTlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAACFgYAAhARbMWZd
+			AoaG
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
 			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
 			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCVhARDQ0BTAgCFCoQEWzJmXQaDAOizQ4aShJeYBk5TRm9u
-			dIaShISEBk5TRm9udB6VliyEBVs0NGNdBgAAACQAAAD//lQAaQBt
-			AGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAE0AVACEAWYOhAFjAKAB
-			oACgAIaG
+			dHlsZQCVhARDQ0BTAgCFgYoAhARbM2ZdBoMA6LNDAoaShJeYBk5T
+			Rm9udIaShISEBk5TRm9udB6VliyEBVs0NGNdBgAAACQAAAD//lQA
+			aQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAE0AVACEAWYMhAFj
+			AKABoACgAIaG
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
 			<string>
 </string>
@@ -398,7 +398,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			VGV4dFRhYgCVhAJDZgBIhpKEoaIAbIaGgZAAhARbMmZdJAKGhg==
 			</data>
 			<key>SCRPagePaddingKey</key>
-			<integer>8</integer>
+			<integer>0</integer>
 			<key>SCRPlaceTitleAsRunInHeadKey</key>
 			<false/>
 			<key>SCRSectionRectoVersoKey</key>
@@ -433,11 +433,11 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			hIQITlNTdHJpbmcBlYQBKwdOU0NvbG9yhpKEhIQHTlNDb2xvcgCV
 			hAFjA4QCZmYAAYaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
 			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
-			eWxlAJWEBENDQFMDAISEhAdOU0FycmF5AJWWA5KEhIQJTlNUZXh0
-			VGFiAJWEAkNmAEiGkoShoQBshpKEoaEAgZAAhoYchARbM2ZdgwDo
-			DkKDgAS0Q4MAdFhChpKEl5gGTlNGb250hpKEhIQGTlNGb250HpWW
-			IIQFWzMyY10GAAAAGAAAAP/+QgBhAHMAawBlAHIAdgBpAGwAbABl
-			AIQBZgyaAJoBmgCaAIaG
+			eWxlAJWEBENDQFMCAISEhAdOU0FycmF5AJWWA5KEhIQJTlNUZXh0
+			VGFiAJWEAkNmAEiGkoShoQBshpKEoaEAgZAAhoaBgACEBFsxZl0C
+			hpKEl5gGTlNGb250hpKEhIQGTlNGb250HpWWIIQFWzMyY10GAAAA
+			GAAAAP/+QgBhAHMAawBlAHIAdgBpAGwAbABlAIQBZgyaAJoBmgCa
+			AIaG
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
@@ -451,7 +451,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			Q0NAUwIAhYGAAIQEWzFmXQGGhg==
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
@@ -459,12 +459,16 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			hIQITlNTdHJpbmcBlYQBKwdOU0NvbG9yhpKEhIQHTlNDb2xvcgCV
 			hAFjA4QCZmYAAYaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
 			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
-			eWxlAJWEBENDQFMCAIUGhARbMmZdBoMAZqtChpKEl5gGTlNGb250
-			hpKEhIQGTlNGb250HpWWIIQFWzMyY10GAAAAGAAAAP/+QgBhAHMA
-			awBlAHIAdgBpAGwAbABlAIQBZgyaAJoBmgCaAIaG
+			eWxlAJWEBENDQFMCAISEhAdOU0FycmF5AJWWDZKEhIQJTlNUZXh0
+			VGFiAJWEAkNmAIMAAG0/hpKEoaEAHIaShKGhADiGkoShoQBUhpKE
+			oaEAcIaShKGhAIGMAIaShKGhAIGoAIaShKGhAIHEAIaShKGhAIHg
+			AIaShKGhAIH8AIaShKGhAIEYAYaShKGhAIE0AYaShKGhAIFQAYaG
+			gYAAhARbMWZdAoaShJeYBk5TRm9udIaShISEBk5TRm9udB6VliCE
+			BVszMmNdBgAAABgAAAD//kIAYQBzAGsAZQByAHYAaQBsAGwAZQCE
+			AWYMmgCaAZoAmgCGhg==
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
 			<string>Chapter &lt;$t&gt;</string>
 			<key>SCRTitleSuffixAttributesKey</key>
@@ -478,19 +482,17 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			lYQEQ0NAUwQAhYGEAIQEWzJmXYMAZqtCgwAAwD+Ghg==
 			</data>
 			<key>SCRTitleSuffixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitleSuffixKey</key>
-			<string>
-</string>
+			<string></string>
 		</dict>
 	</array>
 	<key>SCRCompileFolderSectionSeparatorKey</key>
 	<integer>3</integer>
 	<key>SCRCompileFooterFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSyEBVs0
-	NGNdBgAAACQAAAD//lQAaQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAE0AVACEAWYK
-	hAFjAJgBmACYAIY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSCEBVsz
+	MmNdBgAAABgAAAD//lQAaQBtAGUAcwAtAFIAbwBtAGEAbgCEAWYMhAFjAJgBmACYAIY=
 	</data>
 	<key>SCRCompileFootnotesFontKey</key>
 	<data>
@@ -504,7 +506,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileFootnotesStyleKey</key>
 	<integer>0</integer>
 	<key>SCRCompileFormatKey</key>
-	<integer>9</integer>
+	<integer>5</integer>
 	<key>SCRCompileFountainHeadersUsesBinderIndentsKey</key>
 	<false/>
 	<key>SCRCompileFountainTitlePageMetaDataKey</key>
@@ -555,9 +557,8 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	</data>
 	<key>SCRCompileHeaderFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSSEBVsz
-	NmNdBgAAABoAAAD//kwAdQBjAGkAZABhAEcAcgBhAG4AZABlAAAAhAFmCYQBYwCYAZgA
-	mACG
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSCEBVsz
+	MmNdBgAAABgAAAD//lQAaQBtAGUAcwAtAFIAbwBtAGEAbgCEAWYMhAFjAJgBmACYAIY=
 	</data>
 	<key>SCRCompileIgnoresLevelsOutsideCurrentCompileGroupKey</key>
 	<false/>
@@ -875,17 +876,17 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileReduceRTFOrEbookFootnoteMarkerFontSizeKey</key>
 	<false/>
 	<key>SCRCompileRemoveAllHyperlinksKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileRemoveCommentsKey</key>
 	<true/>
 	<key>SCRCompileRemoveFootnotesKey</key>
 	<false/>
 	<key>SCRCompileRemoveHighlightingKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileRemoveInlineAnnotationsKey</key>
 	<true/>
 	<key>SCRCompileRemoveTextColorKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileRemoveTrailingWhitespaceKey</key>
 	<false/>
 	<key>SCRCompileResampleImagesKey</key>
@@ -954,9 +955,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeTitlesKey</key>
 			<false/>
 			<key>SCRMainTextUppercaseFirstWordsUseSmallCapsKey</key>
-			<true/>
+			<false/>
 			<key>SCRMainTextWordsToUppercaseInNewSectionsKey</key>
-			<integer>8</integer>
+			<integer>0</integer>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
@@ -1025,10 +1026,10 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			hAFjA4QCZmYAAYaShJeYEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBdO
 			U011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0
 			eWxlAJWEBENDQFMDAISEhAdOU0FycmF5AJWWA5KEhIQJTlNUZXh0
-			VGFiAJWEAkNmAEiGkoShoQBshpKEoaEAgZAAhoYQhARbMWZdC4aS
-			hJeYBk5TRm9udIaShISEBk5TRm9udB6VliCEBVszMmNdBgAAABgA
-			AAD//kIAYQBzAGsAZQByAHYAaQBsAGwAZQCEAWYMmgCaAZoAmgCG
-			hg==
+			VGFiAJWEAkNmAEiGkoShoQBshpKEoaEAgZAAhoaBkACEBFsyZl2D
+			AKCPQQKGkoSXmAZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYghAVbMzJj
+			XQYAAAAYAAAA//5CAGEAcwBrAGUAcgB2AGkAbABsAGUAhAFmDJoA
+			mgGaAJoAhoY=
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
@@ -1042,7 +1043,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			Q0NAUwIAhYGAAIQEWzFmXQGGhg==
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
@@ -1055,7 +1056,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			AHYAaQBsAGwAZQCEAWYMmgCaAZoAmgCGhg==
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
 			<string></string>
 			<key>SCRTitleSuffixAttributesKey</key>
@@ -1069,13 +1070,13 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			eWxlAJWEBENDQFMEAIWBgACEBFsxZl2DAADAP4aG
 			</data>
 			<key>SCRTitleSuffixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitleSuffixKey</key>
 			<string></string>
 		</dict>
 	</array>
 	<key>SCRCompileTextCustomSeparatorStringKey</key>
-	<string>&lt;$img:teacup;h=40&gt;</string>
+	<string>#</string>
 	<key>SCRCompileTextFormattingLevelsKey</key>
 	<array>
 		<dict>
@@ -1092,9 +1093,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeTitlesKey</key>
 			<false/>
 			<key>SCRMainTextUppercaseFirstWordsUseSmallCapsKey</key>
-			<true/>
+			<false/>
 			<key>SCRMainTextWordsToUppercaseInNewSectionsKey</key>
-			<integer>3</integer>
+			<integer>0</integer>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
@@ -1128,7 +1129,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			MmZdJAKGhg==
 			</data>
 			<key>SCRPagePaddingKey</key>
-			<integer>8</integer>
+			<integer>0</integer>
 			<key>SCRPlaceTitleAsRunInHeadKey</key>
 			<false/>
 			<key>SCRSectionRectoVersoKey</key>
@@ -1162,11 +1163,11 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
 			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYg
 			hAVbMzJjXQYAAAAYAAAA//5CAGEAcwBrAGUAcgB2AGkAbABsAGUA
-			hAFmC4QBYwCcAZwAnACGkoSXmBBOU1BhcmFncmFwaFN0eWxlhpKE
+			hAFmDIQBYwCcAZwAnACGkoSXmBBOU1BhcmFncmFwaFN0eWxlhpKE
 			hIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
 			cGhTdHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJheQCVlgOShISECU5T
 			VGV4dFRhYgCVhAJDZgBIhpKEoaIAbIaShKGiAIGQAIaGgZAAhARb
-			MmZdCwGGhg==
+			MmZdCwKGhg==
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
@@ -1180,20 +1181,20 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			hg==
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
-			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCVhARDQ0BTAgCFgYAAhARbMWZdAoaShJeYBk5TRm9udIaS
-			hISEBk5TRm9udB6VliyEBVs0NGNdBgAAACQAAAD//k0AeQByAGkA
-			YQBkAFAAcgBvAC0AUgBlAGcAdQBsAGEAcgCEAWYOhAFjAKABoACg
-			AIaG
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYs
+			hAVbNDRjXQYAAAAkAAAA//5NAHkAcgBpAGEAZABQAHIAbwAtAFIA
+			ZQBnAHUAbABhAHIAhAFmDIQBYwCcAZwAnACGkoSXmBBOU1BhcmFn
+			cmFwaFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUA
+			hIQQTlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAgCFgYAAhARbMWZd
+			AoaG
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
 			<string>
 </string>
@@ -1208,7 +1209,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			eWxlAJWEBENDQFMEAIWBgACEBFsxZl2DAADAP4aG
 			</data>
 			<key>SCRTitleSuffixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitleSuffixKey</key>
 			<string></string>
 		</dict>
@@ -1226,9 +1227,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeTitlesKey</key>
 			<false/>
 			<key>SCRMainTextUppercaseFirstWordsUseSmallCapsKey</key>
-			<true/>
+			<false/>
 			<key>SCRMainTextWordsToUppercaseInNewSectionsKey</key>
-			<integer>3</integer>
+			<integer>0</integer>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
@@ -1262,7 +1263,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			AaMAowCGhg==
 			</data>
 			<key>SCRPagePaddingKey</key>
-			<integer>8</integer>
+			<integer>2</integer>
 			<key>SCRPlaceTitleAsRunInHeadKey</key>
 			<false/>
 			<key>SCRSectionRectoVersoKey</key>
@@ -1294,13 +1295,13 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
-			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJheQCVlgOShISECU5TVGV4
-			dFRhYgCVhAJDZgBIhpKEnp4AbIaShJ6eAIGQAIaGgZAAhARbMmZd
-			CwGGkoSXmAZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYghAVbMzJjXQYA
-			AAAYAAAA//5CAGEAcwBrAGUAcgB2AGkAbABsAGUAhAFmC4QBYwCj
-			AaMAowCGhg==
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYg
+			hAVbMzJjXQYAAAAYAAAA//5CAGEAcwBrAGUAcgB2AGkAbABsAGUA
+			hAFmDIQBYwCcAZwAnACGkoSXmBBOU1BhcmFncmFwaFN0eWxlhpKE
+			hIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3Jh
+			cGhTdHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJheQCVlgOShISECU5T
+			VGV4dFRhYgCVhAJDZgBIhpKEoaIAbIaShKGiAIGQAIaGgZAAhARb
+			MmZdgwD4j0EChoY=
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
@@ -1313,7 +1314,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			cGhTdHlsZQCVhARDQ0BTAgCFgYAAhARbMWZdAoaG
 			</data>
 			<key>SCRTitleCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
@@ -1325,7 +1326,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			cwBrAGUAcgB2AGkAbABsAGUAhAFmC4QBYwCgAaAAoACGhg==
 			</data>
 			<key>SCRTitlePrefixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
 			<string></string>
 			<key>SCRTitleSuffixAttributesKey</key>
@@ -1339,7 +1340,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			cwBrAGUAcgB2AGkAbABsAGUAhAFmC4QBYwCgAaAAoACGhg==
 			</data>
 			<key>SCRTitleSuffixCaseKey</key>
-			<integer>2</integer>
+			<integer>0</integer>
 			<key>SCRTitleSuffixKey</key>
 			<string></string>
 		</dict>
