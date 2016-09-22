@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-09-21 14:57:39 -0700" ModID="499D5D8C-43DA-44D3-AC55-C4F5993AE9FC">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Bryce-Raffles-iMac" Modified="2016-09-21 18:56:02 -0700" ModID="A896F337-147F-4A01-BFA3-E75812EAC5E5">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-09-21 10:01:12 -0700">
             <Title>Dead London</Title>
@@ -56,7 +56,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1188,0</TextSelection>
+                                        <TextSelection>2000,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1336" UUID="5E1BFBE7-0043-421F-9E7A-C3A11D814C33" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 11:42:19 -0700">
@@ -69,14 +69,14 @@
                                         <TextSelection>6601,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1337" UUID="4B2D898A-B4AF-4C09-9A67-FBBE4BC94EFC" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 12:58:05 -0700">
+                                <BinderItem ID="1337" UUID="4B2D898A-B4AF-4C09-9A67-FBBE4BC94EFC" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 17:55:05 -0700">
                                     <Title>Quickly, moving through the crowd, she crossed the...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>17893,0</TextSelection>
+                                        <TextSelection>5462,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1338" UUID="E217D3F4-0A9B-4540-BAB4-8F0D024988C0" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 12:58:30 -0700">
@@ -86,7 +86,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1048,0</TextSelection>
+                                        <TextSelection>54,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1339" UUID="C3157B10-B7A8-46FD-BE85-A0B02E35DB2A" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-19 12:38:32 -0700">
@@ -96,7 +96,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>387,0</TextSelection>
+                                        <TextSelection>17,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -119,24 +119,24 @@
                                 <TextSelection>824,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1341" UUID="CD418FDB-19F7-4EEC-BDCD-BA3520FBDF52" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 13:26:52 -0700">
+                                <BinderItem ID="1341" UUID="CD418FDB-19F7-4EEC-BDCD-BA3520FBDF52" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 17:57:23 -0700">
                                     <Title>The moment she heard the click of the latch, she A...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>41,0</TextSelection>
+                                        <TextSelection>1658,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1342" UUID="4CC70DD4-4B21-409B-8C89-65663B118519" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 13:41:36 -0700">
+                                <BinderItem ID="1342" UUID="4CC70DD4-4B21-409B-8C89-65663B118519" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 16:53:42 -0700">
                                     <Title>Annabel stooped down to get another look at Lord C...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9854,0</TextSelection>
+                                        <TextSelection>492,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -159,14 +159,14 @@
                                 <TextSelection>78,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1386" UUID="537F609B-0E60-48DB-8F2A-49C55B0204FC" Type="Text" Created="2016-09-19 11:16:36 -0700" Modified="2016-09-21 14:57:39 -0700">
+                                <BinderItem ID="1386" UUID="537F609B-0E60-48DB-8F2A-49C55B0204FC" Type="Text" Created="2016-09-19 11:16:36 -0700" Modified="2016-09-21 18:24:31 -0700">
                                     <Title>Chapter Four</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <NotesTextSelection>5006,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1424,0</TextSelection>
+                                        <TextSelection>124,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1343" UUID="94AD0A75-D16E-49B2-A5C0-2E9295B07920" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 13:51:50 -0700">
@@ -206,7 +206,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>157,0</TextSelection>
+                                        <TextSelection>5874,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -229,7 +229,7 @@
                                 <TextSelection>0,132</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1389" UUID="B8BE7417-81D9-4769-B534-D97FF3A48152" Type="Text" Created="2016-09-19 13:03:33 -0700" Modified="2016-09-20 09:17:32 -0700">
+                                <BinderItem ID="1389" UUID="B8BE7417-81D9-4769-B534-D97FF3A48152" Type="Text" Created="2016-09-19 13:03:33 -0700" Modified="2016-09-21 18:45:59 -0700">
                                     <Title>“What was the meaning of that, do you think, Bailey</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -239,14 +239,14 @@
                                         <TextSelection>5997,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1344" UUID="C1DD84E7-8815-475D-948B-75EB14243788" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 14:52:00 -0700">
+                                <BinderItem ID="1344" UUID="C1DD84E7-8815-475D-948B-75EB14243788" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 18:46:34 -0700">
                                     <Title>Without a suitable location to dock the Penny Drea...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12337,0</TextSelection>
+                                        <TextSelection>7287,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -276,7 +276,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>126,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -306,7 +306,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7147,0</TextSelection>
+                                        <TextSelection>6668,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1345" UUID="04E1D409-1667-418D-960B-B93F44062BD4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 13:54:04 -0700">
@@ -439,14 +439,14 @@
                                 <TextSelection>6,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1394" UUID="054F3E07-5B03-4E10-AB34-51DEC9DC93DB" Type="Text" Created="2016-09-19 13:11:56 -0700" Modified="2016-09-20 13:09:00 -0700">
+                                <BinderItem ID="1394" UUID="054F3E07-5B03-4E10-AB34-51DEC9DC93DB" Type="Text" Created="2016-09-19 13:11:56 -0700" Modified="2016-09-21 18:50:31 -0700">
                                     <Title>Roderick had already fired three of the little six</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6693,0</TextSelection>
+                                        <TextSelection>5092,33</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1350" UUID="80A2B146-783C-4B16-97B6-82985EAA5DA6" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 13:55:31 -0700">
@@ -577,7 +577,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6121,0</TextSelection>
+                                        <TextSelection>2584,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -650,14 +650,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1356" UUID="59F9B1DA-3771-4D38-992F-34A26C3CA004" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 14:00:51 -0700">
+                                <BinderItem ID="1356" UUID="59F9B1DA-3771-4D38-992F-34A26C3CA004" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 18:50:04 -0700">
                                     <Title>The foyer of Grimmer and Sons Publishing Inc. was ...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1166,6</TextSelection>
+                                        <TextSelection>845,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1357" UUID="02E80CD6-C988-47EC-A8E0-9679F1CAB4A0" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-20 15:46:59 -0700">
@@ -726,7 +726,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6,6</TextSelection>
+                                        <TextSelection>1707,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -789,14 +789,14 @@
                                 <TextSelection>92,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1401" UUID="2A6D9718-1A58-4DF6-A82E-B75D60BBBEEA" Type="Text" Created="2016-09-19 13:15:12 -0700" Modified="2016-09-20 15:59:55 -0700">
+                                <BinderItem ID="1401" UUID="2A6D9718-1A58-4DF6-A82E-B75D60BBBEEA" Type="Text" Created="2016-09-19 13:15:12 -0700" Modified="2016-09-21 18:52:46 -0700">
                                     <Title>Chapter Eighteen</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4813,0</TextSelection>
+                                        <TextSelection>803,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1362" UUID="93EEA74C-F365-43DE-B467-0F18184D5430" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-20 16:00:13 -0700">
@@ -876,7 +876,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6092,0</TextSelection>
+                                        <TextSelection>4258,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -946,7 +946,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4666,0</TextSelection>
+                                        <TextSelection>1480,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1368" UUID="F2A0F9C3-7A5C-4F8B-807F-39833EA5371D" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-20 16:23:11 -0700">
@@ -1009,14 +1009,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1371" UUID="11A759D1-5AC3-47E0-862F-80F59F674C9C" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 14:09:51 -0700">
+                                <BinderItem ID="1371" UUID="11A759D1-5AC3-47E0-862F-80F59F674C9C" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 18:54:41 -0700">
                                     <Title>Annabel raced down the hallway, the Resurrectionis...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8071,0</TextSelection>
+                                        <TextSelection>2358,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1119,14 +1119,14 @@
                                         <TextSelection>304,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1373" UUID="87722D52-0A3A-447B-817E-2E738585D9A4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 14:23:07 -0700">
+                                <BinderItem ID="1373" UUID="87722D52-0A3A-447B-817E-2E738585D9A4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 18:48:13 -0700">
                                     <Title>“I was a much younger woman back then—a girl, real...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7443,0</TextSelection>
+                                        <TextSelection>6496,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1206,7 +1206,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5922,0</TextSelection>
+                                        <TextSelection>2418,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1276,7 +1276,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6329,0</TextSelection>
+                                        <TextSelection>3776,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1321,7 +1321,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1,0</TextSelection>
+                                        <TextSelection>4649,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1377" UUID="65EC35AA-64B4-4730-9E8E-1FD0158F8F19" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 14:25:02 -0700">
@@ -1375,7 +1375,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9108,0</TextSelection>
+                                        <TextSelection>3420,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1455,7 +1455,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>3385,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1381" UUID="AD924607-CE28-44FB-84EF-6EDF812498CA" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 14:26:19 -0700">
@@ -1528,14 +1528,14 @@
                                 <TextSelection>82,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1418" UUID="CD0B3FC3-4DD8-43F6-B80B-38A6E7A0C906" Type="Text" Created="2016-09-19 13:22:47 -0700" Modified="2016-09-21 14:26:28 -0700">
+                                <BinderItem ID="1418" UUID="CD0B3FC3-4DD8-43F6-B80B-38A6E7A0C906" Type="Text" Created="2016-09-19 13:22:47 -0700" Modified="2016-09-21 18:52:08 -0700">
                                     <Title>Chapter Thirty-Five</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7478,0</TextSelection>
+                                        <TextSelection>1042,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1383" UUID="20412B40-694C-4556-A7F0-9C24CF0C943B" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-20 18:32:53 -0700">
@@ -1575,7 +1575,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>103,46</TextSelection>
+                                        <TextSelection>6870,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1599,7 +1599,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8687,0</TextSelection>
+                                        <TextSelection>3721,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1384" UUID="319FEFF0-1E29-4BA7-83BA-870091D3D74D" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-21 14:27:09 -0700">
@@ -4312,6 +4312,457 @@
                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
             </MetaData>
         </BinderItem>
+        <BinderItem ID="17" UUID="5DD37D21-104E-40D9-991A-B6342FD4125B" Type="Folder" Created="2010-10-19 03:06:35 -0700" Modified="2010-10-19 03:06:51 -0700">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateID>21</DefaultChildTemplateID>
+            <Children>
+                <BinderItem ID="980" UUID="324C9C02-D236-4E23-AAD2-CE2A4DDB9B74" Type="Folder" Created="2016-01-25 18:51:56 -0800" Modified="2016-01-25 18:51:58 -0800">
+                    <Title>Main</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="63" UUID="8BB44DDA-4FA6-4402-9BB7-898FF06D11C8" Type="Text" Created="2013-05-01 08:25:44 -0700" Modified="2016-09-21 16:07:33 -0700">
+                            <Title>Jonathan Grimmer</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>5</StatusID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>48,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="103" UUID="BBFE596B-6822-48D0-953B-6CFFE2C20936" Type="Text" Created="2013-08-18 15:30:39 -0700" Modified="2016-09-21 16:15:51 -0700">
+                            <Title>Annabel Grey</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>36,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="109" UUID="DE6E1C63-0CA0-40A3-BE7C-C439E0FD3885" Type="Text" Created="2013-08-18 15:32:12 -0700" Modified="2016-09-21 16:17:38 -0700">
+                            <Title>Roderick Steen</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpeg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1343,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="982" UUID="B79B8706-C39C-481D-89DB-300813C629C2" Type="Folder" Created="2016-01-25 18:58:01 -0800" Modified="2016-01-25 18:58:03 -0800">
+                    <Title>Villains</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="92" UUID="54BAB517-7346-49F3-AAA2-9BA8878C7757" Type="Text" Created="2013-06-02 14:49:43 -0700" Modified="2015-05-02 12:29:07 -0700">
+                            <Title>Anthony Tidkins</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1361,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="97" UUID="1AA3C858-3B61-4173-AED2-65D3D779F501" Type="Text" Created="2013-05-24 10:06:29 -0700" Modified="2016-03-18 18:40:07 -0700">
+                            <Title>Dr. Jekyll</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>162,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1017" UUID="BE18302F-6047-4FA9-9AEE-A75634E26616" Type="Text" Created="2016-03-18 18:40:17 -0700" Modified="2016-03-18 18:40:23 -0700">
+                            <Title>Solomon Grundy</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>187,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1018" UUID="5AF033BE-6A8E-4BA6-BFB6-F9179010638A" Type="Text" Created="2016-03-18 18:40:26 -0700" Modified="2016-03-18 18:40:29 -0700">
+                            <Title>Mr. Hyde</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>187,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="101" UUID="DDD7D375-6271-424A-9775-9AD83D4B16AF" Type="Text" Created="2013-05-24 10:04:54 -0700" Modified="2016-09-21 16:19:15 -0700">
+                            <Title>Camille</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1173,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="981" UUID="49BED428-65D4-413E-B1E4-EF5953F4FCA6" Type="Folder" Created="2016-01-25 18:57:12 -0800" Modified="2016-01-25 18:57:14 -0800">
+                    <Title>Secondary</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="102" UUID="6985FAA5-A68A-4C56-9177-846D18808C8E" Type="Text" Created="2013-05-24 10:03:03 -0700" Modified="2015-05-02 12:29:07 -0700">
+                            <Title>Parson Sinews</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>32,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="99" UUID="8492753E-0DCC-4FED-9F01-A4F6714B4C1A" Type="Text" Created="2013-05-24 10:05:28 -0700" Modified="2016-09-21 16:21:12 -0700">
+                            <Title>Henri-Charles Ocelot</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>567,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="579" UUID="C248B4C1-387B-4E60-AEAA-B00F8EFF24C5" Type="Text" Created="2014-07-27 13:30:37 -0700" Modified="2016-09-21 16:22:24 -0700">
+                            <Title>Abraham Palmer</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>157,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="110" UUID="12DFF2D9-9707-4320-8B16-844EA68243ED" Type="Text" Created="2013-08-18 15:32:23 -0700" Modified="2015-01-02 13:16:48 -0800">
+                            <Title>Captain Merrick</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>129,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="105" UUID="3C3A17A9-FF10-403F-9EDD-D9AD16BC288E" Type="Text" Created="2013-08-18 15:31:10 -0700" Modified="2016-09-21 16:23:07 -0700">
+                            <Title>Kip</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>278,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1022" UUID="B8D3BD9D-854C-46D3-A39A-8BBB1AB5EA55" Type="Text" Created="2016-03-18 18:45:49 -0700" Modified="2016-03-18 18:45:55 -0700">
+                            <Title>Rémy Vaillancourt</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>187,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="577" UUID="94B5F4B0-E6BE-4842-B30E-A79FF7955CEF" Type="Text" Created="2014-07-27 13:27:39 -0700" Modified="2015-01-02 14:57:04 -0800">
+                            <Title>Bailey</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>85,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="578" UUID="32B87547-3D75-49B6-B58A-B4EFBD5EFBA7" Type="Text" Created="2014-07-27 13:30:24 -0700" Modified="2014-08-06 19:25:41 -0700">
+                            <Title>Inspector Taggert</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>56,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1019" UUID="21B5176F-B331-4643-B57F-74E80DB74E3E" Type="Text" Created="2016-03-18 18:43:51 -0700" Modified="2016-09-21 16:23:35 -0700">
+                            <Title>Constable Hargrave</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1020" UUID="82BF2453-C494-44FD-AB88-FEABC3A88FDE" Type="Text" Created="2016-03-18 18:44:07 -0700" Modified="2016-09-21 16:23:52 -0700">
+                            <Title>Mrs. Thompson</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="1021" UUID="3DAC0FF2-01E3-4B4E-AF50-9FBF9D758506" Type="Folder" Created="2016-03-18 18:44:47 -0700" Modified="2016-03-18 18:44:50 -0700">
+                    <Title>Deceased</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="580" UUID="A5CD7044-5316-4F44-B6D5-996BB90593B6" Type="Text" Created="2014-07-27 13:30:46 -0700" Modified="2014-11-23 13:07:21 -0800">
+                            <Title>Lord Henry Connor</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>85,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="688" UUID="74AC4364-74E0-4BFC-A96F-7262F708E72F" Type="Text" Created="2015-01-02 13:41:21 -0800" Modified="2015-01-02 13:41:40 -0800">
+                            <Title>Bertram Melbourne</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="978" UUID="7109D72E-ECC6-4C2E-A573-E0AC034744C7" Type="Folder" Created="2016-01-25 18:49:41 -0800" Modified="2016-01-25 18:49:44 -0800">
+                    <Title>Unused</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="94" UUID="D9CDE446-D2B7-42CF-BFAF-56690B858A1E" Type="Text" Created="2013-06-02 14:56:13 -0700" Modified="2015-12-20 14:10:34 -0800">
+                            <Title>Edward Steen</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>100,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="93" UUID="F3911162-D0ED-4EB4-8031-06103FA4F011" Type="Text" Created="2013-06-02 15:00:32 -0700" Modified="2015-12-20 14:10:34 -0800">
+                            <Title>Mrs. Hatton</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>369,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="584" UUID="0CA49F2D-C3B5-4EB4-8A32-E5E4C4BEFCAF" Type="Text" Created="2014-07-27 13:33:49 -0700" Modified="2015-05-02 12:29:07 -0700">
+                            <Title>Clotho</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1323,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="585" UUID="53EC9C85-5FBE-4EAF-A4D4-5F4F95E04599" Type="Text" Created="2014-07-27 13:33:58 -0700" Modified="2015-05-02 12:29:07 -0700">
+                            <Title>Lachesis</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1252,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="586" UUID="A7D8F1EE-511C-4DE7-BF04-3A274E6F45A8" Type="Text" Created="2014-07-27 13:34:07 -0700" Modified="2015-05-02 12:29:07 -0700">
+                            <Title>Atropos</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1386,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="107" UUID="0CEF6593-D66D-45AF-81F6-E71E7E5624F6" Type="Text" Created="2013-08-18 15:31:28 -0700" Modified="2014-07-27 13:43:05 -0700">
+                            <Title>Queen Victoria</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="100" UUID="AAA0D549-3090-44DD-B753-BBBEF9C904B6" Type="Text" Created="2013-05-24 10:04:54 -0700" Modified="2016-03-18 18:40:45 -0700">
+                            <Title>Camille</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="106" UUID="0A2CBCCF-9D92-470C-AB91-4E87B154AB3D" Type="Text" Created="2013-08-18 15:31:18 -0700" Modified="2015-01-02 13:17:51 -0800">
+                            <Title>Prof. Ashcroft</Title>
+                            <MetaData>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>230,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="104" UUID="C92386EC-37F3-488C-847D-6519A8B1D00B" Type="Text" Created="2013-08-18 15:30:57 -0700" Modified="2015-05-02 12:29:07 -0700">
+                            <Title>Mrs. Grimmer</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>220,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
         <BinderItem ID="51" UUID="29B90052-1446-4E69-8EA1-6265FD7CCB93" Type="Folder" Created="2013-05-24 10:01:43 -0700" Modified="2013-05-24 10:01:47 -0700">
             <Title>Outline</Title>
             <MetaData>
@@ -4772,484 +5223,6 @@
                             <TextSettings>
                                 <TextSelection>261,0</TextSelection>
                             </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="17" UUID="5DD37D21-104E-40D9-991A-B6342FD4125B" Type="Folder" Created="2010-10-19 03:06:35 -0700" Modified="2010-10-19 03:06:51 -0700">
-                    <Title>Characters</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <IconFileName>Characters (Photo).tiff</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <DefaultChildTemplateID>21</DefaultChildTemplateID>
-                    <Children>
-                        <BinderItem ID="980" UUID="324C9C02-D236-4E23-AAD2-CE2A4DDB9B74" Type="Folder" Created="2016-01-25 18:51:56 -0800" Modified="2016-01-25 18:51:58 -0800">
-                            <Title>Main</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Characters (Photo).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="103" UUID="BBFE596B-6822-48D0-953B-6CFFE2C20936" Type="Text" Created="2013-08-18 15:30:39 -0700" Modified="2016-03-12 12:48:43 -0800">
-                                    <Title>Annabel Grey</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3872,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="63" UUID="8BB44DDA-4FA6-4402-9BB7-898FF06D11C8" Type="Text" Created="2013-05-01 08:25:44 -0700" Modified="2016-03-12 12:59:05 -0800">
-                                    <Title>Jonathan Grimmer</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <StatusID>5</StatusID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>899,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="109" UUID="DE6E1C63-0CA0-40A3-BE7C-C439E0FD3885" Type="Text" Created="2013-08-18 15:32:12 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Roderick Steen</Title>
-                                    <MetaData>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpeg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="982" UUID="B79B8706-C39C-481D-89DB-300813C629C2" Type="Folder" Created="2016-01-25 18:58:01 -0800" Modified="2016-01-25 18:58:03 -0800">
-                            <Title>Villains</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Characters (Photo).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="92" UUID="54BAB517-7346-49F3-AAA2-9BA8878C7757" Type="Text" Created="2013-06-02 14:49:43 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Anthony Tidkins</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1361,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="97" UUID="1AA3C858-3B61-4173-AED2-65D3D779F501" Type="Text" Created="2013-05-24 10:06:29 -0700" Modified="2016-03-18 18:40:07 -0700">
-                                    <Title>Dr. Jekyll</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>162,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1017" UUID="BE18302F-6047-4FA9-9AEE-A75634E26616" Type="Text" Created="2016-03-18 18:40:17 -0700" Modified="2016-03-18 18:40:23 -0700">
-                                    <Title>Solomon Grundy</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>187,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1018" UUID="5AF033BE-6A8E-4BA6-BFB6-F9179010638A" Type="Text" Created="2016-03-18 18:40:26 -0700" Modified="2016-03-18 18:40:29 -0700">
-                                    <Title>Mr. Hyde</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>187,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="101" UUID="DDD7D375-6271-424A-9775-9AD83D4B16AF" Type="Text" Created="2013-05-24 10:04:54 -0700" Modified="2016-03-18 18:43:05 -0700">
-                                    <Title>Camille</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1277,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="981" UUID="49BED428-65D4-413E-B1E4-EF5953F4FCA6" Type="Folder" Created="2016-01-25 18:57:12 -0800" Modified="2016-01-25 18:57:14 -0800">
-                            <Title>Secondary</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Characters (Photo).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="102" UUID="6985FAA5-A68A-4C56-9177-846D18808C8E" Type="Text" Created="2013-05-24 10:03:03 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Parson Sinews</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>32,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="99" UUID="8492753E-0DCC-4FED-9F01-A4F6714B4C1A" Type="Text" Created="2013-05-24 10:05:28 -0700" Modified="2016-01-25 18:50:01 -0800">
-                                    <Title>Henry Charles Ocelot</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1738,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="579" UUID="C248B4C1-387B-4E60-AEAA-B00F8EFF24C5" Type="Text" Created="2014-07-27 13:30:37 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Abraham Palmer</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="110" UUID="12DFF2D9-9707-4320-8B16-844EA68243ED" Type="Text" Created="2013-08-18 15:32:23 -0700" Modified="2015-01-02 13:16:48 -0800">
-                                    <Title>Captain Merrick</Title>
-                                    <MetaData>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>129,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="979" UUID="5A55CED0-E32F-4C8A-95A7-EE3A6D5F7804" Type="Text" Created="2016-01-25 18:51:42 -0800" Modified="2016-03-19 12:58:11 -0700">
-                                    <Title>Clem</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>358,4</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="105" UUID="3C3A17A9-FF10-403F-9EDD-D9AD16BC288E" Type="Text" Created="2013-08-18 15:31:10 -0700" Modified="2016-03-18 18:45:46 -0700">
-                                    <Title>Kip</Title>
-                                    <MetaData>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>149,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1022" UUID="B8D3BD9D-854C-46D3-A39A-8BBB1AB5EA55" Type="Text" Created="2016-03-18 18:45:49 -0700" Modified="2016-03-18 18:45:55 -0700">
-                                    <Title>Rémy Vaillancourt</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>187,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="577" UUID="94B5F4B0-E6BE-4842-B30E-A79FF7955CEF" Type="Text" Created="2014-07-27 13:27:39 -0700" Modified="2015-01-02 14:57:04 -0800">
-                                    <Title>Bailey</Title>
-                                    <MetaData>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>85,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="578" UUID="32B87547-3D75-49B6-B58A-B4EFBD5EFBA7" Type="Text" Created="2014-07-27 13:30:24 -0700" Modified="2014-08-06 19:25:41 -0700">
-                                    <Title>Inspector Taggert</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>56,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1019" UUID="21B5176F-B331-4643-B57F-74E80DB74E3E" Type="Text" Created="2016-03-18 18:43:51 -0700" Modified="2016-03-18 18:46:16 -0700">
-                                    <Title>Constable Hargrave</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>187,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1020" UUID="82BF2453-C494-44FD-AB88-FEABC3A88FDE" Type="Text" Created="2016-03-18 18:44:07 -0700" Modified="2016-03-18 18:44:10 -0700">
-                                    <Title>Mrs. Thompson</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>187,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1024" UUID="0F43677D-1510-4FEF-B3CA-F4A06813ECD3" Type="Text" Created="2016-03-18 18:46:51 -0700" Modified="2016-03-18 18:46:54 -0700">
-                                    <Title>Miss Marhsall</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>187,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="1021" UUID="3DAC0FF2-01E3-4B4E-AF50-9FBF9D758506" Type="Folder" Created="2016-03-18 18:44:47 -0700" Modified="2016-03-18 18:44:50 -0700">
-                            <Title>Deceased</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Characters (Photo).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="580" UUID="A5CD7044-5316-4F44-B6D5-996BB90593B6" Type="Text" Created="2014-07-27 13:30:46 -0700" Modified="2014-11-23 13:07:21 -0800">
-                                    <Title>Lord Henry Connor</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>85,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="688" UUID="74AC4364-74E0-4BFC-A96F-7262F708E72F" Type="Text" Created="2015-01-02 13:41:21 -0800" Modified="2015-01-02 13:41:40 -0800">
-                                    <Title>Bertram Melbourne</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>17,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="978" UUID="7109D72E-ECC6-4C2E-A573-E0AC034744C7" Type="Folder" Created="2016-01-25 18:49:41 -0800" Modified="2016-01-25 18:49:44 -0800">
-                            <Title>Unused</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <IconFileName>Characters (Photo).tiff</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="94" UUID="D9CDE446-D2B7-42CF-BFAF-56690B858A1E" Type="Text" Created="2013-06-02 14:56:13 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Edward Steen</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>100,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="93" UUID="F3911162-D0ED-4EB4-8031-06103FA4F011" Type="Text" Created="2013-06-02 15:00:32 -0700" Modified="2015-12-20 14:10:34 -0800">
-                                    <Title>Mrs. Hatton</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>369,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="584" UUID="0CA49F2D-C3B5-4EB4-8A32-E5E4C4BEFCAF" Type="Text" Created="2014-07-27 13:33:49 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Clotho</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1323,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="585" UUID="53EC9C85-5FBE-4EAF-A4D4-5F4F95E04599" Type="Text" Created="2014-07-27 13:33:58 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Lachesis</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1252,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="586" UUID="A7D8F1EE-511C-4DE7-BF04-3A274E6F45A8" Type="Text" Created="2014-07-27 13:34:07 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Atropos</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1386,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="107" UUID="0CEF6593-D66D-45AF-81F6-E71E7E5624F6" Type="Text" Created="2013-08-18 15:31:28 -0700" Modified="2014-07-27 13:43:05 -0700">
-                                    <Title>Queen Victoria</Title>
-                                    <MetaData>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="100" UUID="AAA0D549-3090-44DD-B753-BBBEF9C904B6" Type="Text" Created="2013-05-24 10:04:54 -0700" Modified="2016-03-18 18:40:45 -0700">
-                                    <Title>Camille</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="106" UUID="0A2CBCCF-9D92-470C-AB91-4E87B154AB3D" Type="Text" Created="2013-08-18 15:31:18 -0700" Modified="2015-01-02 13:17:51 -0800">
-                                    <Title>Prof. Ashcroft</Title>
-                                    <MetaData>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>230,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="104" UUID="C92386EC-37F3-488C-847D-6519A8B1D00B" Type="Text" Created="2013-08-18 15:30:57 -0700" Modified="2015-05-02 12:29:07 -0700">
-                                    <Title>Mrs. Grimmer</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                        <IndexCardImageFileExtension>PNG</IndexCardImageFileExtension>
-                                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>220,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -10268,6 +10241,33 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="979" UUID="5A55CED0-E32F-4C8A-95A7-EE3A6D5F7804" Type="Text" Created="2016-01-25 18:51:42 -0800" Modified="2016-03-19 12:58:11 -0700">
+                    <Title>Clem</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>jpg</IndexCardImageFileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>358,4</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1024" UUID="0F43677D-1510-4FEF-B3CA-F4A06813ECD3" Type="Text" Created="2016-03-18 18:46:51 -0700" Modified="2016-03-18 18:46:54 -0700">
+                    <Title>Miss Marhsall</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>187,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="1095" UUID="BBE901E2-801B-4DD6-9539-C11C38159EA8" Type="Folder" Created="2016-09-19 10:43:45 -0700" Modified="2016-09-19 10:43:47 -0700">
@@ -14308,7 +14308,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="Text" Scope="Draft" CaseSensitive="No">Monday</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No">sable</SearchSettings>
         </Collection>
     </Collections>
     <Keywords>
@@ -14367,7 +14367,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">95000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">1000</SessionTarget>
-        <PreviousSession Words="34" Characters="303" Date="2016-09-21 10:00:57 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-09-21 15:38:39 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
