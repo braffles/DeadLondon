@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Bryce-Raffles-iMac" Modified="2016-09-23 01:01:17 -0700" ModID="E9658B7B-954C-465A-96EB-4CD475E4BB1A">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-09-23 12:24:41 -0700" ModID="B5E79A8E-B5BB-4DC9-A187-C4AC34234D3B">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-09-21 10:01:12 -0700">
             <Title>Dead London</Title>
@@ -28,17 +28,38 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>6764,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1551" UUID="AB5CB1C0-BCE0-4AAE-A7C2-4C61F90BAFE0" Type="Text" Created="2016-09-22 13:08:02 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1551" UUID="AB5CB1C0-BCE0-4AAE-A7C2-4C61F90BAFE0" Type="Text" Created="2016-09-22 13:08:02 -0700" Modified="2016-09-23 12:12:41 -0700">
                                     <Title>If you want to beat a</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6068,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="1334" UUID="68BAF838-C58B-48ED-9A20-3C34EDC75453" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 12:24:41 -0700">
+                                    <Title>As Jonathan Grimmer stepped down onto solid ground</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6110,0</TextSelection>
+                                        <TextSelection>1352,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="1335" UUID="827D4F23-9701-4B44-9C9A-011522C2512F" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                    <Title>Annabel Grey was perhaps the exception to that rul...</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2950,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -61,64 +82,37 @@
                                 <TextSelection>117,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1334" UUID="68BAF838-C58B-48ED-9A20-3C34EDC75453" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
-                                    <Title>When he regained consciousness, there was a man wi...</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2579,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1335" UUID="827D4F23-9701-4B44-9C9A-011522C2512F" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
-                                    <Title>Annabel Grey was perhaps the exception to that rul...</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2000,4</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1336" UUID="5E1BFBE7-0043-421F-9E7A-C3A11D814C33" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1336" UUID="5E1BFBE7-0043-421F-9E7A-C3A11D814C33" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:57:35 -0700">
                                     <Title>“Well, that was rude,” said Grundy. “Anyway, I und...</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6601,0</TextSelection>
+                                        <TextSelection>5256,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1337" UUID="4B2D898A-B4AF-4C09-9A67-FBBE4BC94EFC" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1337" UUID="4B2D898A-B4AF-4C09-9A67-FBBE4BC94EFC" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:57:31 -0700">
                                     <Title>Quickly, moving through the crowd, she crossed the...</Title>
                                     <MetaData>
+                                        <LabelID>7</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5462,4</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1338" UUID="E217D3F4-0A9B-4540-BAB4-8F0D024988C0" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1338" UUID="E217D3F4-0A9B-4540-BAB4-8F0D024988C0" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:58:11 -0700">
                                     <Title>He was sure the invitation had been in his pocket....</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>54,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1339" UUID="C3157B10-B7A8-46FD-BE85-A0B02E35DB2A" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
-                                    <Title>There was a locked gate to one side of the stairca...</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>17,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -141,7 +135,7 @@
                                 <TextSelection>74,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1341" UUID="CD418FDB-19F7-4EEC-BDCD-BA3520FBDF52" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1341" UUID="CD418FDB-19F7-4EEC-BDCD-BA3520FBDF52" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:55:39 -0700">
                                     <Title>The moment she heard the click of the latch, she A...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -191,14 +185,14 @@
                                         <TextSelection>124,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1343" UUID="94AD0A75-D16E-49B2-A5C0-2E9295B07920" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 20:59:54 -0700">
+                                <BinderItem ID="1343" UUID="94AD0A75-D16E-49B2-A5C0-2E9295B07920" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:36:26 -0700">
                                     <Title>He looked out the window, down at the city below. ...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>469,0</TextSelection>
+                                        <TextSelection>1948,17</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -221,14 +215,14 @@
                                 <TextSelection>145,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1388" UUID="EEF386EA-65FF-4E02-8D07-829F97FAC2E8" Type="Text" Created="2016-09-19 13:01:54 -0700" Modified="2016-09-23 01:01:17 -0700">
+                                <BinderItem ID="1388" UUID="EEF386EA-65FF-4E02-8D07-829F97FAC2E8" Type="Text" Created="2016-09-19 13:01:54 -0700" Modified="2016-09-23 10:50:34 -0700">
                                     <Title>Annabel slipped silently into the revolving ballroom</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5874,4</TextSelection>
+                                        <TextSelection>5627,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -298,7 +292,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>126,0</TextSelection>
+                                        <TextSelection>7579,3</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -321,24 +315,24 @@
                                 <TextSelection>11033,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1391" UUID="2DA04FA9-39B1-44FF-AD9A-2A8D4BF6DB71" Type="Text" Created="2016-09-19 13:04:24 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1391" UUID="2DA04FA9-39B1-44FF-AD9A-2A8D4BF6DB71" Type="Text" Created="2016-09-19 13:04:24 -0700" Modified="2016-09-23 11:36:33 -0700">
                                     <Title>Jonathan had grown tired of traveling by airship and</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6668,4</TextSelection>
+                                        <TextSelection>104,7</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1345" UUID="04E1D409-1667-418D-960B-B93F44062BD4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1345" UUID="04E1D409-1667-418D-960B-B93F44062BD4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 12:14:09 -0700">
                                     <Title>The ride to Lord Connor’s mansion was not long. Ro...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3980,0</TextSelection>
+                                        <TextSelection>3258,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1346" UUID="61BC8707-6127-407F-94ED-D17C6CFF26E8" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
@@ -391,14 +385,14 @@
                                         <TextSelection>11077,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1348" UUID="9AE66BA6-5370-40DD-A6C8-E7F76BC895BB" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1348" UUID="9AE66BA6-5370-40DD-A6C8-E7F76BC895BB" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:36:53 -0700">
                                     <Title>Jonathan stepped out into the rain. He had no umbr...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6279,0</TextSelection>
+                                        <TextSelection>643,7</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -471,14 +465,14 @@
                                         <TextSelection>5092,33</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1350" UUID="80A2B146-783C-4B16-97B6-82985EAA5DA6" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1350" UUID="80A2B146-783C-4B16-97B6-82985EAA5DA6" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:37:45 -0700">
                                     <Title>Jonathan aimed at the sky and fired the flare. An ...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1215,0</TextSelection>
+                                        <TextSelection>2504,7</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1351" UUID="87A70ED4-FE8F-424B-B6C4-12ABA01B77E1" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
@@ -549,7 +543,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8431,0</TextSelection>
+                                        <TextSelection>3027,3</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1353" UUID="2923DD10-F9DD-40F7-818B-0EDDB8D6ED10" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 19:11:15 -0700">
@@ -622,14 +616,14 @@
                                 <TextSelection>63,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1397" UUID="3BC51020-7F8C-41CE-8E79-F4825BB75793" Type="Text" Created="2016-09-19 13:13:59 -0700" Modified="2016-09-22 14:44:23 -0700">
+                                <BinderItem ID="1397" UUID="3BC51020-7F8C-41CE-8E79-F4825BB75793" Type="Text" Created="2016-09-19 13:13:59 -0700" Modified="2016-09-23 11:45:27 -0700">
                                     <Title>Chapter Fourteen</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7248,0</TextSelection>
+                                        <TextSelection>5060,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1355" UUID="CE412CFB-0A9A-41B3-8192-6B7FEAB9A08B" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:23 -0700">
@@ -1101,14 +1095,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1407" UUID="9B02518E-A5A8-49C3-A5CB-AC8FEB6FBB72" Type="Text" Created="2016-09-19 13:18:57 -0700" Modified="2016-09-22 14:44:24 -0700">
+                                <BinderItem ID="1407" UUID="9B02518E-A5A8-49C3-A5CB-AC8FEB6FBB72" Type="Text" Created="2016-09-19 13:18:57 -0700" Modified="2016-09-23 11:46:38 -0700">
                                     <Title>Chapter Twenty-Four</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>4625,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1131,24 +1125,24 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1408" UUID="85B51BBF-E545-41F6-9F49-341B42311D14" Type="Text" Created="2016-09-19 13:19:08 -0700" Modified="2016-09-22 14:44:24 -0700">
+                                <BinderItem ID="1408" UUID="85B51BBF-E545-41F6-9F49-341B42311D14" Type="Text" Created="2016-09-19 13:19:08 -0700" Modified="2016-09-23 11:47:18 -0700">
                                     <Title>Chapter Twenty-Five</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>10495,0</TextSelection>
+                                        <TextSelection>1613,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1373" UUID="87722D52-0A3A-447B-817E-2E738585D9A4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 20:22:48 -0700">
+                                <BinderItem ID="1373" UUID="87722D52-0A3A-447B-817E-2E738585D9A4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 12:17:20 -0700">
                                     <Title>“I was a much younger woman back then—a girl, real...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1181,0</TextSelection>
+                                        <TextSelection>3704,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1178,7 +1172,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5093,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1374" UUID="27A18B35-226A-4014-AF2C-5FF817293BD6" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 20:24:51 -0700">
@@ -1387,7 +1381,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9374,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1378" UUID="D5673BDE-0F89-49CA-A366-87E6AAB16279" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-22 14:44:39 -0700">
@@ -1667,7 +1661,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="977" UUID="DC861C99-2D03-499B-B91C-A71CFAC8697C" Type="Text" Created="2016-01-23 17:10:40 -0800" Modified="2016-09-22 14:44:39 -0700">
+                                <BinderItem ID="977" UUID="DC861C99-2D03-499B-B91C-A71CFAC8697C" Type="Text" Created="2016-01-23 17:10:40 -0800" Modified="2016-09-23 11:42:36 -0700">
                                     <Title>Scene</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1675,7 +1669,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8486,0</TextSelection>
+                                        <TextSelection>13,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -10290,6 +10284,27 @@
                         <TextSelection>187,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="1552" UUID="01830CA1-D231-4FE8-B986-E1DA234660AE" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:51:03 -0700">
+                    <Title></Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>560,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1339" UUID="C3157B10-B7A8-46FD-BE85-A0B02E35DB2A" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-23 11:58:11 -0700">
+                    <Title>Rewrite from Jonathan's POV</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="1095" UUID="BBE901E2-801B-4DD6-9539-C11C38159EA8" Type="Folder" Created="2016-09-19 10:43:45 -0700" Modified="2016-09-19 10:43:47 -0700">
@@ -14330,7 +14345,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No">alright</SearchSettings>
+            <SearchSettings Operator="Exact" Type="Text" Scope="Draft" CaseSensitive="No">Karnstein</SearchSettings>
         </Collection>
     </Collections>
     <Keywords>
@@ -14389,7 +14404,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">95000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">1000</SessionTarget>
-        <PreviousSession Words="0" Characters="7" Date="2016-09-23 01:00:53 -0700"></PreviousSession>
+        <PreviousSession Words="169" Characters="964" Date="2016-09-23 10:06:20 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
