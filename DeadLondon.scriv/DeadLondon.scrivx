@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-10-30 16:25:19 -0700" ModID="E7C09DE6-3833-4808-A2D5-E5B13CFCC937">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Bryce-Raffles-iMac" Modified="2016-10-30 17:02:15 -0700" ModID="C3CEDEE3-BF6C-4AAF-A99B-72A777D86496">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-09-21 10:01:12 -0700">
             <Title>Dead London</Title>
@@ -1111,7 +1111,7 @@
                                 <TextSelection>1650,3</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1415" UUID="854D6000-07BB-456E-B9BE-816286079F62" Type="Text" Created="2016-09-19 13:22:05 -0700" Modified="2016-10-30 16:25:05 -0700">
+                                <BinderItem ID="1415" UUID="854D6000-07BB-456E-B9BE-816286079F62" Type="Text" Created="2016-09-19 13:22:05 -0700" Modified="2016-10-30 16:59:33 -0700">
                                     <Title>Annabel had chosen the least pleasant way into the underground facility.</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -1119,18 +1119,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>961,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1379" UUID="5207D7EA-3CE3-478B-A6AC-7871CD54B0A4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-10-30 16:04:31 -0700">
-                                    <Title>Jonathan sat up, nursing an awful headache. He bli...</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <StatusID>1</StatusID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>7158,0</TextSelection>
+                                        <TextSelection>4142,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1153,24 +1142,14 @@
                                 <TextSelection>221,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1380" UUID="40D4D18F-9DEA-456A-BB27-2A2C6EFF2B36" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-10-30 16:22:37 -0700">
-                                    <Title>Annabel Grey, better known as Miss Monday, crept a...</Title>
-                                    <MetaData>
-                                        <LabelID>7</LabelID>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="1381" UUID="AD924607-CE28-44FB-84EF-6EDF812498CA" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-10-30 16:23:06 -0700">
+                                <BinderItem ID="1381" UUID="AD924607-CE28-44FB-84EF-6EDF812498CA" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-10-30 17:02:15 -0700">
                                     <Title>Rung after rung, Jonathan descended the rope ladde...</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>688,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1232,7 +1211,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>892,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1383" UUID="20412B40-694C-4556-A7F0-9C24CF0C943B" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-10-22 14:21:06 -0700">
@@ -13709,7 +13688,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>5093,0</TextSelection>
+                                                <TextSelection>3258,1272</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="1511" UUID="40DF2038-77B4-40E7-859A-C05221534D88" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-09-20 17:28:23 -0700">
@@ -14383,6 +14362,28 @@
                                 <TextSelection>606,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="1380" UUID="40D4D18F-9DEA-456A-BB27-2A2C6EFF2B36" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-10-30 16:58:23 -0700">
+                            <Title>Annabel Grey, better known as Miss Monday, crept a...</Title>
+                            <MetaData>
+                                <LabelID>7</LabelID>
+                                <StatusID>11</StatusID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="1379" UUID="5207D7EA-3CE3-478B-A6AC-7871CD54B0A4" Type="Text" Created="2016-09-19 10:40:40 -0700" Modified="2016-10-30 16:04:31 -0700">
+                            <Title>Jonathan sat up, nursing an awful headache. He bli...</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6974,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
             </Children>
@@ -14670,7 +14671,7 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.901961 0.901961">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.962266 0.962266 0.962266">
             <Title>Binder</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
@@ -14733,7 +14734,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">80000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">1000</SessionTarget>
-        <PreviousSession Words="45" Characters="268" Date="2016-10-30 13:13:49 -0700"></PreviousSession>
+        <PreviousSession Words="204" Characters="1124" Date="2016-10-30 16:42:16 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
